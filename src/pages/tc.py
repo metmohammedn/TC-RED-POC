@@ -499,6 +499,70 @@ def layout():
                     html.Div(id="cyclone-impacts-container"),
                 ],
             ),
+            # Custom Location Gale Calculator
+            dmc.Paper(
+                shadow="sm", p="md", radius="md",
+                style={"backgroundColor": "#111827", "border": "1px solid #1e293b"},
+                children=[
+                    dmc.Group(
+                        gap="xs", mb="sm",
+                        children=[
+                            DashIconify(icon="tabler:map-pin-plus", width=18, color="#ef4444"),
+                            dmc.Text("Custom Location — Time to Gales", size="sm", fw=600, c="dimmed"),
+                        ],
+                    ),
+                    dmc.Text(
+                        "Enter any coordinates (and optional radius) to estimate "
+                        "when gale-force winds will reach that location.",
+                        size="xs", c="#64748b", mb="sm",
+                    ),
+                    dmc.Group(
+                        gap="sm",
+                        wrap="wrap",
+                        align="flex-end",
+                        children=[
+                            dmc.NumberInput(
+                                id="custom-gale-lat",
+                                label="Latitude",
+                                placeholder="-20.0",
+                                decimalScale=4,
+                                step=0.1,
+                                w={"base": "100%", "xs": 140},
+                                styles=_INPUT_STYLE,
+                            ),
+                            dmc.NumberInput(
+                                id="custom-gale-lon",
+                                label="Longitude",
+                                placeholder="116.0",
+                                decimalScale=4,
+                                step=0.1,
+                                w={"base": "100%", "xs": 140},
+                                styles=_INPUT_STYLE,
+                            ),
+                            dmc.NumberInput(
+                                id="custom-gale-radius",
+                                label="Radius (km, optional)",
+                                placeholder="0",
+                                min=0,
+                                decimalScale=1,
+                                step=10,
+                                w={"base": "100%", "xs": 160},
+                                styles=_INPUT_STYLE,
+                            ),
+                            dmc.Button(
+                                "Calculate",
+                                id="custom-gale-calc-btn",
+                                leftSection=DashIconify(icon="tabler:calculator", width=16),
+                                color="red",
+                                variant="light",
+                                size="sm",
+                                n_clicks=0,
+                            ),
+                        ],
+                    ),
+                    html.Div(id="custom-gale-result", style={"marginTop": "12px"}),
+                ],
+            ),
             # About Gale Arrival Times
             dmc.Accordion(
                 variant="separated",
@@ -1323,3 +1387,129 @@ def reset_map_view(n_clicks):
     if not n_clicks:
         return no_update
     return None
+
+
+# Custom location gale arrival calculator
+@callback(
+    Output("custom-gale-result", "children"),
+    Input("custom-gale-calc-btn", "n_clicks"),
+    State("custom-gale-lat", "value"),
+    State("custom-gale-lon", "value"),
+    State("custom-gale-radius", "value"),
+    State("cyclone-advisory-select", "value"),
+    prevent_initial_call=True,
+)
+def calculate_custom_gale_arrival(n_clicks, lat, lon, radius_km, advisory_filename):
+    if not n_clicks:
+        return no_update
+
+    if lat is None or lon is None:
+        return dmc.Alert(
+            "Please enter both latitude and longitude.",
+            color="yellow", variant="light", icon=DashIconify(icon="tabler:alert-triangle"),
+        )
+
+    if not advisory_filename:
+        return dmc.Alert(
+            "Please select a system and advisory first.",
+            color="yellow", variant="light", icon=DashIconify(icon="tabler:alert-triangle"),
+        )
+
+    from src.services.tc_service import (
+        get_system_data, calculate_gale_arrival, extract_fix_points,
+        extract_summary, haversine, convert_utc_to_local,
+    )
+
+    data = get_system_data(advisory_filename)
+    if not data:
+        return dmc.Alert("Failed to load advisory data.", color="red", variant="light")
+
+    ring_km = float(radius_km) if radius_km else 0.0
+    ga = calculate_gale_arrival(data, float(lat), float(lon), range_ring_km=ring_km)
+
+    # Distance from TC to custom location
+    fix_points = extract_fix_points(data)
+    analysis_pts = [p for p in fix_points if p.get("type") == "Analysis"]
+    dist_str = ""
+    if analysis_pts:
+        latest = analysis_pts[-1]
+        dist = haversine(latest["lat"], latest["lon"], float(lat), float(lon))
+        dist_nm = dist / 1.852
+        dist_str = f"{dist:.0f} km ({dist_nm:.0f} nm)"
+
+    summary = extract_summary(data)
+    issue_time_utc = summary.get("issueTime", "")
+
+    # Format lat/lon
+    lat_val = float(lat)
+    lon_val = float(lon)
+    lat_dir = "S" if lat_val < 0 else "N"
+    lon_dir = "E" if lon_val > 0 else "W"
+    coord_str = f"{abs(lat_val):.4f}{lat_dir} {abs(lon_val):.4f}{lon_dir}"
+
+    result_children = [
+        dmc.Divider(color="dark.5", my="xs"),
+        dmc.Group(gap="sm", children=[
+            DashIconify(icon="tabler:map-pin", width=16, color="#4ECDC4"),
+            dmc.Text(coord_str, size="sm", fw=600, c="white"),
+        ]),
+    ]
+
+    if dist_str:
+        result_children.append(
+            dmc.Text(f"Distance from TC: {dist_str}", size="xs", c="#94a3b8")
+        )
+
+    if ring_km > 0:
+        result_children.append(
+            dmc.Text(f"Trigger radius: {ring_km:.1f} km", size="xs", c="#94a3b8")
+        )
+
+    if ga is None:
+        result_children.append(
+            dmc.Text(
+                "Gales: not forecast to reach this location",
+                size="sm", c="#64748b", fs="italic", mt="xs",
+            )
+        )
+    elif ga.get("already_inside"):
+        result_children.extend([
+            dmc.Badge(
+                "GALES ALREADY WITHIN RANGE",
+                color="red", variant="filled", size="sm", mt="xs",
+            ),
+        ])
+    else:
+        local = convert_utc_to_local(ga["arrival_utc"], lon_val, lat_val)
+        arrival_str = f"{local['formatted']} {local['timezone']}"
+
+        countdown_str = ""
+        try:
+            arrival_dt = datetime.fromisoformat(ga["arrival_utc"].replace("Z", "+00:00"))
+            if issue_time_utc:
+                ref_dt = datetime.fromisoformat(issue_time_utc.replace("Z", "+00:00"))
+                hours_away = (arrival_dt - ref_dt).total_seconds() / 3600.0
+                if hours_away >= 0:
+                    countdown_str = f"~{hours_away:.0f} hours from advisory time"
+        except Exception:
+            pass
+
+        result_children.extend([
+            dmc.Text("Est. Gale Arrival", size="xs", fw=600, c="#ef4444", mt="xs"),
+            dmc.Text(arrival_str, size="sm", fw=600, c="white"),
+        ])
+
+        if countdown_str:
+            result_children.append(dmc.Text(countdown_str, size="xs", fw=500, c="#f59e0b"))
+
+        if ga.get("interpolated"):
+            b1 = convert_utc_to_local(ga["bracket_before_utc"], lon_val, lat_val)
+            b2 = convert_utc_to_local(ga["bracket_after_utc"], lon_val, lat_val)
+            result_children.append(
+                dmc.Text(
+                    f"Interpolated between {b1['time_only']} and {b2['time_only']}",
+                    size="xs", c="#64748b", fs="italic",
+                )
+            )
+
+    return dmc.Stack(gap=4, children=result_children)

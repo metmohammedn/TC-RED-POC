@@ -1,0 +1,84 @@
+{
+  "user_name": "Shell - Browse",
+  "locations": [
+    {
+      "name": "Prelude",
+      "lat": -13.82,
+      "lon": 123.33,
+      "type": "offshore",
+      "cat1_threshold": 300,
+      "cat2_threshold": 300,
+      "cat3_threshold": 500,
+      "cat4_threshold": 500,
+      "cat5_threshold": 500,
+      "range_rings": [
+        185.20000000000002,
+        740.8000000000001,
+        1111.2
+      ]
+    },
+    {
+      "name": "Crux",
+      "lat": -12.964,
+      "lon": 124.442,
+      "type": "offshore",
+      "cat1_threshold": 300,
+      "cat2_threshold": 300,
+      "cat3_threshold": 500,
+      "cat4_threshold": 500,
+      "cat5_threshold": 500,
+      "range_rings": [
+        185.20000000000002,
+        740.8000000000001
+      ]
+    },
+    {
+      "name": "Broome Airport",
+      "lat": -17.948,
+      "lon": 122.227,
+      "type": "city",
+      "cat1_threshold": 300,
+      "cat2_threshold": 300,
+      "cat3_threshold": 500,
+      "cat4_threshold": 500,
+      "cat5_threshold": 500,
+      "plot_only": true
+    },
+    {
+      "name": "Djarajin Airport",
+      "lat": -16.515,
+      "lon": 122.924,
+      "type": "city",
+      "cat1_threshold": 300,
+      "cat2_threshold": 300,
+      "cat3_threshold": 500,
+      "cat4_threshold": 500,
+      "cat5_threshold": 500,
+      "plot_only": true
+    },
+    {
+      "name": "Darwin Airport",
+      "lat": -12.413,
+      "lon": 130.878,
+      "type": "city",
+      "cat1_threshold": 300,
+      "cat2_threshold": 300,
+      "cat3_threshold": 500,
+      "cat4_threshold": 500,
+      "cat5_threshold": 500,
+      "plot_only": true
+    },
+    {
+      "name": "Truscott Airport",
+      "lat": -14.09,
+      "lon": 126.386,
+      "type": "city",
+      "cat1_threshold": 300,
+      "cat2_threshold": 300,
+      "cat3_threshold": 500,
+      "cat4_threshold": 500,
+      "cat5_threshold": 500,
+      "plot_only": true
+    }
+  ]
+}

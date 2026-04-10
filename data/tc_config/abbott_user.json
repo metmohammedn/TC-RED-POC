@@ -1,0 +1,19 @@
+{
+  "user_name": "Abbot Point Bulkcoal",
+  "locations": [
+    {
+      "name": "Abbot Point",
+      "lat": -19.89,
+      "lon": 148.08,
+      "type": "offshore",
+      "cat1_threshold": 300,
+      "cat2_threshold": 300,
+      "cat3_threshold": 500,
+      "cat4_threshold": 500,
+      "cat5_threshold": 500,
+      "range_rings": [
+        463.0
+      ]
+    }
+  ]
+}

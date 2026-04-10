@@ -1,0 +1,47 @@
+{
+  "user_name": "Pilbara Ports",
+  "locations": [
+    {
+      "name": "Port Hedland",
+      "lat": -20.3,
+      "lon": 118.5,
+      "type": "offshore",
+      "cat1_threshold": 300,
+      "cat2_threshold": 300,
+      "cat3_threshold": 500,
+      "cat4_threshold": 500,
+      "cat5_threshold": 500,
+      "range_rings": [
+        185.20000000000002
+      ]
+    },
+    {
+      "name": "Dampier",
+      "lat": -20.6,
+      "lon": 116.7,
+      "type": "offshore",
+      "cat1_threshold": 300,
+      "cat2_threshold": 300,
+      "cat3_threshold": 500,
+      "cat4_threshold": 500,
+      "cat5_threshold": 500,
+      "range_rings": [
+        185.20000000000002
+      ]
+    },
+    {
+      "name": "Ashburton",
+      "lat": -21.6,
+      "lon": 115.0,
+      "type": "offshore",
+      "cat1_threshold": 300,
+      "cat2_threshold": 300,
+      "cat3_threshold": 500,
+      "cat4_threshold": 500,
+      "cat5_threshold": 500,
+      "range_rings": [
+        185.20000000000002
+      ]
+    }
+  ]
+}

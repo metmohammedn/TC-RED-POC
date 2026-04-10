@@ -1,0 +1,19 @@
+{
+  "user_name": "Koolan Iron Ore",
+  "locations": [
+    {
+      "name": "Koolan Island",
+      "lat": -16.13,
+      "lon": 123.78,
+      "type": "offshore",
+      "cat1_threshold": 300,
+      "cat2_threshold": 300,
+      "cat3_threshold": 500,
+      "cat4_threshold": 500,
+      "cat5_threshold": 500,
+      "range_rings": [
+        463.0
+      ]
+    }
+  ]
+}

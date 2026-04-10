@@ -1,0 +1,16 @@
+{
+  "user_name": "CITIC Pacific Mining",
+  "locations": [
+    {
+      "name": "Cape Preston",
+      "lat": -20.67,
+      "lon": 116.17,
+      "type": "offshore",
+      "cat1_threshold": 300,
+      "cat2_threshold": 300,
+      "cat3_threshold": 500,
+      "cat4_threshold": 500,
+      "cat5_threshold": 500
+    }
+  ]
+}

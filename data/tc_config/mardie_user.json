@@ -1,0 +1,19 @@
+{
+  "user_name": "Mardie Minerals (BCI Minerals)",
+  "locations": [
+    {
+      "name": "BCI Mardie",
+      "lat": -21.2,
+      "lon": 115.93,
+      "type": "offshore",
+      "cat1_threshold": 300,
+      "cat2_threshold": 300,
+      "cat3_threshold": 500,
+      "cat4_threshold": 500,
+      "cat5_threshold": 500,
+      "range_rings": [
+        100
+      ]
+    }
+  ]
+}

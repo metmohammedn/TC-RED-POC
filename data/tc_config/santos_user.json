@@ -1,0 +1,109 @@
+{
+  "user_name": "Santos",
+  "locations": [
+    {
+      "name": "Varanus Island",
+      "lat": -20.65,
+      "lon": 115.58,
+      "type": "offshore",
+      "cat1_threshold": 300,
+      "cat2_threshold": 300,
+      "cat3_threshold": 500,
+      "cat4_threshold": 500,
+      "cat5_threshold": 500,
+      "range_rings": [
+        185.20000000000002,
+        370.40000000000003,
+        740.8000000000001
+      ]
+    },
+    {
+      "name": "Barossa",
+      "lat": -9.86,
+      "lon": 130.3,
+      "type": "offshore",
+      "cat1_threshold": 300,
+      "cat2_threshold": 300,
+      "cat3_threshold": 500,
+      "cat4_threshold": 500,
+      "cat5_threshold": 500,
+      "range_rings": [
+        185.20000000000002,
+        370.40000000000003,
+        740.8000000000001
+      ]
+    },
+    {
+      "name": "Bayu Undan",
+      "lat": -11.07,
+      "lon": 126.61,
+      "type": "offshore",
+      "cat1_threshold": 300,
+      "cat2_threshold": 300,
+      "cat3_threshold": 500,
+      "cat4_threshold": 500,
+      "cat5_threshold": 500,
+      "range_rings": [
+        185.20000000000002,
+        370.40000000000003,
+        740.8000000000001
+      ]
+    },
+    {
+      "name": "Van Gogh",
+      "lat": -21.4,
+      "lon": 114.1,
+      "type": "offshore",
+      "cat1_threshold": 300,
+      "cat2_threshold": 300,
+      "cat3_threshold": 500,
+      "cat4_threshold": 500,
+      "cat5_threshold": 500,
+      "range_rings": [
+        185.20000000000002,
+        370.40000000000003,
+        740.8000000000001
+      ]
+    },
+    {
+      "name": "Darwin LNG",
+      "lat": -12.52,
+      "lon": 130.87,
+      "type": "offshore",
+      "cat1_threshold": 300,
+      "cat2_threshold": 300,
+      "cat3_threshold": 500,
+      "cat4_threshold": 500,
+      "cat5_threshold": 500,
+      "range_rings": [
+        185.20000000000002,
+        370.40000000000003,
+        740.8000000000001
+      ]
+    },
+    {
+      "name": "Dampier",
+      "lat": -20.63,
+      "lon": 116.75,
+      "type": "city",
+      "cat1_threshold": 300,
+      "cat2_threshold": 300,
+      "cat3_threshold": 500,
+      "cat4_threshold": 500,
+      "cat5_threshold": 500,
+      "plot_only": true
+    },
+    {
+      "name": "Devil Creek",
+      "lat": -20.91,
+      "lon": 116.42,
+      "type": "offshore",
+      "cat1_threshold": 300,
+      "cat2_threshold": 300,
+      "cat3_threshold": 500,
+      "cat4_threshold": 500,
+      "cat5_threshold": 500,
+      "plot_only": true
+    }
+  ]
+}

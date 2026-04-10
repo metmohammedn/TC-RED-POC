@@ -1,0 +1,259 @@
+{
+  "user_name": "Woodside",
+  "locations": [
+    {
+      "name": "Broome",
+      "lat": -17.96,
+      "lon": 122.23,
+      "type": "city",
+      "cat1_threshold": 300,
+      "cat2_threshold": 300,
+      "cat3_threshold": 500,
+      "cat4_threshold": 500,
+      "cat5_threshold": 500
+    },
+    {
+      "name": "Calliance",
+      "lat": -14.53,
+      "lon": 121.61,
+      "type": "offshore",
+      "cat1_threshold": 300,
+      "cat2_threshold": 300,
+      "cat3_threshold": 500,
+      "cat4_threshold": 500,
+      "cat5_threshold": 500
+    },
+    {
+      "name": "Exmouth",
+      "lat": -21.93,
+      "lon": 114.13,
+      "type": "city",
+      "cat1_threshold": 300,
+      "cat2_threshold": 300,
+      "cat3_threshold": 500,
+      "cat4_threshold": 500,
+      "cat5_threshold": 500
+    },
+    {
+      "name": "Griffin",
+      "lat": -21.22,
+      "lon": 114.65,
+      "type": "offshore",
+      "cat1_threshold": 300,
+      "cat2_threshold": 300,
+      "cat3_threshold": 500,
+      "cat4_threshold": 500,
+      "cat5_threshold": 500
+    },
+    {
+      "name": "GWA (Goodwyn A)",
+      "lat": -19.65,
+      "lon": 115.93,
+      "type": "offshore",
+      "cat1_threshold": 300,
+      "cat2_threshold": 300,
+      "cat3_threshold": 500,
+      "cat4_threshold": 500,
+      "cat5_threshold": 500
+    },
+    {
+      "name": "Karratha",
+      "lat": -20.74,
+      "lon": 116.85,
+      "type": "city",
+      "cat1_threshold": 300,
+      "cat2_threshold": 300,
+      "cat3_threshold": 500,
+      "cat4_threshold": 500,
+      "cat5_threshold": 500
+    },
+    {
+      "name": "KGP (Karratha Gas Plant)",
+      "lat": -20.6,
+      "lon": 116.77,
+      "type": "offshore",
+      "cat1_threshold": 300,
+      "cat2_threshold": 300,
+      "cat3_threshold": 500,
+      "cat4_threshold": 500,
+      "cat5_threshold": 500
+    },
+    {
+      "name": "Julimar",
+      "lat": -20.12,
+      "lon": 115.07,
+      "type": "offshore",
+      "cat1_threshold": 300,
+      "cat2_threshold": 300,
+      "cat3_threshold": 500,
+      "cat4_threshold": 500,
+      "cat5_threshold": 500
+    },
+    {
+      "name": "NRC (North Rankin Complex)",
+      "lat": -19.58,
+      "lon": 116.14,
+      "type": "offshore",
+      "cat1_threshold": 300,
+      "cat2_threshold": 300,
+      "cat3_threshold": 500,
+      "cat4_threshold": 500,
+      "cat5_threshold": 500,
+      "range_rings": [
+        185.20000000000002,
+        926.0
+      ]
+    },
+    {
+      "name": "Learmonth",
+      "lat": -22.24,
+      "lon": 114.09,
+      "type": "city",
+      "cat1_threshold": 300,
+      "cat2_threshold": 300,
+      "cat3_threshold": 500,
+      "cat4_threshold": 500,
+      "cat5_threshold": 500
+    },
+    {
+      "name": "MGP (Macedon)",
+      "lat": -21.73,
+      "lon": 114.98,
+      "type": "offshore",
+      "cat1_threshold": 300,
+      "cat2_threshold": 300,
+      "cat3_threshold": 500,
+      "cat4_threshold": 500,
+      "cat5_threshold": 500
+    },
+    {
+      "name": "NY (Ngujima-Yin)",
+      "lat": -21.43,
+      "lon": 114.07,
+      "type": "offshore",
+      "cat1_threshold": 300,
+      "cat2_threshold": 300,
+      "cat3_threshold": 500,
+      "cat4_threshold": 500,
+      "cat5_threshold": 500,
+      "range_rings": [
+        185.20000000000002,
+        926.0
+      ]
+    },
+    {
+      "name": "OKHA",
+      "lat": -19.59,
+      "lon": 116.45,
+      "type": "offshore",
+      "cat1_threshold": 300,
+      "cat2_threshold": 300,
+      "cat3_threshold": 500,
+      "cat4_threshold": 500,
+      "cat5_threshold": 500
+    },
+    {
+      "name": "Pyrenees",
+      "lat": -21.54,
+      "lon": 114.12,
+      "type": "offshore",
+      "cat1_threshold": 300,
+      "cat2_threshold": 300,
+      "cat3_threshold": 500,
+      "cat4_threshold": 500,
+      "cat5_threshold": 500
+    },
+    {
+      "name": "PLA08",
+      "lat": -19.91,
+      "lon": 115.13,
+      "type": "offshore",
+      "cat1_threshold": 300,
+      "cat2_threshold": 300,
+      "cat3_threshold": 500,
+      "cat4_threshold": 500,
+      "cat5_threshold": 500
+    },
+    {
+      "name": "Pluto Alpha",
+      "lat": -20.0,
+      "lon": 115.37,
+      "type": "offshore",
+      "cat1_threshold": 300,
+      "cat2_threshold": 300,
+      "cat3_threshold": 500,
+      "cat4_threshold": 500,
+      "cat5_threshold": 500
+    },
+    {
+      "name": "SCA (Scarborough)",
+      "lat": -19.93,
+      "lon": 113.24,
+      "type": "offshore",
+      "cat1_threshold": 300,
+      "cat2_threshold": 300,
+      "cat3_threshold": 500,
+      "cat4_threshold": 500,
+      "cat5_threshold": 500,
+      "range_rings": [
+        185.20000000000002,
+        926.0
+      ]
+    },
+    {
+      "name": "SCA0D",
+      "lat": -19.76,
+      "lon": 113.24,
+      "type": "offshore",
+      "cat1_threshold": 300,
+      "cat2_threshold": 300,
+      "cat3_threshold": 500,
+      "cat4_threshold": 500,
+      "cat5_threshold": 500
+    },
+    {
+      "name": "SCA0E",
+      "lat": -19.88,
+      "lon": 113.11,
+      "type": "offshore",
+      "cat1_threshold": 300,
+      "cat2_threshold": 300,
+      "cat3_threshold": 500,
+      "cat4_threshold": 500,
+      "cat5_threshold": 500
+    },
+    {
+      "name": "Stybarrow",
+      "lat": -21.45,
+      "lon": 113.82,
+      "type": "offshore",
+      "cat1_threshold": 300,
+      "cat2_threshold": 300,
+      "cat3_threshold": 500,
+      "cat4_threshold": 500,
+      "cat5_threshold": 500
+    },
+    {
+      "name": "TPA03",
+      "lat": -19.76,
+      "lon": 115.89,
+      "type": "offshore",
+      "cat1_threshold": 300,
+      "cat2_threshold": 300,
+      "cat3_threshold": 500,
+      "cat4_threshold": 500,
+      "cat5_threshold": 500
+    },
+    {
+      "name": "Xena",
+      "lat": -19.96,
+      "lon": 115.22,
+      "type": "offshore",
+      "cat1_threshold": 300,
+      "cat2_threshold": 300,
+      "cat3_threshold": 500,
+      "cat4_threshold": 500,
+      "cat5_threshold": 500
+    }
+  ]
+}

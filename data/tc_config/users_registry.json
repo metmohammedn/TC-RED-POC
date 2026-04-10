@@ -1,0 +1,210 @@
+{
+  "default_user": "woodside",
+  "users": [
+    {
+      "user_id": "abbott",
+      "username": "abbott",
+      "password": "abbott123",
+      "config_file": "abbott_user.json",
+      "display_name": "Abbot Point Bulkcoal",
+      "is_super_user": false,
+      "active": true
+    },
+    {
+      "user_id": "atlas",
+      "username": "atlas",
+      "password": "atlas123",
+      "config_file": "atlas_user.json",
+      "display_name": "Atlas Iron",
+      "is_super_user": false,
+      "active": true
+    },
+    {
+      "user_id": "bechtel",
+      "username": "bechtel",
+      "password": "bechtel123",
+      "config_file": "bechtel_user.json",
+      "display_name": "Bechtel",
+      "is_super_user": false,
+      "active": true
+    },
+    {
+      "user_id": "chevron",
+      "username": "chevron",
+      "password": "chevron123",
+      "config_file": "chevron_user.json",
+      "display_name": "Chevron",
+      "is_super_user": false,
+      "active": true
+    },
+    {
+      "user_id": "citic",
+      "username": "citic",
+      "password": "citic123",
+      "config_file": "citic_user.json",
+      "display_name": "CITIC Pacific",
+      "is_super_user": false,
+      "active": true
+    },
+    {
+      "user_id": "gemco",
+      "username": "gemco",
+      "password": "gemco123",
+      "config_file": "gemco_user.json",
+      "display_name": "GEMCO",
+      "is_super_user": false,
+      "active": true
+    },
+    {
+      "user_id": "inpex",
+      "username": "inpex",
+      "password": "inpex123",
+      "config_file": "inpex_user.json",
+      "display_name": "INPEX",
+      "is_super_user": false,
+      "active": true
+    },
+    {
+      "user_id": "jadestone_nw",
+      "username": "jadestone_nw",
+      "password": "jadestone123",
+      "config_file": "jadestone_nw_user.json",
+      "display_name": "Jadestone NW",
+      "is_super_user": false,
+      "active": true
+    },
+    {
+      "user_id": "jadestone_browse",
+      "username": "jadestone_browse",
+      "password": "jadestone123",
+      "config_file": "jadestone_browse_user.json",
+      "display_name": "Jadestone Browse",
+      "is_super_user": false,
+      "active": true
+    },
+    {
+      "user_id": "koolan",
+      "username": "koolan",
+      "password": "koolan123",
+      "config_file": "koolan_user.json",
+      "display_name": "Koolan Island",
+      "is_super_user": false,
+      "active": true
+    },
+    {
+      "user_id": "mardie",
+      "username": "mardie",
+      "password": "mardie123",
+      "config_file": "mardie_user.json",
+      "display_name": "Mardie",
+      "is_super_user": false,
+      "active": true
+    },
+    {
+      "user_id": "mineralres",
+      "username": "mineralres",
+      "password": "mineralres123",
+      "config_file": "mineralres_user.json",
+      "display_name": "Mineral Resources",
+      "is_super_user": false,
+      "active": true
+    },
+    {
+      "user_id": "onslow",
+      "username": "onslow",
+      "password": "onslow123",
+      "config_file": "onslow_user.json",
+      "display_name": "Onslow Marine",
+      "is_super_user": false,
+      "active": true
+    },
+    {
+      "user_id": "pilbaraports",
+      "username": "pilbaraports",
+      "password": "pilbaraports123",
+      "config_file": "pilbaraports_user.json",
+      "display_name": "Pilbara Ports",
+      "is_super_user": false,
+      "active": true
+    },
+    {
+      "user_id": "riotinto",
+      "username": "riotinto",
+      "password": "riotinto123",
+      "config_file": "riotinto_user.json",
+      "display_name": "Rio Tinto",
+      "is_super_user": false,
+      "active": true
+    },
+    {
+      "user_id": "saipem",
+      "username": "saipem",
+      "password": "saipem123",
+      "config_file": "saipem_user.json",
+      "display_name": "Saipem",
+      "is_super_user": false,
+      "active": true
+    },
+    {
+      "user_id": "santos",
+      "username": "santos",
+      "password": "santos123",
+      "config_file": "santos_user.json",
+      "display_name": "Santos",
+      "is_super_user": false,
+      "active": true
+    },
+    {
+      "user_id": "santoskumul",
+      "username": "santoskumul",
+      "password": "santoskumul123",
+      "config_file": "santoskumul_user.json",
+      "display_name": "Santos Kumul",
+      "is_super_user": false,
+      "active": true
+    },
+    {
+      "user_id": "shell",
+      "username": "shell",
+      "password": "shell123",
+      "config_file": "shell_user.json",
+      "display_name": "Shell",
+      "is_super_user": false,
+      "active": true
+    },
+    {
+      "user_id": "vermilion",
+      "username": "vermilion",
+      "password": "vermilion123",
+      "config_file": "vermilion_user.json",
+      "display_name": "Vermilion",
+      "is_super_user": false,
+      "active": true
+    },
+    {
+      "user_id": "woodside",
+      "username": "woodside",
+      "password": "woodside123",
+      "config_file": "woodside_user.json",
+      "display_name": "Woodside",
+      "is_super_user": false,
+      "active": true
+    },
+    {
+      "user_id": "superuser1",
+      "username": "superuser1",
+      "password": "superpass1",
+      "display_name": "Super User 1",
+      "is_super_user": true,
+      "active": true
+    },
+    {
+      "user_id": "superuser2",
+      "username": "superuser2",
+      "password": "superpass2",
+      "display_name": "Super User 2",
+      "is_super_user": true,
+      "active": true
+    }
+  ]
+}

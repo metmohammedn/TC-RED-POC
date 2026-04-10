@@ -1,0 +1,45 @@
+{
+  "user_name": "Jadestone Energy - Browse",
+  "locations": [
+    {
+      "name": "Montara",
+      "lat": -12.67,
+      "lon": 124.55,
+      "type": "offshore",
+      "cat1_threshold": 300,
+      "cat2_threshold": 300,
+      "cat3_threshold": 500,
+      "cat4_threshold": 500,
+      "cat5_threshold": 500,
+      "range_rings": [
+        463.0,
+        740.8000000000001,
+        1111.2
+      ]
+    },
+    {
+      "name": "Truscott",
+      "lat": -14.09,
+      "lon": 126.38,
+      "type": "offshore",
+      "cat1_threshold": 300,
+      "cat2_threshold": 300,
+      "cat3_threshold": 500,
+      "cat4_threshold": 500,
+      "cat5_threshold": 500,
+      "plot_only": true
+    },
+    {
+      "name": "Karratha",
+      "lat": -20.71,
+      "lon": 116.77,
+      "type": "city",
+      "cat1_threshold": 300,
+      "cat2_threshold": 300,
+      "cat3_threshold": 500,
+      "cat4_threshold": 500,
+      "cat5_threshold": 500,
+      "plot_only": true
+    }
+  ]
+}

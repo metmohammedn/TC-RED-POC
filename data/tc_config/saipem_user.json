@@ -1,0 +1,39 @@
+{
+  "user_name": "Saipem Australia",
+  "locations": [
+    {
+      "name": "Jansz FCS",
+      "lat": -19.88,
+      "lon": 114.61,
+      "type": "offshore",
+      "cat1_threshold": 300,
+      "cat2_threshold": 300,
+      "cat3_threshold": 500,
+      "cat4_threshold": 500,
+      "cat5_threshold": 500,
+      "range_rings": [
+        370.40000000000003,
+        740.8000000000001,
+        1111.2,
+        1481.6000000000001
+      ]
+    },
+    {
+      "name": "Dampier",
+      "lat": -20.66,
+      "lon": 116.71,
+      "type": "offshore",
+      "cat1_threshold": 300,
+      "cat2_threshold": 300,
+      "cat3_threshold": 500,
+      "cat4_threshold": 500,
+      "cat5_threshold": 500,
+      "range_rings": [
+        370.40000000000003,
+        740.8000000000001,
+        1111.2,
+        1481.6000000000001
+      ]
+    }
+  ]
+}

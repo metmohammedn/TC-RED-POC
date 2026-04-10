@@ -1,0 +1,45 @@
+{
+  "user_name": "Rio Tinto Winu",
+  "locations": [
+    {
+      "name": "Winu Exploration Camp",
+      "lat": -20.73,
+      "lon": 121.76,
+      "type": "offshore",
+      "cat1_threshold": 300,
+      "cat2_threshold": 300,
+      "cat3_threshold": 500,
+      "cat4_threshold": 500,
+      "cat5_threshold": 500,
+      "range_rings": [
+        185,
+        370,
+        741
+      ]
+    },
+    {
+      "name": "Camp 1",
+      "lat": -20.14,
+      "lon": 121.35,
+      "type": "offshore",
+      "cat1_threshold": 300,
+      "cat2_threshold": 300,
+      "cat3_threshold": 500,
+      "cat4_threshold": 500,
+      "cat5_threshold": 500,
+      "plot_only": true
+    },
+    {
+      "name": "Waypoint 1",
+      "lat": -19.84,
+      "lon": 120.7,
+      "type": "offshore",
+      "cat1_threshold": 300,
+      "cat2_threshold": 300,
+      "cat3_threshold": 500,
+      "cat4_threshold": 500,
+      "cat5_threshold": 500,
+      "plot_only": true
+    }
+  ]
+}

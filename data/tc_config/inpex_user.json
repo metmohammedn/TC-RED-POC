@@ -1,0 +1,50 @@
+{
+  "user_name": "INPEX",
+  "locations": [
+    {
+      "name": "Ichthys",
+      "lat": -13.92,
+      "lon": 123.22,
+      "type": "offshore",
+      "cat1_threshold": 300,
+      "cat2_threshold": 300,
+      "cat3_threshold": 500,
+      "cat4_threshold": 500,
+      "cat5_threshold": 500,
+      "range_rings": [
+        185.20000000000002,
+        370.40000000000003
+      ]
+    },
+    {
+      "name": "Darwin",
+      "lat": -12.4,
+      "lon": 130.9,
+      "type": "city",
+      "cat1_threshold": 300,
+      "cat2_threshold": 300,
+      "cat3_threshold": 500,
+      "cat4_threshold": 500,
+      "cat5_threshold": 500,
+      "range_rings": [
+        185.20000000000002,
+        370.40000000000003
+      ]
+    },
+    {
+      "name": "Broome Port",
+      "lat": -18.0,
+      "lon": 122.21,
+      "type": "offshore",
+      "cat1_threshold": 300,
+      "cat2_threshold": 300,
+      "cat3_threshold": 500,
+      "cat4_threshold": 500,
+      "cat5_threshold": 500,
+      "range_rings": [
+        185.20000000000002,
+        370.40000000000003
+      ]
+    }
+  ]
+}

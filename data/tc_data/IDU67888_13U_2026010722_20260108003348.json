@@ -1,0 +1,107 @@
+{
+  "disturbanceId" : "AU202526_13U",
+  "cycloneNumber" : "13U",
+  "cycloneName" : null,
+  "cycloneStatus" : "Tropical Low",
+  "cycloneFullName" : "Tropical Low 13U",
+  "cycloneShortName" : "13U",
+  "issueTime" : "2026-01-08T00:33:48Z",
+  "finalIssue" : true,
+  "nextIssueTime" : null,
+  "referenceTime" : "2026-01-07T22:00:00Z",
+  "text" : {
+    "sevenDayForecast" : {
+      "headline" : "This is the final issue for 13U.",
+      "points" : [ "Tropical low 13U is not expected to develop. The situation will continue to be monitored and updated here if required." ]
+    },
+    "trackForecast" : {
+      "headline" : null,
+      "discussion" : null,
+      "discussionUpperBound" : null
+    }
+  },
+  "probabilityOfTcData" : [ {
+    "time" : "2026-01-08T00:00:00Z",
+    "probabilityOfTc" : null,
+    "probabilityOfTcRating" : "None"
+  }, {
+    "time" : "2026-01-08T12:00:00Z",
+    "probabilityOfTc" : null,
+    "probabilityOfTcRating" : "None"
+  }, {
+    "time" : "2026-01-09T00:00:00Z",
+    "probabilityOfTc" : null,
+    "probabilityOfTcRating" : "None"
+  }, {
+    "time" : "2026-01-09T12:00:00Z",
+    "probabilityOfTc" : null,
+    "probabilityOfTcRating" : "None"
+  }, {
+    "time" : "2026-01-10T00:00:00Z",
+    "probabilityOfTc" : null,
+    "probabilityOfTcRating" : "None"
+  }, {
+    "time" : "2026-01-10T12:00:00Z",
+    "probabilityOfTc" : null,
+    "probabilityOfTcRating" : "None"
+  }, {
+    "time" : "2026-01-11T00:00:00Z",
+    "probabilityOfTc" : null,
+    "probabilityOfTcRating" : "None"
+  }, {
+    "time" : "2026-01-11T12:00:00Z",
+    "probabilityOfTc" : null,
+    "probabilityOfTcRating" : "None"
+  }, {
+    "time" : "2026-01-12T00:00:00Z",
+    "probabilityOfTc" : null,
+    "probabilityOfTcRating" : "None"
+  }, {
+    "time" : "2026-01-12T12:00:00Z",
+    "probabilityOfTc" : null,
+    "probabilityOfTcRating" : "None"
+  }, {
+    "time" : "2026-01-13T00:00:00Z",
+    "probabilityOfTc" : null,
+    "probabilityOfTcRating" : "None"
+  }, {
+    "time" : "2026-01-13T12:00:00Z",
+    "probabilityOfTc" : null,
+    "probabilityOfTcRating" : "None"
+  }, {
+    "time" : "2026-01-14T00:00:00Z",
+    "probabilityOfTc" : null,
+    "probabilityOfTcRating" : "None"
+  }, {
+    "time" : "2026-01-14T12:00:00Z",
+    "probabilityOfTc" : null,
+    "probabilityOfTcRating" : "None"
+  }, {
+    "time" : "2026-01-15T00:00:00Z",
+    "probabilityOfTc" : null,
+    "probabilityOfTcRating" : "None"
+  } ],
+  "fixData" : {
+    "type" : "FeatureCollection",
+    "features" : [ ]
+  },
+  "forecastConfidenceAreas" : {
+    "type" : "FeatureCollection",
+    "features" : [ ]
+  },
+  "forecastConfidenceCones" : {
+    "type" : "FeatureCollection",
+    "features" : [ ]
+  },
+  "dvorak" : {
+    "currentIntensity" : null,
+    "finalT" : null,
+    "analysisCode" : null
+  },
+  "directionOfMotion" : null,
+  "recentMovement" : null,
+  "windRadii" : {
+    "type" : "FeatureCollection",
+    "features" : [ ]
+  }
+}

@@ -1,0 +1,65 @@
+{
+  "user_name": "Chevron",
+  "locations": [
+    {
+      "name": "Barrow Island",
+      "lat": -20.76,
+      "lon": 115.55,
+      "type": "offshore",
+      "cat1_threshold": 300,
+      "cat2_threshold": 300,
+      "cat3_threshold": 500,
+      "cat4_threshold": 500,
+      "cat5_threshold": 500,
+      "range_rings": [
+        1111.2,
+        1481.6000000000001
+      ]
+    },
+    {
+      "name": "WHS LNG Plant",
+      "lat": -21.67,
+      "lon": 115.0,
+      "type": "offshore",
+      "cat1_threshold": 300,
+      "cat2_threshold": 300,
+      "cat3_threshold": 500,
+      "cat4_threshold": 500,
+      "cat5_threshold": 500,
+      "range_rings": [
+        1111.2,
+        1481.6000000000001
+      ]
+    },
+    {
+      "name": "Wheatstone Platform",
+      "lat": -19.93,
+      "lon": 115.38,
+      "type": "offshore",
+      "cat1_threshold": 300,
+      "cat2_threshold": 300,
+      "cat3_threshold": 500,
+      "cat4_threshold": 500,
+      "cat5_threshold": 500,
+      "range_rings": [
+        1111.2,
+        1481.6000000000001
+      ]
+    },
+    {
+      "name": "Dampier",
+      "lat": -20.38,
+      "lon": 116.45,
+      "type": "offshore",
+      "cat1_threshold": 300,
+      "cat2_threshold": 300,
+      "cat3_threshold": 500,
+      "cat4_threshold": 500,
+      "cat5_threshold": 500,
+      "range_rings": [
+        1111.2,
+        1481.6000000000001
+      ]
+    }
+  ]
+}

@@ -1,0 +1,19 @@
+{
+  "user_name": "Onslow Salt",
+  "locations": [
+    {
+      "name": "Onslow Salt Mine",
+      "lat": -21.66,
+      "lon": 115.09,
+      "type": "offshore",
+      "cat1_threshold": 300,
+      "cat2_threshold": 300,
+      "cat3_threshold": 500,
+      "cat4_threshold": 500,
+      "cat5_threshold": 500,
+      "range_rings": [
+        463.0
+      ]
+    }
+  ]
+}

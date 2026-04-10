@@ -1,0 +1,33 @@
+{
+  "user_name": "Mineral Resources",
+  "locations": [
+    {
+      "name": "Wharf Approach",
+      "lat": -21.68,
+      "lon": 115.012,
+      "type": "offshore",
+      "cat1_threshold": 300,
+      "cat2_threshold": 300,
+      "cat3_threshold": 500,
+      "cat4_threshold": 500,
+      "cat5_threshold": 500,
+      "range_rings": [
+        370.40000000000003,
+        555.6,
+        740.8000000000001
+      ]
+    },
+    {
+      "name": "Anchorage Point",
+      "lat": -21.37,
+      "lon": 114.86,
+      "type": "offshore",
+      "cat1_threshold": 300,
+      "cat2_threshold": 300,
+      "cat3_threshold": 500,
+      "cat4_threshold": 500,
+      "cat5_threshold": 500,
+      "plot_only": true
+    }
+  ]
+}

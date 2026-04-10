@@ -1,0 +1,20 @@
+{
+  "user_name": "Vermilion Energy",
+  "locations": [
+    {
+      "name": "Wandoo",
+      "lat": -20.14,
+      "lon": 116.42,
+      "type": "offshore",
+      "cat1_threshold": 300,
+      "cat2_threshold": 300,
+      "cat3_threshold": 500,
+      "cat4_threshold": 500,
+      "cat5_threshold": 500,
+      "range_rings": [
+        185.20000000000002,
+        370.40000000000003
+      ]
+    }
+  ]
+}

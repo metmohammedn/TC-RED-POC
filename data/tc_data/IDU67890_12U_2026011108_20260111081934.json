@@ -1,0 +1,1078 @@
+{
+  "disturbanceId" : "AU202526_12U",
+  "cycloneNumber" : "12U",
+  "cycloneName" : "Koji",
+  "cycloneStatus" : "Ex-Tropical Cyclone",
+  "cycloneFullName" : "Ex-Tropical Cyclone Koji 12U",
+  "cycloneShortName" : "Ex-Koji 12U",
+  "issueTime" : "2026-01-11T08:19:34Z",
+  "finalIssue" : false,
+  "nextIssueTime" : "2026-01-12T01:00:00Z",
+  "referenceTime" : "2026-01-11T08:00:00Z",
+  "text" : {
+    "sevenDayForecast" : {
+      "headline" : "A Low chance of redevelopment of Ex-Tropical Cyclone Koji next weekend off the northwest WA coast.",
+      "points" : [ "Refer to any Severe Weather Warnings, and Flood Watches and Warnings for more information regarding Ex-Tropical Cyclone Koji over Queensland.", "During the coming week Koji is forecast to continue to move west and then northwest, through the Gulf Country and towards the Northern Territory, then potentially towards northern WA next weekend.", "Next weekend if Koji does move off the northern WA coast, it has a chance of redeveloping into a tropical cyclone." ]
+    },
+    "trackForecast" : {
+      "headline" : null,
+      "discussion" : null,
+      "discussionUpperBound" : null
+    }
+  },
+  "probabilityOfTcData" : [ {
+    "time" : "2026-01-11T12:00:00Z",
+    "probabilityOfTc" : 1.0,
+    "probabilityOfTcRating" : "Very Low"
+  }, {
+    "time" : "2026-01-12T00:00:00Z",
+    "probabilityOfTc" : 1.0,
+    "probabilityOfTcRating" : "Very Low"
+  }, {
+    "time" : "2026-01-12T12:00:00Z",
+    "probabilityOfTc" : 1.0,
+    "probabilityOfTcRating" : "Very Low"
+  }, {
+    "time" : "2026-01-13T00:00:00Z",
+    "probabilityOfTc" : 1.0,
+    "probabilityOfTcRating" : "Very Low"
+  }, {
+    "time" : "2026-01-13T12:00:00Z",
+    "probabilityOfTc" : 1.0,
+    "probabilityOfTcRating" : "Very Low"
+  }, {
+    "time" : "2026-01-14T00:00:00Z",
+    "probabilityOfTc" : 1.0,
+    "probabilityOfTcRating" : "Very Low"
+  }, {
+    "time" : "2026-01-14T12:00:00Z",
+    "probabilityOfTc" : 1.0,
+    "probabilityOfTcRating" : "Very Low"
+  }, {
+    "time" : "2026-01-15T00:00:00Z",
+    "probabilityOfTc" : 1.0,
+    "probabilityOfTcRating" : "Very Low"
+  }, {
+    "time" : "2026-01-15T12:00:00Z",
+    "probabilityOfTc" : 1.0,
+    "probabilityOfTcRating" : "Very Low"
+  }, {
+    "time" : "2026-01-16T00:00:00Z",
+    "probabilityOfTc" : 1.0,
+    "probabilityOfTcRating" : "Very Low"
+  }, {
+    "time" : "2026-01-16T12:00:00Z",
+    "probabilityOfTc" : 1.0,
+    "probabilityOfTcRating" : "Very Low"
+  }, {
+    "time" : "2026-01-17T00:00:00Z",
+    "probabilityOfTc" : 1.0,
+    "probabilityOfTcRating" : "Very Low"
+  }, {
+    "time" : "2026-01-17T12:00:00Z",
+    "probabilityOfTc" : 1.0,
+    "probabilityOfTcRating" : "Very Low"
+  }, {
+    "time" : "2026-01-18T00:00:00Z",
+    "probabilityOfTc" : 10.0,
+    "probabilityOfTcRating" : "Low"
+  }, {
+    "time" : "2026-01-18T12:00:00Z",
+    "probabilityOfTc" : 15.0,
+    "probabilityOfTcRating" : "Low"
+  } ],
+  "fixData" : {
+    "type" : "FeatureCollection",
+    "features" : [ {
+      "type" : "Feature",
+      "properties" : {
+        "time" : "2026-01-07T06:00:00Z",
+        "offsetFromReferenceTime" : -98,
+        "type" : "Analysis",
+        "maxMeanWind" : 20.0,
+        "maxWindGust" : 45.0,
+        "maxMeanWind5pct" : 30.0,
+        "maxMeanGust5pct" : 45.0,
+        "centralPressure" : 1003.0,
+        "category" : 0.0,
+        "uncertainty" : 45.0,
+        "windRadiiGaleNW" : null,
+        "windRadiiGaleNE" : null,
+        "windRadiiGaleSW" : null,
+        "windRadiiGaleSE" : null,
+        "windRadiiStormNW" : null,
+        "windRadiiStormNE" : null,
+        "windRadiiStormSW" : null,
+        "windRadiiStormSE" : null,
+        "windRadiiHurricaneNW" : null,
+        "windRadiiHurricaneNE" : null,
+        "windRadiiHurricaneSW" : null,
+        "windRadiiHurricaneSE" : null,
+        "radiusMaxWind" : null,
+        "outermostPressure" : 1005.0,
+        "outermostRadius" : 110.0
+      },
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [ 152.3, -15.4 ]
+      }
+    }, {
+      "type" : "Feature",
+      "properties" : {
+        "time" : "2026-01-07T12:00:00Z",
+        "offsetFromReferenceTime" : -92,
+        "type" : "Analysis",
+        "maxMeanWind" : 25.0,
+        "maxWindGust" : 45.0,
+        "maxMeanWind5pct" : 35.0,
+        "maxMeanGust5pct" : 50.0,
+        "centralPressure" : 1004.0,
+        "category" : 0.0,
+        "uncertainty" : 50.0,
+        "windRadiiGaleNW" : null,
+        "windRadiiGaleNE" : null,
+        "windRadiiGaleSW" : null,
+        "windRadiiGaleSE" : null,
+        "windRadiiStormNW" : null,
+        "windRadiiStormNE" : null,
+        "windRadiiStormSW" : null,
+        "windRadiiStormSE" : null,
+        "windRadiiHurricaneNW" : null,
+        "windRadiiHurricaneNE" : null,
+        "windRadiiHurricaneSW" : null,
+        "windRadiiHurricaneSE" : null,
+        "radiusMaxWind" : null,
+        "outermostPressure" : 1004.0,
+        "outermostRadius" : 140.0
+      },
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [ 151, -15.2 ]
+      }
+    }, {
+      "type" : "Feature",
+      "properties" : {
+        "time" : "2026-01-07T18:00:00Z",
+        "offsetFromReferenceTime" : -86,
+        "type" : "Analysis",
+        "maxMeanWind" : 25.0,
+        "maxWindGust" : 45.0,
+        "maxMeanWind5pct" : 35.0,
+        "maxMeanGust5pct" : 50.0,
+        "centralPressure" : 1004.0,
+        "category" : 0.0,
+        "uncertainty" : 50.0,
+        "windRadiiGaleNW" : null,
+        "windRadiiGaleNE" : null,
+        "windRadiiGaleSW" : null,
+        "windRadiiGaleSE" : null,
+        "windRadiiStormNW" : null,
+        "windRadiiStormNE" : null,
+        "windRadiiStormSW" : null,
+        "windRadiiStormSE" : null,
+        "windRadiiHurricaneNW" : null,
+        "windRadiiHurricaneNE" : null,
+        "windRadiiHurricaneSW" : null,
+        "windRadiiHurricaneSE" : null,
+        "radiusMaxWind" : null,
+        "outermostPressure" : 1004.0,
+        "outermostRadius" : 140.0
+      },
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [ 150.307, -15.031 ]
+      }
+    }, {
+      "type" : "Feature",
+      "properties" : {
+        "time" : "2026-01-08T00:00:00Z",
+        "offsetFromReferenceTime" : -80,
+        "type" : "Analysis",
+        "maxMeanWind" : 25.0,
+        "maxWindGust" : 50.0,
+        "maxMeanWind5pct" : 35.0,
+        "maxMeanGust5pct" : 50.0,
+        "centralPressure" : 1002.0,
+        "category" : 0.0,
+        "uncertainty" : 50.0,
+        "windRadiiGaleNW" : null,
+        "windRadiiGaleNE" : null,
+        "windRadiiGaleSW" : null,
+        "windRadiiGaleSE" : null,
+        "windRadiiStormNW" : null,
+        "windRadiiStormNE" : null,
+        "windRadiiStormSW" : null,
+        "windRadiiStormSE" : null,
+        "windRadiiHurricaneNW" : null,
+        "windRadiiHurricaneNE" : null,
+        "windRadiiHurricaneSW" : null,
+        "windRadiiHurricaneSE" : null,
+        "radiusMaxWind" : null,
+        "outermostPressure" : 1004.0,
+        "outermostRadius" : 150.0
+      },
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [ 150, -15 ]
+      }
+    }, {
+      "type" : "Feature",
+      "properties" : {
+        "time" : "2026-01-08T06:00:00Z",
+        "offsetFromReferenceTime" : -74,
+        "type" : "Analysis",
+        "maxMeanWind" : 25.0,
+        "maxWindGust" : 50.0,
+        "maxMeanWind5pct" : 35.0,
+        "maxMeanGust5pct" : 50.0,
+        "centralPressure" : 1002.0,
+        "category" : 0.0,
+        "uncertainty" : 50.0,
+        "windRadiiGaleNW" : null,
+        "windRadiiGaleNE" : null,
+        "windRadiiGaleSW" : null,
+        "windRadiiGaleSE" : null,
+        "windRadiiStormNW" : null,
+        "windRadiiStormNE" : null,
+        "windRadiiStormSW" : null,
+        "windRadiiStormSE" : null,
+        "windRadiiHurricaneNW" : null,
+        "windRadiiHurricaneNE" : null,
+        "windRadiiHurricaneSW" : null,
+        "windRadiiHurricaneSE" : null,
+        "radiusMaxWind" : null,
+        "outermostPressure" : 1005.0,
+        "outermostRadius" : 120.0
+      },
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [ 149.3, -15 ]
+      }
+    }, {
+      "type" : "Feature",
+      "properties" : {
+        "time" : "2026-01-08T12:00:00Z",
+        "offsetFromReferenceTime" : -68,
+        "type" : "Analysis",
+        "maxMeanWind" : 25.0,
+        "maxWindGust" : 45.0,
+        "maxMeanWind5pct" : 35.0,
+        "maxMeanGust5pct" : 50.0,
+        "centralPressure" : 1000.0,
+        "category" : 0.0,
+        "uncertainty" : 50.0,
+        "windRadiiGaleNW" : null,
+        "windRadiiGaleNE" : null,
+        "windRadiiGaleSW" : null,
+        "windRadiiGaleSE" : null,
+        "windRadiiStormNW" : null,
+        "windRadiiStormNE" : null,
+        "windRadiiStormSW" : null,
+        "windRadiiStormSE" : null,
+        "windRadiiHurricaneNW" : null,
+        "windRadiiHurricaneNE" : null,
+        "windRadiiHurricaneSW" : null,
+        "windRadiiHurricaneSE" : null,
+        "radiusMaxWind" : null,
+        "outermostPressure" : 1004.0,
+        "outermostRadius" : 120.0
+      },
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [ 148.5, -14.5 ]
+      }
+    }, {
+      "type" : "Feature",
+      "properties" : {
+        "time" : "2026-01-08T18:00:00Z",
+        "offsetFromReferenceTime" : -62,
+        "type" : "Analysis",
+        "maxMeanWind" : 35.0,
+        "maxWindGust" : 45.0,
+        "maxMeanWind5pct" : 40.0,
+        "maxMeanGust5pct" : 55.0,
+        "centralPressure" : 997.0,
+        "category" : 0.0,
+        "uncertainty" : 50.0,
+        "windRadiiGaleNW" : null,
+        "windRadiiGaleNE" : null,
+        "windRadiiGaleSW" : null,
+        "windRadiiGaleSE" : null,
+        "windRadiiStormNW" : null,
+        "windRadiiStormNE" : null,
+        "windRadiiStormSW" : null,
+        "windRadiiStormSE" : null,
+        "windRadiiHurricaneNW" : null,
+        "windRadiiHurricaneNE" : null,
+        "windRadiiHurricaneSW" : null,
+        "windRadiiHurricaneSE" : null,
+        "radiusMaxWind" : null,
+        "outermostPressure" : 1002.0,
+        "outermostRadius" : 200.0
+      },
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [ 148.4, -14.3 ]
+      }
+    }, {
+      "type" : "Feature",
+      "properties" : {
+        "time" : "2026-01-09T00:00:00Z",
+        "offsetFromReferenceTime" : -56,
+        "type" : "Analysis",
+        "maxMeanWind" : 35.0,
+        "maxWindGust" : 50.0,
+        "maxMeanWind5pct" : 40.0,
+        "maxMeanGust5pct" : 55.0,
+        "centralPressure" : 995.0,
+        "category" : 0.0,
+        "uncertainty" : 35.0,
+        "windRadiiGaleNW" : null,
+        "windRadiiGaleNE" : null,
+        "windRadiiGaleSW" : null,
+        "windRadiiGaleSE" : 150.0,
+        "windRadiiStormNW" : null,
+        "windRadiiStormNE" : null,
+        "windRadiiStormSW" : null,
+        "windRadiiStormSE" : null,
+        "windRadiiHurricaneNW" : null,
+        "windRadiiHurricaneNE" : null,
+        "windRadiiHurricaneSW" : null,
+        "windRadiiHurricaneSE" : null,
+        "radiusMaxWind" : null,
+        "outermostPressure" : 1004.0,
+        "outermostRadius" : 180.0
+      },
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [ 148.4, -14.3 ]
+      }
+    }, {
+      "type" : "Feature",
+      "properties" : {
+        "time" : "2026-01-09T06:00:00Z",
+        "offsetFromReferenceTime" : -50,
+        "type" : "Analysis",
+        "maxMeanWind" : 35.0,
+        "maxWindGust" : 50.0,
+        "maxMeanWind5pct" : 40.0,
+        "maxMeanGust5pct" : 55.0,
+        "centralPressure" : 994.0,
+        "category" : 0.0,
+        "uncertainty" : 35.0,
+        "windRadiiGaleNW" : null,
+        "windRadiiGaleNE" : null,
+        "windRadiiGaleSW" : null,
+        "windRadiiGaleSE" : 120.0,
+        "windRadiiStormNW" : null,
+        "windRadiiStormNE" : null,
+        "windRadiiStormSW" : null,
+        "windRadiiStormSE" : null,
+        "windRadiiHurricaneNW" : null,
+        "windRadiiHurricaneNE" : null,
+        "windRadiiHurricaneSW" : null,
+        "windRadiiHurricaneSE" : null,
+        "radiusMaxWind" : null,
+        "outermostPressure" : 1000.0,
+        "outermostRadius" : 170.0
+      },
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [ 148.2, -14.5 ]
+      }
+    }, {
+      "type" : "Feature",
+      "properties" : {
+        "time" : "2026-01-09T12:00:00Z",
+        "offsetFromReferenceTime" : -44,
+        "type" : "Analysis",
+        "maxMeanWind" : 35.0,
+        "maxWindGust" : 50.0,
+        "maxMeanWind5pct" : 45.0,
+        "maxMeanGust5pct" : 65.0,
+        "centralPressure" : 996.0,
+        "category" : 0.0,
+        "uncertainty" : 50.0,
+        "windRadiiGaleNW" : null,
+        "windRadiiGaleNE" : 120.0,
+        "windRadiiGaleSW" : null,
+        "windRadiiGaleSE" : null,
+        "windRadiiStormNW" : null,
+        "windRadiiStormNE" : null,
+        "windRadiiStormSW" : null,
+        "windRadiiStormSE" : null,
+        "windRadiiHurricaneNW" : null,
+        "windRadiiHurricaneNE" : null,
+        "windRadiiHurricaneSW" : null,
+        "windRadiiHurricaneSE" : null,
+        "radiusMaxWind" : null,
+        "outermostPressure" : 1002.0,
+        "outermostRadius" : 170.0
+      },
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [ 148.1, -14.9 ]
+      }
+    }, {
+      "type" : "Feature",
+      "properties" : {
+        "time" : "2026-01-09T18:00:00Z",
+        "offsetFromReferenceTime" : -38,
+        "type" : "Analysis",
+        "maxMeanWind" : 35.0,
+        "maxWindGust" : 50.0,
+        "maxMeanWind5pct" : 45.0,
+        "maxMeanGust5pct" : 65.0,
+        "centralPressure" : 995.0,
+        "category" : 0.0,
+        "uncertainty" : 45.0,
+        "windRadiiGaleNW" : null,
+        "windRadiiGaleNE" : null,
+        "windRadiiGaleSW" : 140.0,
+        "windRadiiGaleSE" : 150.0,
+        "windRadiiStormNW" : null,
+        "windRadiiStormNE" : null,
+        "windRadiiStormSW" : null,
+        "windRadiiStormSE" : null,
+        "windRadiiHurricaneNW" : null,
+        "windRadiiHurricaneNE" : null,
+        "windRadiiHurricaneSW" : null,
+        "windRadiiHurricaneSE" : null,
+        "radiusMaxWind" : null,
+        "outermostPressure" : 1002.0,
+        "outermostRadius" : 180.0
+      },
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [ 148, -15.7 ]
+      }
+    }, {
+      "type" : "Feature",
+      "properties" : {
+        "time" : "2026-01-10T00:00:00Z",
+        "offsetFromReferenceTime" : -32,
+        "type" : "Analysis",
+        "maxMeanWind" : 40.0,
+        "maxWindGust" : 55.0,
+        "maxMeanWind5pct" : 45.0,
+        "maxMeanGust5pct" : 65.0,
+        "centralPressure" : 992.0,
+        "category" : 0.0,
+        "uncertainty" : 35.0,
+        "windRadiiGaleNW" : null,
+        "windRadiiGaleNE" : 150.0,
+        "windRadiiGaleSW" : null,
+        "windRadiiGaleSE" : 120.0,
+        "windRadiiStormNW" : null,
+        "windRadiiStormNE" : null,
+        "windRadiiStormSW" : null,
+        "windRadiiStormSE" : null,
+        "windRadiiHurricaneNW" : null,
+        "windRadiiHurricaneNE" : null,
+        "windRadiiHurricaneSW" : null,
+        "windRadiiHurricaneSE" : null,
+        "radiusMaxWind" : null,
+        "outermostPressure" : 1002.0,
+        "outermostRadius" : 200.0
+      },
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [ 148, -16.7 ]
+      }
+    }, {
+      "type" : "Feature",
+      "properties" : {
+        "time" : "2026-01-10T06:00:00Z",
+        "offsetFromReferenceTime" : -26,
+        "type" : "Analysis",
+        "maxMeanWind" : 50.0,
+        "maxWindGust" : 70.0,
+        "maxMeanWind5pct" : 55.0,
+        "maxMeanGust5pct" : 75.0,
+        "centralPressure" : 989.0,
+        "category" : 2.0,
+        "uncertainty" : 25.0,
+        "windRadiiGaleNW" : 45.0,
+        "windRadiiGaleNE" : 180.0,
+        "windRadiiGaleSW" : 90.0,
+        "windRadiiGaleSE" : 150.0,
+        "windRadiiStormNW" : null,
+        "windRadiiStormNE" : 120.0,
+        "windRadiiStormSW" : null,
+        "windRadiiStormSE" : null,
+        "windRadiiHurricaneNW" : null,
+        "windRadiiHurricaneNE" : null,
+        "windRadiiHurricaneSW" : null,
+        "windRadiiHurricaneSE" : null,
+        "radiusMaxWind" : 40.0,
+        "outermostPressure" : 1002.0,
+        "outermostRadius" : 180.0
+      },
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [ 148.1, -17.1 ]
+      }
+    }, {
+      "type" : "Feature",
+      "properties" : {
+        "time" : "2026-01-10T12:00:00Z",
+        "offsetFromReferenceTime" : -20,
+        "type" : "Analysis",
+        "maxMeanWind" : 50.0,
+        "maxWindGust" : 70.0,
+        "maxMeanWind5pct" : 55.0,
+        "maxMeanGust5pct" : 75.0,
+        "centralPressure" : 990.0,
+        "category" : 2.0,
+        "uncertainty" : 30.0,
+        "windRadiiGaleNW" : 45.0,
+        "windRadiiGaleNE" : 150.0,
+        "windRadiiGaleSW" : 80.0,
+        "windRadiiGaleSE" : 170.0,
+        "windRadiiStormNW" : null,
+        "windRadiiStormNE" : null,
+        "windRadiiStormSW" : null,
+        "windRadiiStormSE" : 100.0,
+        "windRadiiHurricaneNW" : null,
+        "windRadiiHurricaneNE" : null,
+        "windRadiiHurricaneSW" : null,
+        "windRadiiHurricaneSE" : null,
+        "radiusMaxWind" : 40.0,
+        "outermostPressure" : 1000.0,
+        "outermostRadius" : 140.0
+      },
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [ 148, -17.9 ]
+      }
+    }, {
+      "type" : "Feature",
+      "properties" : {
+        "time" : "2026-01-10T18:00:00Z",
+        "offsetFromReferenceTime" : -14,
+        "type" : "Analysis",
+        "maxMeanWind" : 45.0,
+        "maxWindGust" : 65.0,
+        "maxMeanWind5pct" : 55.0,
+        "maxMeanGust5pct" : 75.0,
+        "centralPressure" : 990.0,
+        "category" : 1.0,
+        "uncertainty" : 30.0,
+        "windRadiiGaleNW" : null,
+        "windRadiiGaleNE" : 80.0,
+        "windRadiiGaleSW" : 20.0,
+        "windRadiiGaleSE" : 120.0,
+        "windRadiiStormNW" : null,
+        "windRadiiStormNE" : null,
+        "windRadiiStormSW" : null,
+        "windRadiiStormSE" : null,
+        "windRadiiHurricaneNW" : null,
+        "windRadiiHurricaneNE" : null,
+        "windRadiiHurricaneSW" : null,
+        "windRadiiHurricaneSE" : null,
+        "radiusMaxWind" : 40.0,
+        "outermostPressure" : 1000.0,
+        "outermostRadius" : 120.0
+      },
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [ 147.9, -19 ]
+      }
+    }, {
+      "type" : "Feature",
+      "properties" : {
+        "time" : "2026-01-11T00:00:00Z",
+        "offsetFromReferenceTime" : -8,
+        "type" : "Analysis",
+        "maxMeanWind" : 30.0,
+        "maxWindGust" : 45.0,
+        "maxMeanWind5pct" : 40.0,
+        "maxMeanGust5pct" : 55.0,
+        "centralPressure" : 991.0,
+        "category" : 0.0,
+        "uncertainty" : 25.0,
+        "windRadiiGaleNW" : null,
+        "windRadiiGaleNE" : null,
+        "windRadiiGaleSW" : null,
+        "windRadiiGaleSE" : null,
+        "windRadiiStormNW" : null,
+        "windRadiiStormNE" : null,
+        "windRadiiStormSW" : null,
+        "windRadiiStormSE" : null,
+        "windRadiiHurricaneNW" : null,
+        "windRadiiHurricaneNE" : null,
+        "windRadiiHurricaneSW" : null,
+        "windRadiiHurricaneSE" : null,
+        "radiusMaxWind" : null,
+        "outermostPressure" : 1000.0,
+        "outermostRadius" : 140.0
+      },
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [ 147.6, -19.8 ]
+      }
+    }, {
+      "type" : "Feature",
+      "properties" : {
+        "time" : "2026-01-11T06:00:00Z",
+        "offsetFromReferenceTime" : -2,
+        "type" : "Analysis",
+        "maxMeanWind" : 20.0,
+        "maxWindGust" : 45.0,
+        "maxMeanWind5pct" : 30.0,
+        "maxMeanGust5pct" : 45.0,
+        "centralPressure" : 992.0,
+        "category" : 0.0,
+        "uncertainty" : 25.0,
+        "windRadiiGaleNW" : null,
+        "windRadiiGaleNE" : null,
+        "windRadiiGaleSW" : null,
+        "windRadiiGaleSE" : null,
+        "windRadiiStormNW" : null,
+        "windRadiiStormNE" : null,
+        "windRadiiStormSW" : null,
+        "windRadiiStormSE" : null,
+        "windRadiiHurricaneNW" : null,
+        "windRadiiHurricaneNE" : null,
+        "windRadiiHurricaneSW" : null,
+        "windRadiiHurricaneSE" : null,
+        "radiusMaxWind" : null,
+        "outermostPressure" : 998.0,
+        "outermostRadius" : 80.0
+      },
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [ 147.2, -20.7 ]
+      }
+    } ]
+  },
+  "forecastConfidenceAreas" : {
+    "type" : "FeatureCollection",
+    "features" : [ {
+      "type" : "Feature",
+      "properties" : {
+        "time" : "2026-01-11T12:00:00Z",
+        "confidenceLevel" : 50.0
+      },
+      "geometry" : {
+        "type" : "MultiPolygon",
+        "coordinates" : [ [ [ [ 146.794, -21.52 ], [ 146.866, -21.544 ], [ 146.942, -21.544 ], [ 147.028, -21.531 ], [ 147.105, -21.508 ], [ 147.18, -21.466 ], [ 147.234, -21.418 ], [ 147.277, -21.367 ], [ 147.312, -21.31 ], [ 147.345, -21.244 ], [ 147.368, -21.161 ], [ 147.366, -21.074 ], [ 147.351, -20.991 ], [ 147.317, -20.914 ], [ 147.281, -20.859 ], [ 147.241, -20.813 ], [ 147.19, -20.771 ], [ 147.134, -20.736 ], [ 147.079, -20.712 ], [ 147.015, -20.695 ], [ 146.928, -20.686 ], [ 146.842, -20.698 ], [ 146.756, -20.726 ], [ 146.685, -20.777 ], [ 146.631, -20.842 ], [ 146.587, -20.906 ], [ 146.551, -20.974 ], [ 146.52, -21.052 ], [ 146.511, -21.138 ], [ 146.531, -21.225 ], [ 146.556, -21.31 ], [ 146.603, -21.384 ], [ 146.661, -21.44 ], [ 146.722, -21.483 ], [ 146.794, -21.52 ] ] ] ]
+      }
+    }, {
+      "type" : "Feature",
+      "properties" : {
+        "time" : "2026-01-11T12:00:00Z",
+        "confidenceLevel" : 70.0
+      },
+      "geometry" : {
+        "type" : "MultiPolygon",
+        "coordinates" : [ [ [ [ 146.605, -21.573 ], [ 146.68, -21.613 ], [ 146.75, -21.646 ], [ 146.823, -21.67 ], [ 146.906, -21.681 ], [ 146.996, -21.681 ], [ 147.078, -21.67 ], [ 147.156, -21.644 ], [ 147.233, -21.599 ], [ 147.3, -21.544 ], [ 147.355, -21.485 ], [ 147.4, -21.421 ], [ 147.44, -21.35 ], [ 147.479, -21.271 ], [ 147.497, -21.199 ], [ 147.494, -21.128 ], [ 147.483, -21.052 ], [ 147.471, -20.975 ], [ 147.453, -20.906 ], [ 147.423, -20.834 ], [ 147.378, -20.757 ], [ 147.313, -20.698 ], [ 147.24, -20.649 ], [ 147.171, -20.608 ], [ 147.099, -20.578 ], [ 147.015, -20.562 ], [ 146.932, -20.561 ], [ 146.855, -20.569 ], [ 146.782, -20.586 ], [ 146.709, -20.611 ], [ 146.632, -20.644 ], [ 146.565, -20.686 ], [ 146.514, -20.741 ], [ 146.468, -20.808 ], [ 146.43, -20.878 ], [ 146.405, -20.948 ], [ 146.386, -21.026 ], [ 146.376, -21.091 ], [ 146.375, -21.153 ], [ 146.386, -21.218 ], [ 146.413, -21.305 ], [ 146.449, -21.382 ], [ 146.495, -21.462 ], [ 146.542, -21.526 ], [ 146.605, -21.573 ] ] ] ]
+      }
+    }, {
+      "type" : "Feature",
+      "properties" : {
+        "time" : "2026-01-12T00:00:00Z",
+        "confidenceLevel" : 50.0
+      },
+      "geometry" : {
+        "type" : "MultiPolygon",
+        "coordinates" : [ [ [ [ 145.659, -20.97 ], [ 145.72, -21.014 ], [ 145.781, -21.047 ], [ 145.845, -21.073 ], [ 145.918, -21.094 ], [ 145.997, -21.111 ], [ 146.071, -21.12 ], [ 146.145, -21.121 ], [ 146.225, -21.113 ], [ 146.307, -21.101 ], [ 146.381, -21.083 ], [ 146.45, -21.054 ], [ 146.516, -21.006 ], [ 146.585, -20.941 ], [ 146.647, -20.877 ], [ 146.701, -20.812 ], [ 146.748, -20.741 ], [ 146.787, -20.663 ], [ 146.818, -20.574 ], [ 146.836, -20.491 ], [ 146.841, -20.412 ], [ 146.836, -20.335 ], [ 146.822, -20.258 ], [ 146.8, -20.18 ], [ 146.773, -20.098 ], [ 146.736, -20.019 ], [ 146.688, -19.956 ], [ 146.629, -19.899 ], [ 146.561, -19.843 ], [ 146.499, -19.797 ], [ 146.438, -19.761 ], [ 146.373, -19.733 ], [ 146.299, -19.712 ], [ 146.224, -19.699 ], [ 146.154, -19.696 ], [ 146.084, -19.702 ], [ 146.009, -19.712 ], [ 145.934, -19.723 ], [ 145.865, -19.736 ], [ 145.8, -19.759 ], [ 145.738, -19.799 ], [ 145.672, -19.857 ], [ 145.615, -19.916 ], [ 145.565, -19.976 ], [ 145.52, -20.04 ], [ 145.478, -20.111 ], [ 145.436, -20.189 ], [ 145.409, -20.259 ], [ 145.397, -20.327 ], [ 145.396, -20.397 ], [ 145.4, -20.474 ], [ 145.409, -20.548 ], [ 145.424, -20.614 ], [ 145.447, -20.678 ], [ 145.479, -20.746 ], [ 145.517, -20.812 ], [ 145.556, -20.868 ], [ 145.602, -20.92 ], [ 145.659, -20.97 ] ] ] ]
+      }
+    }, {
+      "type" : "Feature",
+      "properties" : {
+        "time" : "2026-01-12T00:00:00Z",
+        "confidenceLevel" : 70.0
+      },
+      "geometry" : {
+        "type" : "MultiPolygon",
+        "coordinates" : [ [ [ [ 145.571, -21.174 ], [ 145.643, -21.216 ], [ 145.711, -21.252 ], [ 145.778, -21.283 ], [ 145.847, -21.309 ], [ 145.92, -21.33 ], [ 146.001, -21.345 ], [ 146.091, -21.354 ], [ 146.174, -21.353 ], [ 146.255, -21.344 ], [ 146.337, -21.327 ], [ 146.424, -21.303 ], [ 146.512, -21.274 ], [ 146.588, -21.239 ], [ 146.658, -21.194 ], [ 146.725, -21.132 ], [ 146.784, -21.067 ], [ 146.837, -21.005 ], [ 146.885, -20.943 ], [ 146.928, -20.878 ], [ 146.966, -20.81 ], [ 146.999, -20.736 ], [ 147.028, -20.654 ], [ 147.049, -20.566 ], [ 147.06, -20.483 ], [ 147.06, -20.403 ], [ 147.054, -20.321 ], [ 147.042, -20.237 ], [ 147.027, -20.147 ], [ 147.009, -20.074 ], [ 146.981, -20.01 ], [ 146.944, -19.95 ], [ 146.899, -19.888 ], [ 146.844, -19.816 ], [ 146.791, -19.752 ], [ 146.736, -19.693 ], [ 146.674, -19.639 ], [ 146.6, -19.589 ], [ 146.515, -19.542 ], [ 146.434, -19.503 ], [ 146.351, -19.475 ], [ 146.264, -19.46 ], [ 146.169, -19.46 ], [ 146.078, -19.471 ], [ 145.994, -19.487 ], [ 145.915, -19.508 ], [ 145.838, -19.534 ], [ 145.763, -19.565 ], [ 145.688, -19.599 ], [ 145.609, -19.636 ], [ 145.526, -19.676 ], [ 145.455, -19.72 ], [ 145.401, -19.776 ], [ 145.356, -19.846 ], [ 145.313, -19.919 ], [ 145.273, -19.986 ], [ 145.238, -20.053 ], [ 145.21, -20.122 ], [ 145.191, -20.195 ], [ 145.184, -20.277 ], [ 145.188, -20.372 ], [ 145.197, -20.461 ], [ 145.211, -20.545 ], [ 145.231, -20.626 ], [ 145.256, -20.706 ], [ 145.285, -20.787 ], [ 145.318, -20.871 ], [ 145.356, -20.959 ], [ 145.395, -21.028 ], [ 145.443, -21.084 ], [ 145.502, -21.13 ], [ 145.571, -21.174 ] ] ] ]
+      }
+    }, {
+      "type" : "Feature",
+      "properties" : {
+        "time" : "2026-01-12T12:00:00Z",
+        "confidenceLevel" : 50.0
+      },
+      "geometry" : {
+        "type" : "MultiPolygon",
+        "coordinates" : [ [ [ [ 144.296, -20.627 ], [ 144.371, -20.683 ], [ 144.445, -20.727 ], [ 144.525, -20.76 ], [ 144.616, -20.785 ], [ 144.694, -20.801 ], [ 144.767, -20.808 ], [ 144.839, -20.809 ], [ 144.912, -20.803 ], [ 144.992, -20.793 ], [ 145.068, -20.781 ], [ 145.137, -20.765 ], [ 145.203, -20.745 ], [ 145.268, -20.717 ], [ 145.335, -20.68 ], [ 145.403, -20.636 ], [ 145.462, -20.589 ], [ 145.514, -20.539 ], [ 145.562, -20.482 ], [ 145.609, -20.416 ], [ 145.655, -20.347 ], [ 145.693, -20.28 ], [ 145.724, -20.213 ], [ 145.743, -20.14 ], [ 145.749, -20.06 ], [ 145.747, -19.972 ], [ 145.742, -19.889 ], [ 145.734, -19.809 ], [ 145.721, -19.732 ], [ 145.702, -19.657 ], [ 145.675, -19.584 ], [ 145.64, -19.51 ], [ 145.594, -19.436 ], [ 145.543, -19.367 ], [ 145.488, -19.307 ], [ 145.43, -19.254 ], [ 145.369, -19.208 ], [ 145.303, -19.168 ], [ 145.232, -19.132 ], [ 145.156, -19.101 ], [ 145.074, -19.073 ], [ 144.982, -19.049 ], [ 144.895, -19.035 ], [ 144.81, -19.031 ], [ 144.725, -19.035 ], [ 144.639, -19.045 ], [ 144.55, -19.058 ], [ 144.455, -19.074 ], [ 144.366, -19.095 ], [ 144.288, -19.128 ], [ 144.216, -19.172 ], [ 144.145, -19.231 ], [ 144.073, -19.297 ], [ 144.01, -19.361 ], [ 143.956, -19.429 ], [ 143.914, -19.506 ], [ 143.886, -19.596 ], [ 143.869, -19.692 ], [ 143.86, -19.782 ], [ 143.86, -19.87 ], [ 143.867, -19.955 ], [ 143.883, -20.041 ], [ 143.907, -20.129 ], [ 143.94, -20.22 ], [ 143.975, -20.295 ], [ 144.016, -20.36 ], [ 144.062, -20.418 ], [ 144.114, -20.471 ], [ 144.17, -20.522 ], [ 144.231, -20.573 ], [ 144.296, -20.627 ] ] ] ]
+      }
+    }, {
+      "type" : "Feature",
+      "properties" : {
+        "time" : "2026-01-12T12:00:00Z",
+        "confidenceLevel" : 70.0
+      },
+      "geometry" : {
+        "type" : "MultiPolygon",
+        "coordinates" : [ [ [ [ 144.148, -20.882 ], [ 144.221, -20.929 ], [ 144.291, -20.971 ], [ 144.36, -21.008 ], [ 144.43, -21.039 ], [ 144.503, -21.063 ], [ 144.581, -21.08 ], [ 144.666, -21.088 ], [ 144.758, -21.09 ], [ 144.844, -21.089 ], [ 144.928, -21.084 ], [ 145.008, -21.076 ], [ 145.087, -21.063 ], [ 145.165, -21.047 ], [ 145.243, -21.026 ], [ 145.322, -21 ], [ 145.403, -20.969 ], [ 145.486, -20.932 ], [ 145.565, -20.89 ], [ 145.633, -20.843 ], [ 145.692, -20.789 ], [ 145.746, -20.73 ], [ 145.796, -20.666 ], [ 145.845, -20.597 ], [ 145.896, -20.522 ], [ 145.949, -20.443 ], [ 145.991, -20.366 ], [ 146.024, -20.287 ], [ 146.044, -20.203 ], [ 146.051, -20.11 ], [ 146.05, -20.014 ], [ 146.046, -19.924 ], [ 146.039, -19.837 ], [ 146.027, -19.754 ], [ 146.012, -19.672 ], [ 145.991, -19.59 ], [ 145.965, -19.508 ], [ 145.934, -19.423 ], [ 145.896, -19.335 ], [ 145.854, -19.256 ], [ 145.804, -19.188 ], [ 145.747, -19.129 ], [ 145.684, -19.076 ], [ 145.614, -19.026 ], [ 145.537, -18.976 ], [ 145.464, -18.931 ], [ 145.395, -18.893 ], [ 145.326, -18.86 ], [ 145.257, -18.832 ], [ 145.184, -18.808 ], [ 145.107, -18.788 ], [ 145.024, -18.77 ], [ 144.938, -18.756 ], [ 144.858, -18.746 ], [ 144.78, -18.741 ], [ 144.704, -18.741 ], [ 144.626, -18.746 ], [ 144.546, -18.756 ], [ 144.46, -18.77 ], [ 144.376, -18.787 ], [ 144.298, -18.804 ], [ 144.225, -18.825 ], [ 144.154, -18.85 ], [ 144.086, -18.882 ], [ 144.019, -18.923 ], [ 143.951, -18.973 ], [ 143.886, -19.03 ], [ 143.827, -19.087 ], [ 143.774, -19.146 ], [ 143.727, -19.207 ], [ 143.685, -19.271 ], [ 143.647, -19.34 ], [ 143.614, -19.414 ], [ 143.583, -19.496 ], [ 143.56, -19.579 ], [ 143.546, -19.659 ], [ 143.542, -19.736 ], [ 143.545, -19.814 ], [ 143.553, -19.892 ], [ 143.567, -19.974 ], [ 143.583, -20.06 ], [ 143.604, -20.148 ], [ 143.629, -20.227 ], [ 143.66, -20.302 ], [ 143.696, -20.374 ], [ 143.739, -20.447 ], [ 143.789, -20.522 ], [ 143.842, -20.596 ], [ 143.894, -20.662 ], [ 143.949, -20.722 ], [ 144.008, -20.778 ], [ 144.074, -20.83 ], [ 144.148, -20.882 ] ] ] ]
+      }
+    }, {
+      "type" : "Feature",
+      "properties" : {
+        "time" : "2026-01-13T00:00:00Z",
+        "confidenceLevel" : 50.0
+      },
+      "geometry" : {
+        "type" : "MultiPolygon",
+        "coordinates" : [ [ [ [ 142.732, -20.294 ], [ 142.805, -20.351 ], [ 142.874, -20.404 ], [ 142.941, -20.452 ], [ 143.012, -20.495 ], [ 143.088, -20.532 ], [ 143.175, -20.563 ], [ 143.267, -20.588 ], [ 143.355, -20.603 ], [ 143.442, -20.606 ], [ 143.528, -20.593 ], [ 143.617, -20.561 ], [ 143.693, -20.516 ], [ 143.755, -20.461 ], [ 143.804, -20.396 ], [ 143.845, -20.321 ], [ 143.879, -20.237 ], [ 143.907, -20.154 ], [ 143.926, -20.075 ], [ 143.939, -19.998 ], [ 143.946, -19.921 ], [ 143.949, -19.842 ], [ 143.947, -19.76 ], [ 143.943, -19.672 ], [ 143.936, -19.59 ], [ 143.923, -19.515 ], [ 143.906, -19.444 ], [ 143.883, -19.374 ], [ 143.854, -19.304 ], [ 143.818, -19.23 ], [ 143.773, -19.15 ], [ 143.727, -19.08 ], [ 143.678, -19.016 ], [ 143.625, -18.954 ], [ 143.569, -18.891 ], [ 143.507, -18.823 ], [ 143.445, -18.756 ], [ 143.388, -18.693 ], [ 143.331, -18.636 ], [ 143.271, -18.581 ], [ 143.206, -18.529 ], [ 143.13, -18.478 ], [ 143.052, -18.431 ], [ 142.978, -18.388 ], [ 142.905, -18.349 ], [ 142.834, -18.313 ], [ 142.762, -18.28 ], [ 142.688, -18.249 ], [ 142.612, -18.22 ], [ 142.53, -18.193 ], [ 142.443, -18.166 ], [ 142.362, -18.145 ], [ 142.284, -18.132 ], [ 142.209, -18.129 ], [ 142.134, -18.14 ], [ 142.056, -18.168 ], [ 141.977, -18.216 ], [ 141.915, -18.278 ], [ 141.872, -18.353 ], [ 141.853, -18.442 ], [ 141.848, -18.532 ], [ 141.848, -18.617 ], [ 141.852, -18.698 ], [ 141.859, -18.776 ], [ 141.871, -18.854 ], [ 141.886, -18.93 ], [ 141.904, -19.008 ], [ 141.926, -19.086 ], [ 141.95, -19.168 ], [ 141.978, -19.253 ], [ 142.01, -19.342 ], [ 142.043, -19.425 ], [ 142.079, -19.502 ], [ 142.116, -19.576 ], [ 142.157, -19.647 ], [ 142.201, -19.718 ], [ 142.248, -19.789 ], [ 142.299, -19.863 ], [ 142.354, -19.94 ], [ 142.411, -20.012 ], [ 142.468, -20.075 ], [ 142.527, -20.132 ], [ 142.59, -20.185 ], [ 142.658, -20.238 ], [ 142.732, -20.294 ] ] ] ]
+      }
+    }, {
+      "type" : "Feature",
+      "properties" : {
+        "time" : "2026-01-13T00:00:00Z",
+        "confidenceLevel" : 70.0
+      },
+      "geometry" : {
+        "type" : "MultiPolygon",
+        "coordinates" : [ [ [ [ 142.666, -20.62 ], [ 142.744, -20.679 ], [ 142.82, -20.733 ], [ 142.896, -20.781 ], [ 142.972, -20.824 ], [ 143.049, -20.862 ], [ 143.128, -20.896 ], [ 143.209, -20.925 ], [ 143.295, -20.951 ], [ 143.386, -20.974 ], [ 143.482, -20.994 ], [ 143.576, -21.005 ], [ 143.665, -21.003 ], [ 143.75, -20.987 ], [ 143.832, -20.959 ], [ 143.912, -20.918 ], [ 143.991, -20.865 ], [ 144.061, -20.806 ], [ 144.118, -20.741 ], [ 144.163, -20.671 ], [ 144.199, -20.595 ], [ 144.227, -20.512 ], [ 144.248, -20.421 ], [ 144.265, -20.33 ], [ 144.28, -20.242 ], [ 144.292, -20.158 ], [ 144.302, -20.075 ], [ 144.309, -19.994 ], [ 144.315, -19.914 ], [ 144.319, -19.835 ], [ 144.322, -19.755 ], [ 144.323, -19.675 ], [ 144.322, -19.593 ], [ 144.321, -19.51 ], [ 144.319, -19.424 ], [ 144.316, -19.334 ], [ 144.312, -19.242 ], [ 144.301, -19.15 ], [ 144.275, -19.069 ], [ 144.236, -18.993 ], [ 144.184, -18.917 ], [ 144.125, -18.841 ], [ 144.068, -18.771 ], [ 144.012, -18.706 ], [ 143.955, -18.645 ], [ 143.895, -18.586 ], [ 143.831, -18.529 ], [ 143.761, -18.473 ], [ 143.684, -18.417 ], [ 143.604, -18.363 ], [ 143.527, -18.313 ], [ 143.453, -18.268 ], [ 143.379, -18.225 ], [ 143.306, -18.185 ], [ 143.233, -18.147 ], [ 143.159, -18.11 ], [ 143.084, -18.073 ], [ 143.007, -18.037 ], [ 142.927, -18 ], [ 142.843, -17.962 ], [ 142.756, -17.922 ], [ 142.673, -17.884 ], [ 142.596, -17.849 ], [ 142.521, -17.818 ], [ 142.446, -17.791 ], [ 142.369, -17.768 ], [ 142.287, -17.749 ], [ 142.197, -17.736 ], [ 142.104, -17.728 ], [ 142.017, -17.727 ], [ 141.934, -17.733 ], [ 141.853, -17.747 ], [ 141.769, -17.77 ], [ 141.682, -17.802 ], [ 141.612, -17.85 ], [ 141.569, -17.921 ], [ 141.546, -18.006 ], [ 141.533, -18.099 ], [ 141.522, -18.186 ], [ 141.515, -18.269 ], [ 141.511, -18.351 ], [ 141.512, -18.433 ], [ 141.518, -18.516 ], [ 141.529, -18.603 ], [ 141.546, -18.694 ], [ 141.566, -18.787 ], [ 141.586, -18.876 ], [ 141.607, -18.961 ], [ 141.628, -19.043 ], [ 141.65, -19.123 ], [ 141.674, -19.202 ], [ 141.7, -19.279 ], [ 141.728, -19.355 ], [ 141.759, -19.432 ], [ 141.793, -19.509 ], [ 141.831, -19.588 ], [ 141.873, -19.668 ], [ 141.919, -19.75 ], [ 141.969, -19.834 ], [ 142.018, -19.913 ], [ 142.068, -19.987 ], [ 142.117, -20.058 ], [ 142.168, -20.127 ], [ 142.221, -20.192 ], [ 142.275, -20.256 ], [ 142.332, -20.317 ], [ 142.391, -20.378 ], [ 142.454, -20.438 ], [ 142.52, -20.498 ], [ 142.591, -20.558 ], [ 142.666, -20.62 ] ] ] ]
+      }
+    }, {
+      "type" : "Feature",
+      "properties" : {
+        "time" : "2026-01-13T12:00:00Z",
+        "confidenceLevel" : 50.0
+      },
+      "geometry" : {
+        "type" : "MultiPolygon",
+        "coordinates" : [ [ [ [ 141.518, -19.328 ], [ 141.576, -19.371 ], [ 141.632, -19.405 ], [ 141.692, -19.43 ], [ 141.762, -19.448 ], [ 141.845, -19.463 ], [ 141.923, -19.472 ], [ 141.999, -19.474 ], [ 142.077, -19.466 ], [ 142.159, -19.448 ], [ 142.237, -19.42 ], [ 142.306, -19.383 ], [ 142.362, -19.332 ], [ 142.403, -19.263 ], [ 142.436, -19.175 ], [ 142.463, -19.092 ], [ 142.483, -19.01 ], [ 142.497, -18.929 ], [ 142.507, -18.847 ], [ 142.513, -18.763 ], [ 142.516, -18.675 ], [ 142.517, -18.581 ], [ 142.511, -18.504 ], [ 142.495, -18.434 ], [ 142.471, -18.369 ], [ 142.44, -18.303 ], [ 142.403, -18.234 ], [ 142.362, -18.16 ], [ 142.321, -18.093 ], [ 142.28, -18.031 ], [ 142.237, -17.971 ], [ 142.192, -17.911 ], [ 142.144, -17.849 ], [ 142.091, -17.783 ], [ 142.039, -17.717 ], [ 141.991, -17.654 ], [ 141.945, -17.595 ], [ 141.897, -17.538 ], [ 141.846, -17.485 ], [ 141.788, -17.433 ], [ 141.721, -17.382 ], [ 141.647, -17.335 ], [ 141.575, -17.298 ], [ 141.503, -17.268 ], [ 141.429, -17.245 ], [ 141.349, -17.226 ], [ 141.263, -17.21 ], [ 141.176, -17.205 ], [ 141.096, -17.222 ], [ 141.023, -17.267 ], [ 140.955, -17.33 ], [ 140.895, -17.392 ], [ 140.843, -17.455 ], [ 140.797, -17.524 ], [ 140.758, -17.599 ], [ 140.726, -17.685 ], [ 140.707, -17.766 ], [ 140.7, -17.842 ], [ 140.702, -17.916 ], [ 140.712, -17.991 ], [ 140.726, -18.068 ], [ 140.742, -18.151 ], [ 140.76, -18.232 ], [ 140.779, -18.307 ], [ 140.802, -18.377 ], [ 140.828, -18.446 ], [ 140.859, -18.517 ], [ 140.896, -18.591 ], [ 140.937, -18.667 ], [ 140.978, -18.735 ], [ 141.02, -18.797 ], [ 141.065, -18.858 ], [ 141.115, -18.92 ], [ 141.169, -18.986 ], [ 141.226, -19.052 ], [ 141.28, -19.112 ], [ 141.334, -19.167 ], [ 141.39, -19.22 ], [ 141.45, -19.273 ], [ 141.518, -19.328 ] ] ] ]
+      }
+    }, {
+      "type" : "Feature",
+      "properties" : {
+        "time" : "2026-01-13T12:00:00Z",
+        "confidenceLevel" : 70.0
+      },
+      "geometry" : {
+        "type" : "MultiPolygon",
+        "coordinates" : [ [ [ [ 141.242, -19.444 ], [ 141.317, -19.502 ], [ 141.391, -19.554 ], [ 141.465, -19.6 ], [ 141.539, -19.64 ], [ 141.615, -19.676 ], [ 141.691, -19.708 ], [ 141.77, -19.737 ], [ 141.851, -19.763 ], [ 141.936, -19.787 ], [ 142.024, -19.81 ], [ 142.117, -19.832 ], [ 142.208, -19.838 ], [ 142.291, -19.818 ], [ 142.37, -19.777 ], [ 142.449, -19.723 ], [ 142.514, -19.674 ], [ 142.573, -19.624 ], [ 142.626, -19.572 ], [ 142.671, -19.515 ], [ 142.709, -19.45 ], [ 142.739, -19.375 ], [ 142.764, -19.289 ], [ 142.783, -19.207 ], [ 142.797, -19.127 ], [ 142.806, -19.049 ], [ 142.811, -18.971 ], [ 142.812, -18.892 ], [ 142.809, -18.811 ], [ 142.804, -18.726 ], [ 142.797, -18.637 ], [ 142.787, -18.554 ], [ 142.772, -18.478 ], [ 142.752, -18.406 ], [ 142.728, -18.336 ], [ 142.699, -18.267 ], [ 142.665, -18.197 ], [ 142.627, -18.122 ], [ 142.58, -18.038 ], [ 142.532, -17.963 ], [ 142.483, -17.893 ], [ 142.431, -17.827 ], [ 142.377, -17.76 ], [ 142.32, -17.691 ], [ 142.258, -17.617 ], [ 142.197, -17.543 ], [ 142.14, -17.473 ], [ 142.085, -17.408 ], [ 142.029, -17.345 ], [ 141.97, -17.283 ], [ 141.906, -17.221 ], [ 141.833, -17.158 ], [ 141.769, -17.106 ], [ 141.707, -17.059 ], [ 141.645, -17.017 ], [ 141.581, -16.982 ], [ 141.51, -16.953 ], [ 141.431, -16.93 ], [ 141.344, -16.913 ], [ 141.262, -16.901 ], [ 141.183, -16.896 ], [ 141.104, -16.896 ], [ 141.025, -16.903 ], [ 140.943, -16.914 ], [ 140.855, -16.932 ], [ 140.781, -16.957 ], [ 140.719, -16.995 ], [ 140.666, -17.046 ], [ 140.619, -17.11 ], [ 140.573, -17.186 ], [ 140.534, -17.259 ], [ 140.503, -17.331 ], [ 140.478, -17.406 ], [ 140.459, -17.486 ], [ 140.446, -17.573 ], [ 140.44, -17.658 ], [ 140.44, -17.737 ], [ 140.446, -17.812 ], [ 140.456, -17.886 ], [ 140.47, -17.961 ], [ 140.486, -18.039 ], [ 140.504, -18.122 ], [ 140.522, -18.206 ], [ 140.538, -18.283 ], [ 140.556, -18.357 ], [ 140.577, -18.429 ], [ 140.602, -18.5 ], [ 140.633, -18.572 ], [ 140.672, -18.647 ], [ 140.72, -18.733 ], [ 140.764, -18.815 ], [ 140.808, -18.894 ], [ 140.851, -18.969 ], [ 140.895, -19.043 ], [ 140.941, -19.113 ], [ 140.991, -19.182 ], [ 141.044, -19.249 ], [ 141.103, -19.315 ], [ 141.169, -19.38 ], [ 141.242, -19.444 ] ] ] ]
+      }
+    }, {
+      "type" : "Feature",
+      "properties" : {
+        "time" : "2026-01-14T00:00:00Z",
+        "confidenceLevel" : 50.0
+      },
+      "geometry" : {
+        "type" : "MultiPolygon",
+        "coordinates" : [ [ [ [ 140.311, -18.445 ], [ 140.367, -18.499 ], [ 140.418, -18.55 ], [ 140.472, -18.594 ], [ 140.531, -18.631 ], [ 140.601, -18.661 ], [ 140.676, -18.682 ], [ 140.748, -18.692 ], [ 140.818, -18.693 ], [ 140.889, -18.681 ], [ 140.962, -18.659 ], [ 141.036, -18.621 ], [ 141.094, -18.571 ], [ 141.142, -18.509 ], [ 141.186, -18.437 ], [ 141.225, -18.36 ], [ 141.254, -18.286 ], [ 141.275, -18.212 ], [ 141.292, -18.134 ], [ 141.308, -18.048 ], [ 141.322, -17.964 ], [ 141.332, -17.886 ], [ 141.336, -17.81 ], [ 141.336, -17.732 ], [ 141.331, -17.647 ], [ 141.321, -17.565 ], [ 141.307, -17.492 ], [ 141.288, -17.421 ], [ 141.265, -17.35 ], [ 141.235, -17.273 ], [ 141.203, -17.196 ], [ 141.172, -17.127 ], [ 141.137, -17.062 ], [ 141.095, -16.998 ], [ 141.043, -16.934 ], [ 140.988, -16.873 ], [ 140.934, -16.818 ], [ 140.88, -16.768 ], [ 140.822, -16.724 ], [ 140.758, -16.684 ], [ 140.684, -16.648 ], [ 140.608, -16.621 ], [ 140.534, -16.61 ], [ 140.46, -16.618 ], [ 140.386, -16.646 ], [ 140.304, -16.694 ], [ 140.23, -16.744 ], [ 140.165, -16.798 ], [ 140.107, -16.86 ], [ 140.056, -16.931 ], [ 140.013, -17.014 ], [ 139.982, -17.096 ], [ 139.959, -17.175 ], [ 139.944, -17.253 ], [ 139.935, -17.33 ], [ 139.932, -17.408 ], [ 139.933, -17.488 ], [ 139.936, -17.572 ], [ 139.942, -17.66 ], [ 139.951, -17.752 ], [ 139.966, -17.837 ], [ 139.987, -17.917 ], [ 140.014, -17.995 ], [ 140.047, -18.075 ], [ 140.086, -18.159 ], [ 140.122, -18.227 ], [ 140.162, -18.286 ], [ 140.207, -18.339 ], [ 140.256, -18.39 ], [ 140.311, -18.445 ] ] ] ]
+      }
+    }, {
+      "type" : "Feature",
+      "properties" : {
+        "time" : "2026-01-14T00:00:00Z",
+        "confidenceLevel" : 70.0
+      },
+      "geometry" : {
+        "type" : "MultiPolygon",
+        "coordinates" : [ [ [ [ 140.086, -18.715 ], [ 140.155, -18.783 ], [ 140.222, -18.846 ], [ 140.287, -18.904 ], [ 140.353, -18.959 ], [ 140.42, -19.01 ], [ 140.489, -19.058 ], [ 140.561, -19.102 ], [ 140.638, -19.143 ], [ 140.721, -19.182 ], [ 140.81, -19.217 ], [ 140.901, -19.239 ], [ 140.989, -19.239 ], [ 141.075, -19.22 ], [ 141.16, -19.186 ], [ 141.246, -19.142 ], [ 141.311, -19.098 ], [ 141.363, -19.047 ], [ 141.405, -18.988 ], [ 141.439, -18.922 ], [ 141.467, -18.848 ], [ 141.495, -18.759 ], [ 141.515, -18.675 ], [ 141.528, -18.594 ], [ 141.538, -18.513 ], [ 141.544, -18.43 ], [ 141.549, -18.343 ], [ 141.554, -18.25 ], [ 141.56, -18.157 ], [ 141.565, -18.07 ], [ 141.569, -17.987 ], [ 141.569, -17.906 ], [ 141.565, -17.823 ], [ 141.556, -17.738 ], [ 141.539, -17.647 ], [ 141.519, -17.558 ], [ 141.499, -17.474 ], [ 141.478, -17.394 ], [ 141.455, -17.317 ], [ 141.43, -17.242 ], [ 141.402, -17.168 ], [ 141.371, -17.094 ], [ 141.336, -17.019 ], [ 141.296, -16.943 ], [ 141.251, -16.864 ], [ 141.202, -16.785 ], [ 141.151, -16.714 ], [ 141.097, -16.649 ], [ 141.039, -16.59 ], [ 140.975, -16.536 ], [ 140.904, -16.486 ], [ 140.823, -16.44 ], [ 140.74, -16.399 ], [ 140.657, -16.368 ], [ 140.575, -16.349 ], [ 140.492, -16.341 ], [ 140.406, -16.347 ], [ 140.317, -16.368 ], [ 140.234, -16.4 ], [ 140.162, -16.439 ], [ 140.097, -16.486 ], [ 140.038, -16.54 ], [ 139.983, -16.6 ], [ 139.929, -16.665 ], [ 139.874, -16.736 ], [ 139.826, -16.807 ], [ 139.788, -16.878 ], [ 139.758, -16.948 ], [ 139.735, -17.022 ], [ 139.714, -17.1 ], [ 139.695, -17.185 ], [ 139.677, -17.268 ], [ 139.665, -17.346 ], [ 139.658, -17.421 ], [ 139.655, -17.497 ], [ 139.657, -17.575 ], [ 139.664, -17.66 ], [ 139.674, -17.748 ], [ 139.686, -17.829 ], [ 139.7, -17.907 ], [ 139.718, -17.982 ], [ 139.74, -18.057 ], [ 139.766, -18.135 ], [ 139.797, -18.218 ], [ 139.83, -18.301 ], [ 139.863, -18.378 ], [ 139.896, -18.45 ], [ 139.933, -18.519 ], [ 139.976, -18.585 ], [ 140.026, -18.65 ], [ 140.086, -18.715 ] ] ] ]
+      }
+    }, {
+      "type" : "Feature",
+      "properties" : {
+        "time" : "2026-01-14T12:00:00Z",
+        "confidenceLevel" : 50.0
+      },
+      "geometry" : {
+        "type" : "MultiPolygon",
+        "coordinates" : [ [ [ [ 139.671, -19.409 ], [ 139.751, -19.439 ], [ 139.827, -19.466 ], [ 139.899, -19.491 ], [ 139.971, -19.513 ], [ 140.045, -19.533 ], [ 140.123, -19.551 ], [ 140.207, -19.567 ], [ 140.294, -19.582 ], [ 140.375, -19.589 ], [ 140.455, -19.584 ], [ 140.54, -19.565 ], [ 140.628, -19.539 ], [ 140.713, -19.514 ], [ 140.793, -19.487 ], [ 140.869, -19.456 ], [ 140.94, -19.416 ], [ 141.006, -19.364 ], [ 141.066, -19.297 ], [ 141.118, -19.219 ], [ 141.156, -19.14 ], [ 141.182, -19.059 ], [ 141.197, -18.975 ], [ 141.204, -18.889 ], [ 141.204, -18.798 ], [ 141.2, -18.703 ], [ 141.189, -18.613 ], [ 141.168, -18.532 ], [ 141.138, -18.457 ], [ 141.1, -18.384 ], [ 141.055, -18.312 ], [ 141.003, -18.237 ], [ 140.951, -18.168 ], [ 140.901, -18.107 ], [ 140.849, -18.051 ], [ 140.796, -17.998 ], [ 140.741, -17.948 ], [ 140.682, -17.898 ], [ 140.62, -17.847 ], [ 140.554, -17.793 ], [ 140.478, -17.733 ], [ 140.407, -17.679 ], [ 140.337, -17.63 ], [ 140.266, -17.584 ], [ 140.193, -17.54 ], [ 140.114, -17.498 ], [ 140.027, -17.456 ], [ 139.947, -17.422 ], [ 139.871, -17.395 ], [ 139.796, -17.375 ], [ 139.72, -17.358 ], [ 139.64, -17.345 ], [ 139.554, -17.332 ], [ 139.465, -17.321 ], [ 139.383, -17.313 ], [ 139.304, -17.309 ], [ 139.225, -17.309 ], [ 139.143, -17.315 ], [ 139.054, -17.326 ], [ 138.978, -17.339 ], [ 138.908, -17.357 ], [ 138.843, -17.382 ], [ 138.78, -17.415 ], [ 138.716, -17.459 ], [ 138.644, -17.52 ], [ 138.58, -17.581 ], [ 138.527, -17.646 ], [ 138.482, -17.72 ], [ 138.446, -17.806 ], [ 138.424, -17.884 ], [ 138.413, -17.959 ], [ 138.411, -18.032 ], [ 138.417, -18.105 ], [ 138.429, -18.181 ], [ 138.447, -18.261 ], [ 138.472, -18.351 ], [ 138.503, -18.432 ], [ 138.541, -18.507 ], [ 138.587, -18.581 ], [ 138.643, -18.657 ], [ 138.699, -18.726 ], [ 138.752, -18.791 ], [ 138.805, -18.852 ], [ 138.857, -18.91 ], [ 138.912, -18.965 ], [ 138.968, -19.018 ], [ 139.029, -19.071 ], [ 139.094, -19.124 ], [ 139.165, -19.178 ], [ 139.235, -19.226 ], [ 139.304, -19.265 ], [ 139.373, -19.298 ], [ 139.442, -19.326 ], [ 139.514, -19.353 ], [ 139.59, -19.38 ], [ 139.671, -19.409 ] ] ] ]
+      }
+    }, {
+      "type" : "Feature",
+      "properties" : {
+        "time" : "2026-01-14T12:00:00Z",
+        "confidenceLevel" : 70.0
+      },
+      "geometry" : {
+        "type" : "MultiPolygon",
+        "coordinates" : [ [ [ [ 139.165, -19.562 ], [ 139.25, -19.608 ], [ 139.333, -19.651 ], [ 139.414, -19.69 ], [ 139.494, -19.726 ], [ 139.573, -19.76 ], [ 139.651, -19.79 ], [ 139.73, -19.818 ], [ 139.81, -19.844 ], [ 139.891, -19.867 ], [ 139.973, -19.888 ], [ 140.059, -19.906 ], [ 140.147, -19.923 ], [ 140.239, -19.938 ], [ 140.335, -19.952 ], [ 140.428, -19.961 ], [ 140.516, -19.964 ], [ 140.601, -19.961 ], [ 140.683, -19.953 ], [ 140.763, -19.941 ], [ 140.843, -19.924 ], [ 140.924, -19.903 ], [ 141.006, -19.879 ], [ 141.091, -19.851 ], [ 141.18, -19.821 ], [ 141.269, -19.787 ], [ 141.348, -19.746 ], [ 141.416, -19.694 ], [ 141.474, -19.629 ], [ 141.518, -19.548 ], [ 141.553, -19.46 ], [ 141.583, -19.376 ], [ 141.608, -19.293 ], [ 141.629, -19.212 ], [ 141.645, -19.13 ], [ 141.656, -19.049 ], [ 141.661, -18.965 ], [ 141.662, -18.879 ], [ 141.658, -18.79 ], [ 141.648, -18.697 ], [ 141.633, -18.61 ], [ 141.612, -18.53 ], [ 141.586, -18.455 ], [ 141.554, -18.383 ], [ 141.517, -18.315 ], [ 141.475, -18.248 ], [ 141.428, -18.182 ], [ 141.378, -18.114 ], [ 141.323, -18.045 ], [ 141.262, -17.97 ], [ 141.203, -17.901 ], [ 141.144, -17.835 ], [ 141.085, -17.774 ], [ 141.026, -17.715 ], [ 140.965, -17.659 ], [ 140.901, -17.605 ], [ 140.835, -17.552 ], [ 140.764, -17.5 ], [ 140.689, -17.448 ], [ 140.609, -17.395 ], [ 140.526, -17.343 ], [ 140.447, -17.296 ], [ 140.368, -17.253 ], [ 140.291, -17.214 ], [ 140.215, -17.177 ], [ 140.137, -17.144 ], [ 140.058, -17.114 ], [ 139.976, -17.085 ], [ 139.891, -17.058 ], [ 139.802, -17.033 ], [ 139.707, -17.008 ], [ 139.619, -16.987 ], [ 139.535, -16.97 ], [ 139.453, -16.957 ], [ 139.374, -16.947 ], [ 139.295, -16.94 ], [ 139.217, -16.935 ], [ 139.138, -16.933 ], [ 139.058, -16.933 ], [ 138.975, -16.934 ], [ 138.889, -16.937 ], [ 138.798, -16.941 ], [ 138.707, -16.948 ], [ 138.622, -16.961 ], [ 138.542, -16.984 ], [ 138.467, -17.02 ], [ 138.396, -17.075 ], [ 138.331, -17.136 ], [ 138.271, -17.196 ], [ 138.216, -17.256 ], [ 138.164, -17.316 ], [ 138.117, -17.378 ], [ 138.073, -17.442 ], [ 138.034, -17.51 ], [ 137.997, -17.582 ], [ 137.964, -17.659 ], [ 137.934, -17.742 ], [ 137.912, -17.833 ], [ 137.908, -17.92 ], [ 137.919, -18.005 ], [ 137.939, -18.089 ], [ 137.968, -18.176 ], [ 138, -18.267 ], [ 138.031, -18.352 ], [ 138.062, -18.431 ], [ 138.095, -18.505 ], [ 138.13, -18.576 ], [ 138.169, -18.645 ], [ 138.214, -18.713 ], [ 138.265, -18.78 ], [ 138.323, -18.849 ], [ 138.386, -18.918 ], [ 138.446, -18.984 ], [ 138.506, -19.047 ], [ 138.564, -19.107 ], [ 138.623, -19.164 ], [ 138.682, -19.219 ], [ 138.742, -19.272 ], [ 138.804, -19.324 ], [ 138.869, -19.374 ], [ 138.936, -19.422 ], [ 139.008, -19.469 ], [ 139.084, -19.516 ], [ 139.165, -19.562 ] ] ] ]
+      }
+    }, {
+      "type" : "Feature",
+      "properties" : {
+        "time" : "2026-01-15T00:00:00Z",
+        "confidenceLevel" : 50.0
+      },
+      "geometry" : {
+        "type" : "MultiPolygon",
+        "coordinates" : [ [ [ [ 137.219, -18.546 ], [ 137.307, -18.59 ], [ 137.391, -18.632 ], [ 137.473, -18.671 ], [ 137.553, -18.708 ], [ 137.632, -18.743 ], [ 137.71, -18.775 ], [ 137.789, -18.805 ], [ 137.87, -18.833 ], [ 137.954, -18.858 ], [ 138.041, -18.882 ], [ 138.132, -18.903 ], [ 138.228, -18.923 ], [ 138.319, -18.938 ], [ 138.405, -18.95 ], [ 138.489, -18.959 ], [ 138.57, -18.964 ], [ 138.65, -18.967 ], [ 138.729, -18.967 ], [ 138.808, -18.964 ], [ 138.888, -18.959 ], [ 138.97, -18.953 ], [ 139.054, -18.944 ], [ 139.141, -18.934 ], [ 139.232, -18.922 ], [ 139.317, -18.91 ], [ 139.396, -18.896 ], [ 139.471, -18.877 ], [ 139.543, -18.852 ], [ 139.612, -18.82 ], [ 139.68, -18.779 ], [ 139.747, -18.727 ], [ 139.819, -18.664 ], [ 139.886, -18.601 ], [ 139.947, -18.538 ], [ 140.002, -18.472 ], [ 140.048, -18.401 ], [ 140.086, -18.325 ], [ 140.113, -18.242 ], [ 140.129, -18.15 ], [ 140.132, -18.056 ], [ 140.121, -17.97 ], [ 140.099, -17.888 ], [ 140.066, -17.811 ], [ 140.026, -17.735 ], [ 139.98, -17.659 ], [ 139.929, -17.582 ], [ 139.875, -17.503 ], [ 139.822, -17.43 ], [ 139.765, -17.368 ], [ 139.705, -17.315 ], [ 139.639, -17.267 ], [ 139.567, -17.223 ], [ 139.487, -17.18 ], [ 139.405, -17.137 ], [ 139.326, -17.097 ], [ 139.25, -17.059 ], [ 139.176, -17.024 ], [ 139.102, -16.991 ], [ 139.029, -16.96 ], [ 138.955, -16.93 ], [ 138.879, -16.903 ], [ 138.801, -16.876 ], [ 138.721, -16.851 ], [ 138.636, -16.827 ], [ 138.546, -16.804 ], [ 138.458, -16.783 ], [ 138.375, -16.765 ], [ 138.294, -16.751 ], [ 138.215, -16.739 ], [ 138.137, -16.731 ], [ 138.059, -16.726 ], [ 137.98, -16.725 ], [ 137.898, -16.727 ], [ 137.813, -16.732 ], [ 137.723, -16.741 ], [ 137.63, -16.753 ], [ 137.541, -16.766 ], [ 137.456, -16.78 ], [ 137.375, -16.798 ], [ 137.295, -16.818 ], [ 137.217, -16.843 ], [ 137.139, -16.872 ], [ 137.061, -16.907 ], [ 136.982, -16.948 ], [ 136.902, -16.995 ], [ 136.831, -17.046 ], [ 136.772, -17.102 ], [ 136.723, -17.163 ], [ 136.681, -17.229 ], [ 136.644, -17.3 ], [ 136.61, -17.376 ], [ 136.576, -17.458 ], [ 136.552, -17.54 ], [ 136.546, -17.619 ], [ 136.555, -17.698 ], [ 136.578, -17.781 ], [ 136.609, -17.867 ], [ 136.643, -17.944 ], [ 136.681, -18.015 ], [ 136.724, -18.084 ], [ 136.774, -18.152 ], [ 136.831, -18.223 ], [ 136.89, -18.292 ], [ 136.948, -18.353 ], [ 137.007, -18.408 ], [ 137.07, -18.457 ], [ 137.14, -18.503 ], [ 137.219, -18.546 ] ] ] ]
+      }
+    }, {
+      "type" : "Feature",
+      "properties" : {
+        "time" : "2026-01-15T00:00:00Z",
+        "confidenceLevel" : 70.0
+      },
+      "geometry" : {
+        "type" : "MultiPolygon",
+        "coordinates" : [ [ [ [ 137.094, -18.921 ], [ 137.183, -18.964 ], [ 137.268, -19.004 ], [ 137.352, -19.041 ], [ 137.434, -19.075 ], [ 137.515, -19.106 ], [ 137.595, -19.134 ], [ 137.676, -19.16 ], [ 137.757, -19.184 ], [ 137.84, -19.207 ], [ 137.924, -19.227 ], [ 138.01, -19.246 ], [ 138.1, -19.264 ], [ 138.193, -19.281 ], [ 138.291, -19.297 ], [ 138.383, -19.311 ], [ 138.472, -19.323 ], [ 138.559, -19.333 ], [ 138.643, -19.341 ], [ 138.725, -19.347 ], [ 138.806, -19.351 ], [ 138.887, -19.353 ], [ 138.967, -19.352 ], [ 139.048, -19.349 ], [ 139.13, -19.344 ], [ 139.214, -19.336 ], [ 139.3, -19.325 ], [ 139.389, -19.312 ], [ 139.481, -19.296 ], [ 139.575, -19.278 ], [ 139.664, -19.256 ], [ 139.748, -19.233 ], [ 139.829, -19.206 ], [ 139.907, -19.176 ], [ 139.983, -19.143 ], [ 140.058, -19.106 ], [ 140.133, -19.065 ], [ 140.209, -19.02 ], [ 140.286, -18.971 ], [ 140.365, -18.918 ], [ 140.436, -18.866 ], [ 140.5, -18.811 ], [ 140.556, -18.753 ], [ 140.604, -18.691 ], [ 140.643, -18.622 ], [ 140.672, -18.546 ], [ 140.691, -18.462 ], [ 140.703, -18.369 ], [ 140.711, -18.281 ], [ 140.714, -18.195 ], [ 140.712, -18.111 ], [ 140.704, -18.029 ], [ 140.69, -17.948 ], [ 140.669, -17.868 ], [ 140.641, -17.789 ], [ 140.605, -17.708 ], [ 140.561, -17.628 ], [ 140.511, -17.548 ], [ 140.459, -17.474 ], [ 140.406, -17.406 ], [ 140.351, -17.342 ], [ 140.293, -17.283 ], [ 140.234, -17.226 ], [ 140.172, -17.173 ], [ 140.108, -17.121 ], [ 140.04, -17.071 ], [ 139.971, -17.022 ], [ 139.898, -16.972 ], [ 139.821, -16.922 ], [ 139.742, -16.871 ], [ 139.663, -16.821 ], [ 139.586, -16.777 ], [ 139.511, -16.736 ], [ 139.437, -16.7 ], [ 139.362, -16.666 ], [ 139.288, -16.636 ], [ 139.212, -16.608 ], [ 139.135, -16.582 ], [ 139.055, -16.558 ], [ 138.973, -16.535 ], [ 138.886, -16.513 ], [ 138.796, -16.492 ], [ 138.699, -16.47 ], [ 138.606, -16.45 ], [ 138.516, -16.431 ], [ 138.428, -16.414 ], [ 138.342, -16.399 ], [ 138.257, -16.386 ], [ 138.173, -16.375 ], [ 138.088, -16.367 ], [ 138.003, -16.36 ], [ 137.916, -16.356 ], [ 137.827, -16.355 ], [ 137.736, -16.356 ], [ 137.641, -16.36 ], [ 137.542, -16.367 ], [ 137.448, -16.375 ], [ 137.356, -16.385 ], [ 137.268, -16.396 ], [ 137.183, -16.409 ], [ 137.1, -16.424 ], [ 137.019, -16.442 ], [ 136.94, -16.464 ], [ 136.861, -16.489 ], [ 136.783, -16.518 ], [ 136.704, -16.552 ], [ 136.626, -16.59 ], [ 136.546, -16.634 ], [ 136.465, -16.684 ], [ 136.385, -16.738 ], [ 136.31, -16.794 ], [ 136.241, -16.853 ], [ 136.178, -16.915 ], [ 136.121, -16.981 ], [ 136.071, -17.052 ], [ 136.029, -17.127 ], [ 135.995, -17.208 ], [ 135.97, -17.295 ], [ 135.953, -17.389 ], [ 135.946, -17.483 ], [ 135.948, -17.573 ], [ 135.958, -17.66 ], [ 135.975, -17.743 ], [ 136, -17.823 ], [ 136.032, -17.902 ], [ 136.069, -17.979 ], [ 136.113, -18.056 ], [ 136.161, -18.132 ], [ 136.213, -18.208 ], [ 136.27, -18.286 ], [ 136.328, -18.36 ], [ 136.387, -18.429 ], [ 136.448, -18.492 ], [ 136.509, -18.55 ], [ 136.573, -18.604 ], [ 136.638, -18.655 ], [ 136.706, -18.703 ], [ 136.777, -18.748 ], [ 136.851, -18.792 ], [ 136.928, -18.835 ], [ 137.009, -18.877 ], [ 137.094, -18.921 ] ] ] ]
+      }
+    }, {
+      "type" : "Feature",
+      "properties" : {
+        "time" : "2026-01-15T12:00:00Z",
+        "confidenceLevel" : 50.0
+      },
+      "geometry" : {
+        "type" : "MultiPolygon",
+        "coordinates" : [ [ [ [ 137.129, -17.611 ], [ 137.219, -17.639 ], [ 137.306, -17.665 ], [ 137.39, -17.69 ], [ 137.473, -17.713 ], [ 137.553, -17.734 ], [ 137.633, -17.754 ], [ 137.712, -17.773 ], [ 137.79, -17.79 ], [ 137.869, -17.806 ], [ 137.949, -17.821 ], [ 138.03, -17.835 ], [ 138.112, -17.848 ], [ 138.197, -17.86 ], [ 138.284, -17.872 ], [ 138.374, -17.883 ], [ 138.468, -17.893 ], [ 138.564, -17.903 ], [ 138.657, -17.912 ], [ 138.747, -17.921 ], [ 138.835, -17.929 ], [ 138.921, -17.936 ], [ 139.005, -17.942 ], [ 139.088, -17.946 ], [ 139.171, -17.949 ], [ 139.254, -17.95 ], [ 139.337, -17.949 ], [ 139.421, -17.946 ], [ 139.506, -17.941 ], [ 139.593, -17.933 ], [ 139.683, -17.922 ], [ 139.775, -17.909 ], [ 139.87, -17.892 ], [ 139.967, -17.863 ], [ 140.058, -17.813 ], [ 140.13, -17.746 ], [ 140.173, -17.665 ], [ 140.176, -17.572 ], [ 140.153, -17.486 ], [ 140.123, -17.408 ], [ 140.084, -17.337 ], [ 140.04, -17.271 ], [ 139.989, -17.209 ], [ 139.933, -17.151 ], [ 139.873, -17.094 ], [ 139.809, -17.038 ], [ 139.742, -16.981 ], [ 139.673, -16.922 ], [ 139.601, -16.861 ], [ 139.53, -16.806 ], [ 139.46, -16.755 ], [ 139.391, -16.708 ], [ 139.322, -16.664 ], [ 139.252, -16.622 ], [ 139.181, -16.582 ], [ 139.109, -16.542 ], [ 139.035, -16.502 ], [ 138.958, -16.462 ], [ 138.878, -16.419 ], [ 138.794, -16.375 ], [ 138.711, -16.33 ], [ 138.631, -16.289 ], [ 138.554, -16.25 ], [ 138.479, -16.213 ], [ 138.404, -16.177 ], [ 138.331, -16.143 ], [ 138.257, -16.11 ], [ 138.182, -16.077 ], [ 138.104, -16.045 ], [ 138.024, -16.011 ], [ 137.941, -15.977 ], [ 137.853, -15.942 ], [ 137.767, -15.908 ], [ 137.684, -15.876 ], [ 137.604, -15.846 ], [ 137.527, -15.818 ], [ 137.451, -15.791 ], [ 137.375, -15.765 ], [ 137.299, -15.74 ], [ 137.223, -15.715 ], [ 137.144, -15.691 ], [ 137.062, -15.666 ], [ 136.977, -15.641 ], [ 136.888, -15.615 ], [ 136.798, -15.59 ], [ 136.713, -15.566 ], [ 136.63, -15.543 ], [ 136.55, -15.522 ], [ 136.472, -15.501 ], [ 136.394, -15.482 ], [ 136.317, -15.463 ], [ 136.238, -15.446 ], [ 136.157, -15.429 ], [ 136.073, -15.413 ], [ 135.985, -15.397 ], [ 135.893, -15.382 ], [ 135.803, -15.368 ], [ 135.718, -15.354 ], [ 135.635, -15.342 ], [ 135.556, -15.332 ], [ 135.477, -15.323 ], [ 135.399, -15.315 ], [ 135.32, -15.31 ], [ 135.24, -15.306 ], [ 135.157, -15.306 ], [ 135.071, -15.307 ], [ 134.98, -15.312 ], [ 134.892, -15.317 ], [ 134.808, -15.325 ], [ 134.728, -15.339 ], [ 134.655, -15.365 ], [ 134.589, -15.406 ], [ 134.532, -15.467 ], [ 134.491, -15.54 ], [ 134.468, -15.617 ], [ 134.462, -15.696 ], [ 134.472, -15.775 ], [ 134.497, -15.854 ], [ 134.537, -15.929 ], [ 134.589, -16.007 ], [ 134.643, -16.078 ], [ 134.699, -16.142 ], [ 134.757, -16.201 ], [ 134.817, -16.256 ], [ 134.88, -16.309 ], [ 134.944, -16.36 ], [ 135.011, -16.412 ], [ 135.08, -16.464 ], [ 135.152, -16.519 ], [ 135.226, -16.578 ], [ 135.299, -16.637 ], [ 135.369, -16.693 ], [ 135.437, -16.746 ], [ 135.504, -16.797 ], [ 135.57, -16.845 ], [ 135.636, -16.892 ], [ 135.704, -16.938 ], [ 135.774, -16.983 ], [ 135.847, -17.028 ], [ 135.924, -17.074 ], [ 136.007, -17.119 ], [ 136.092, -17.165 ], [ 136.173, -17.208 ], [ 136.252, -17.25 ], [ 136.329, -17.289 ], [ 136.405, -17.326 ], [ 136.48, -17.362 ], [ 136.555, -17.396 ], [ 136.63, -17.429 ], [ 136.707, -17.461 ], [ 136.785, -17.492 ], [ 136.866, -17.522 ], [ 136.95, -17.552 ], [ 137.037, -17.582 ], [ 137.129, -17.611 ] ] ] ]
+      }
+    }, {
+      "type" : "Feature",
+      "properties" : {
+        "time" : "2026-01-15T12:00:00Z",
+        "confidenceLevel" : 70.0
+      },
+      "geometry" : {
+        "type" : "MultiPolygon",
+        "coordinates" : [ [ [ [ 137.484, -18.031 ], [ 137.577, -18.053 ], [ 137.668, -18.073 ], [ 137.757, -18.092 ], [ 137.844, -18.11 ], [ 137.929, -18.127 ], [ 138.012, -18.143 ], [ 138.095, -18.158 ], [ 138.176, -18.172 ], [ 138.257, -18.186 ], [ 138.338, -18.198 ], [ 138.418, -18.21 ], [ 138.498, -18.222 ], [ 138.578, -18.232 ], [ 138.659, -18.242 ], [ 138.74, -18.252 ], [ 138.823, -18.261 ], [ 138.906, -18.269 ], [ 138.991, -18.277 ], [ 139.077, -18.285 ], [ 139.166, -18.292 ], [ 139.256, -18.299 ], [ 139.349, -18.305 ], [ 139.444, -18.311 ], [ 139.543, -18.317 ], [ 139.637, -18.322 ], [ 139.729, -18.326 ], [ 139.818, -18.329 ], [ 139.905, -18.331 ], [ 139.991, -18.331 ], [ 140.076, -18.33 ], [ 140.16, -18.327 ], [ 140.244, -18.321 ], [ 140.329, -18.314 ], [ 140.416, -18.304 ], [ 140.504, -18.292 ], [ 140.594, -18.277 ], [ 140.687, -18.259 ], [ 140.783, -18.239 ], [ 140.868, -18.209 ], [ 140.938, -18.161 ], [ 140.996, -18.1 ], [ 141.043, -18.025 ], [ 141.081, -17.941 ], [ 141.099, -17.859 ], [ 141.091, -17.779 ], [ 141.062, -17.704 ], [ 141.011, -17.635 ], [ 140.945, -17.564 ], [ 140.881, -17.497 ], [ 140.818, -17.433 ], [ 140.755, -17.371 ], [ 140.693, -17.312 ], [ 140.632, -17.255 ], [ 140.57, -17.199 ], [ 140.507, -17.145 ], [ 140.444, -17.092 ], [ 140.38, -17.039 ], [ 140.314, -16.986 ], [ 140.247, -16.933 ], [ 140.177, -16.88 ], [ 140.105, -16.826 ], [ 140.03, -16.77 ], [ 139.952, -16.713 ], [ 139.877, -16.659 ], [ 139.804, -16.609 ], [ 139.733, -16.562 ], [ 139.663, -16.518 ], [ 139.594, -16.476 ], [ 139.525, -16.436 ], [ 139.455, -16.398 ], [ 139.385, -16.36 ], [ 139.313, -16.322 ], [ 139.239, -16.285 ], [ 139.163, -16.246 ], [ 139.084, -16.206 ], [ 139.001, -16.165 ], [ 138.918, -16.124 ], [ 138.838, -16.085 ], [ 138.761, -16.049 ], [ 138.686, -16.014 ], [ 138.613, -15.981 ], [ 138.54, -15.949 ], [ 138.467, -15.918 ], [ 138.394, -15.887 ], [ 138.319, -15.857 ], [ 138.242, -15.827 ], [ 138.162, -15.796 ], [ 138.08, -15.765 ], [ 137.993, -15.733 ], [ 137.904, -15.7 ], [ 137.819, -15.669 ], [ 137.736, -15.639 ], [ 137.655, -15.611 ], [ 137.576, -15.583 ], [ 137.499, -15.556 ], [ 137.422, -15.53 ], [ 137.346, -15.504 ], [ 137.27, -15.479 ], [ 137.193, -15.455 ], [ 137.116, -15.43 ], [ 137.037, -15.406 ], [ 136.957, -15.382 ], [ 136.875, -15.358 ], [ 136.791, -15.333 ], [ 136.703, -15.309 ], [ 136.612, -15.283 ], [ 136.521, -15.258 ], [ 136.434, -15.234 ], [ 136.349, -15.21 ], [ 136.266, -15.187 ], [ 136.185, -15.165 ], [ 136.105, -15.144 ], [ 136.027, -15.123 ], [ 135.949, -15.103 ], [ 135.871, -15.084 ], [ 135.793, -15.066 ], [ 135.713, -15.049 ], [ 135.633, -15.032 ], [ 135.551, -15.017 ], [ 135.466, -15.002 ], [ 135.379, -14.988 ], [ 135.289, -14.975 ], [ 135.196, -14.964 ], [ 135.104, -14.953 ], [ 135.015, -14.945 ], [ 134.929, -14.937 ], [ 134.846, -14.932 ], [ 134.764, -14.928 ], [ 134.684, -14.926 ], [ 134.605, -14.925 ], [ 134.526, -14.925 ], [ 134.446, -14.927 ], [ 134.366, -14.93 ], [ 134.284, -14.934 ], [ 134.201, -14.94 ], [ 134.115, -14.946 ], [ 134.026, -14.954 ], [ 133.934, -14.963 ], [ 133.839, -14.976 ], [ 133.753, -15.002 ], [ 133.68, -15.047 ], [ 133.626, -15.118 ], [ 133.593, -15.195 ], [ 133.573, -15.271 ], [ 133.566, -15.348 ], [ 133.572, -15.424 ], [ 133.592, -15.5 ], [ 133.626, -15.575 ], [ 133.673, -15.656 ], [ 133.721, -15.731 ], [ 133.772, -15.799 ], [ 133.824, -15.864 ], [ 133.879, -15.924 ], [ 133.936, -15.983 ], [ 133.995, -16.04 ], [ 134.056, -16.097 ], [ 134.121, -16.155 ], [ 134.188, -16.215 ], [ 134.258, -16.278 ], [ 134.327, -16.341 ], [ 134.395, -16.4 ], [ 134.46, -16.455 ], [ 134.525, -16.508 ], [ 134.589, -16.559 ], [ 134.652, -16.608 ], [ 134.716, -16.656 ], [ 134.781, -16.704 ], [ 134.847, -16.752 ], [ 134.915, -16.8 ], [ 134.986, -16.85 ], [ 135.06, -16.901 ], [ 135.137, -16.954 ], [ 135.213, -17.007 ], [ 135.287, -17.059 ], [ 135.357, -17.108 ], [ 135.426, -17.156 ], [ 135.493, -17.203 ], [ 135.56, -17.248 ], [ 135.627, -17.291 ], [ 135.695, -17.334 ], [ 135.765, -17.376 ], [ 135.837, -17.417 ], [ 135.913, -17.458 ], [ 135.992, -17.498 ], [ 136.077, -17.538 ], [ 136.165, -17.578 ], [ 136.25, -17.616 ], [ 136.333, -17.653 ], [ 136.414, -17.688 ], [ 136.494, -17.721 ], [ 136.572, -17.752 ], [ 136.65, -17.782 ], [ 136.728, -17.811 ], [ 136.806, -17.839 ], [ 136.884, -17.866 ], [ 136.963, -17.891 ], [ 137.044, -17.916 ], [ 137.127, -17.94 ], [ 137.212, -17.964 ], [ 137.299, -17.987 ], [ 137.39, -18.009 ], [ 137.484, -18.031 ] ] ] ]
+      }
+    }, {
+      "type" : "Feature",
+      "properties" : {
+        "time" : "2026-01-16T00:00:00Z",
+        "confidenceLevel" : 50.0
+      },
+      "geometry" : {
+        "type" : "MultiPolygon",
+        "coordinates" : [ [ [ [ 136.279, -16.915 ], [ 136.373, -16.94 ], [ 136.464, -16.964 ], [ 136.552, -16.986 ], [ 136.638, -17.007 ], [ 136.722, -17.027 ], [ 136.804, -17.045 ], [ 136.886, -17.063 ], [ 136.967, -17.079 ], [ 137.049, -17.095 ], [ 137.13, -17.11 ], [ 137.212, -17.124 ], [ 137.296, -17.137 ], [ 137.381, -17.15 ], [ 137.469, -17.163 ], [ 137.559, -17.175 ], [ 137.652, -17.186 ], [ 137.748, -17.197 ], [ 137.841, -17.207 ], [ 137.929, -17.215 ], [ 138.014, -17.221 ], [ 138.097, -17.225 ], [ 138.178, -17.227 ], [ 138.258, -17.227 ], [ 138.338, -17.226 ], [ 138.418, -17.223 ], [ 138.501, -17.219 ], [ 138.586, -17.213 ], [ 138.674, -17.206 ], [ 138.767, -17.197 ], [ 138.858, -17.187 ], [ 138.944, -17.177 ], [ 139.025, -17.164 ], [ 139.104, -17.149 ], [ 139.182, -17.132 ], [ 139.259, -17.112 ], [ 139.338, -17.088 ], [ 139.419, -17.059 ], [ 139.504, -17.026 ], [ 139.588, -16.991 ], [ 139.665, -16.955 ], [ 139.736, -16.914 ], [ 139.801, -16.866 ], [ 139.859, -16.807 ], [ 139.911, -16.735 ], [ 139.953, -16.657 ], [ 139.985, -16.578 ], [ 140.005, -16.499 ], [ 140.011, -16.419 ], [ 140, -16.339 ], [ 139.97, -16.258 ], [ 139.928, -16.179 ], [ 139.882, -16.108 ], [ 139.834, -16.043 ], [ 139.782, -15.984 ], [ 139.726, -15.929 ], [ 139.667, -15.877 ], [ 139.604, -15.827 ], [ 139.537, -15.778 ], [ 139.466, -15.729 ], [ 139.392, -15.68 ], [ 139.309, -15.628 ], [ 139.229, -15.581 ], [ 139.151, -15.539 ], [ 139.073, -15.501 ], [ 138.996, -15.467 ], [ 138.918, -15.435 ], [ 138.838, -15.404 ], [ 138.757, -15.375 ], [ 138.672, -15.346 ], [ 138.584, -15.316 ], [ 138.491, -15.286 ], [ 138.407, -15.258 ], [ 138.327, -15.235 ], [ 138.249, -15.214 ], [ 138.174, -15.195 ], [ 138.099, -15.179 ], [ 138.024, -15.164 ], [ 137.948, -15.151 ], [ 137.868, -15.138 ], [ 137.785, -15.127 ], [ 137.698, -15.115 ], [ 137.609, -15.105 ], [ 137.524, -15.097 ], [ 137.443, -15.091 ], [ 137.365, -15.087 ], [ 137.288, -15.084 ], [ 137.21, -15.083 ], [ 137.131, -15.082 ], [ 137.05, -15.082 ], [ 136.965, -15.082 ], [ 136.876, -15.082 ], [ 136.786, -15.082 ], [ 136.701, -15.082 ], [ 136.62, -15.081 ], [ 136.541, -15.082 ], [ 136.464, -15.083 ], [ 136.387, -15.086 ], [ 136.308, -15.09 ], [ 136.227, -15.096 ], [ 136.143, -15.104 ], [ 136.054, -15.115 ], [ 135.96, -15.128 ], [ 135.871, -15.141 ], [ 135.787, -15.156 ], [ 135.706, -15.172 ], [ 135.625, -15.193 ], [ 135.544, -15.217 ], [ 135.46, -15.248 ], [ 135.373, -15.286 ], [ 135.285, -15.326 ], [ 135.201, -15.365 ], [ 135.121, -15.405 ], [ 135.047, -15.447 ], [ 134.976, -15.496 ], [ 134.911, -15.552 ], [ 134.851, -15.617 ], [ 134.795, -15.695 ], [ 134.76, -15.778 ], [ 134.753, -15.864 ], [ 134.769, -15.95 ], [ 134.804, -16.035 ], [ 134.854, -16.115 ], [ 134.908, -16.186 ], [ 134.964, -16.248 ], [ 135.021, -16.304 ], [ 135.081, -16.355 ], [ 135.143, -16.402 ], [ 135.209, -16.446 ], [ 135.278, -16.489 ], [ 135.352, -16.532 ], [ 135.43, -16.576 ], [ 135.509, -16.62 ], [ 135.586, -16.66 ], [ 135.66, -16.696 ], [ 135.733, -16.73 ], [ 135.806, -16.761 ], [ 135.879, -16.79 ], [ 135.953, -16.817 ], [ 136.029, -16.842 ], [ 136.108, -16.867 ], [ 136.191, -16.891 ], [ 136.279, -16.915 ] ] ] ]
+      }
+    }, {
+      "type" : "Feature",
+      "properties" : {
+        "time" : "2026-01-16T00:00:00Z",
+        "confidenceLevel" : 70.0
+      },
+      "geometry" : {
+        "type" : "MultiPolygon",
+        "coordinates" : [ [ [ [ 135.435, -17.197 ], [ 135.53, -17.218 ], [ 135.623, -17.238 ], [ 135.714, -17.257 ], [ 135.803, -17.275 ], [ 135.889, -17.292 ], [ 135.975, -17.308 ], [ 136.059, -17.323 ], [ 136.142, -17.338 ], [ 136.225, -17.352 ], [ 136.307, -17.365 ], [ 136.389, -17.377 ], [ 136.471, -17.389 ], [ 136.553, -17.4 ], [ 136.636, -17.41 ], [ 136.72, -17.42 ], [ 136.805, -17.43 ], [ 136.892, -17.439 ], [ 136.98, -17.448 ], [ 137.07, -17.456 ], [ 137.162, -17.464 ], [ 137.257, -17.472 ], [ 137.354, -17.479 ], [ 137.451, -17.486 ], [ 137.544, -17.492 ], [ 137.635, -17.497 ], [ 137.724, -17.502 ], [ 137.812, -17.506 ], [ 137.897, -17.509 ], [ 137.982, -17.512 ], [ 138.065, -17.514 ], [ 138.147, -17.515 ], [ 138.229, -17.516 ], [ 138.311, -17.516 ], [ 138.393, -17.516 ], [ 138.475, -17.515 ], [ 138.557, -17.513 ], [ 138.641, -17.511 ], [ 138.725, -17.508 ], [ 138.811, -17.504 ], [ 138.898, -17.5 ], [ 138.987, -17.496 ], [ 139.078, -17.491 ], [ 139.172, -17.485 ], [ 139.268, -17.479 ], [ 139.364, -17.471 ], [ 139.453, -17.46 ], [ 139.538, -17.446 ], [ 139.62, -17.428 ], [ 139.701, -17.406 ], [ 139.783, -17.379 ], [ 139.867, -17.346 ], [ 139.955, -17.308 ], [ 140.042, -17.268 ], [ 140.125, -17.229 ], [ 140.203, -17.189 ], [ 140.277, -17.147 ], [ 140.346, -17.099 ], [ 140.412, -17.043 ], [ 140.473, -16.979 ], [ 140.53, -16.903 ], [ 140.577, -16.82 ], [ 140.607, -16.734 ], [ 140.622, -16.647 ], [ 140.622, -16.558 ], [ 140.611, -16.466 ], [ 140.589, -16.37 ], [ 140.56, -16.28 ], [ 140.524, -16.198 ], [ 140.481, -16.124 ], [ 140.432, -16.054 ], [ 140.376, -15.988 ], [ 140.314, -15.922 ], [ 140.245, -15.855 ], [ 140.179, -15.793 ], [ 140.115, -15.736 ], [ 140.053, -15.684 ], [ 139.99, -15.634 ], [ 139.927, -15.588 ], [ 139.861, -15.546 ], [ 139.793, -15.506 ], [ 139.721, -15.468 ], [ 139.644, -15.432 ], [ 139.561, -15.398 ], [ 139.468, -15.363 ], [ 139.378, -15.329 ], [ 139.289, -15.296 ], [ 139.203, -15.264 ], [ 139.118, -15.233 ], [ 139.035, -15.204 ], [ 138.952, -15.175 ], [ 138.87, -15.148 ], [ 138.789, -15.121 ], [ 138.709, -15.096 ], [ 138.628, -15.071 ], [ 138.548, -15.047 ], [ 138.467, -15.025 ], [ 138.385, -15.002 ], [ 138.303, -14.981 ], [ 138.219, -14.961 ], [ 138.135, -14.941 ], [ 138.048, -14.921 ], [ 137.96, -14.903 ], [ 137.87, -14.885 ], [ 137.778, -14.867 ], [ 137.683, -14.85 ], [ 137.585, -14.834 ], [ 137.491, -14.819 ], [ 137.399, -14.807 ], [ 137.31, -14.796 ], [ 137.223, -14.787 ], [ 137.137, -14.78 ], [ 137.053, -14.775 ], [ 136.97, -14.771 ], [ 136.888, -14.768 ], [ 136.806, -14.766 ], [ 136.725, -14.766 ], [ 136.644, -14.766 ], [ 136.563, -14.766 ], [ 136.482, -14.767 ], [ 136.399, -14.769 ], [ 136.316, -14.771 ], [ 136.231, -14.772 ], [ 136.145, -14.774 ], [ 136.057, -14.775 ], [ 135.966, -14.777 ], [ 135.874, -14.777 ], [ 135.778, -14.777 ], [ 135.681, -14.777 ], [ 135.587, -14.777 ], [ 135.497, -14.777 ], [ 135.409, -14.778 ], [ 135.323, -14.779 ], [ 135.239, -14.781 ], [ 135.156, -14.783 ], [ 135.073, -14.785 ], [ 134.99, -14.788 ], [ 134.906, -14.792 ], [ 134.82, -14.795 ], [ 134.732, -14.8 ], [ 134.642, -14.805 ], [ 134.549, -14.81 ], [ 134.451, -14.816 ], [ 134.354, -14.822 ], [ 134.261, -14.827 ], [ 134.17, -14.831 ], [ 134.082, -14.835 ], [ 133.997, -14.839 ], [ 133.912, -14.843 ], [ 133.829, -14.848 ], [ 133.746, -14.854 ], [ 133.663, -14.861 ], [ 133.579, -14.87 ], [ 133.494, -14.88 ], [ 133.408, -14.892 ], [ 133.319, -14.907 ], [ 133.227, -14.925 ], [ 133.132, -14.946 ], [ 133.04, -14.969 ], [ 132.955, -14.997 ], [ 132.875, -15.029 ], [ 132.8, -15.069 ], [ 132.73, -15.117 ], [ 132.663, -15.175 ], [ 132.6, -15.245 ], [ 132.559, -15.325 ], [ 132.555, -15.412 ], [ 132.572, -15.504 ], [ 132.598, -15.599 ], [ 132.626, -15.684 ], [ 132.662, -15.758 ], [ 132.709, -15.826 ], [ 132.771, -15.89 ], [ 132.842, -15.955 ], [ 132.909, -16.018 ], [ 132.974, -16.079 ], [ 133.038, -16.138 ], [ 133.1, -16.195 ], [ 133.162, -16.251 ], [ 133.224, -16.305 ], [ 133.287, -16.358 ], [ 133.351, -16.409 ], [ 133.417, -16.459 ], [ 133.485, -16.508 ], [ 133.557, -16.555 ], [ 133.632, -16.601 ], [ 133.712, -16.645 ], [ 133.797, -16.689 ], [ 133.883, -16.73 ], [ 133.966, -16.768 ], [ 134.048, -16.804 ], [ 134.129, -16.837 ], [ 134.208, -16.868 ], [ 134.287, -16.897 ], [ 134.365, -16.924 ], [ 134.442, -16.95 ], [ 134.52, -16.974 ], [ 134.597, -16.997 ], [ 134.675, -17.018 ], [ 134.753, -17.039 ], [ 134.833, -17.06 ], [ 134.913, -17.079 ], [ 134.995, -17.098 ], [ 135.079, -17.118 ], [ 135.164, -17.137 ], [ 135.252, -17.156 ], [ 135.342, -17.176 ], [ 135.435, -17.197 ] ] ] ]
+      }
+    }, {
+      "type" : "Feature",
+      "properties" : {
+        "time" : "2026-01-16T12:00:00Z",
+        "confidenceLevel" : 50.0
+      },
+      "geometry" : {
+        "type" : "MultiPolygon",
+        "coordinates" : [ [ [ [ 134.497, -16.753 ], [ 134.589, -16.783 ], [ 134.679, -16.812 ], [ 134.766, -16.84 ], [ 134.852, -16.867 ], [ 134.937, -16.893 ], [ 135.02, -16.918 ], [ 135.102, -16.943 ], [ 135.183, -16.966 ], [ 135.263, -16.988 ], [ 135.343, -17.01 ], [ 135.423, -17.03 ], [ 135.502, -17.05 ], [ 135.582, -17.069 ], [ 135.662, -17.086 ], [ 135.743, -17.103 ], [ 135.825, -17.119 ], [ 135.908, -17.135 ], [ 135.992, -17.149 ], [ 136.077, -17.162 ], [ 136.164, -17.175 ], [ 136.253, -17.186 ], [ 136.345, -17.197 ], [ 136.438, -17.207 ], [ 136.535, -17.216 ], [ 136.633, -17.224 ], [ 136.729, -17.231 ], [ 136.822, -17.237 ], [ 136.914, -17.242 ], [ 137.004, -17.246 ], [ 137.092, -17.248 ], [ 137.179, -17.25 ], [ 137.265, -17.25 ], [ 137.35, -17.249 ], [ 137.434, -17.248 ], [ 137.518, -17.245 ], [ 137.602, -17.241 ], [ 137.685, -17.236 ], [ 137.769, -17.231 ], [ 137.853, -17.224 ], [ 137.938, -17.216 ], [ 138.023, -17.207 ], [ 138.11, -17.198 ], [ 138.198, -17.187 ], [ 138.287, -17.176 ], [ 138.378, -17.163 ], [ 138.471, -17.15 ], [ 138.566, -17.136 ], [ 138.664, -17.121 ], [ 138.751, -17.1 ], [ 138.829, -17.067 ], [ 138.898, -17.022 ], [ 138.959, -16.966 ], [ 139.011, -16.898 ], [ 139.056, -16.82 ], [ 139.092, -16.737 ], [ 139.115, -16.653 ], [ 139.125, -16.569 ], [ 139.119, -16.486 ], [ 139.097, -16.405 ], [ 139.056, -16.326 ], [ 139.002, -16.245 ], [ 138.948, -16.169 ], [ 138.893, -16.096 ], [ 138.838, -16.028 ], [ 138.783, -15.962 ], [ 138.726, -15.899 ], [ 138.668, -15.838 ], [ 138.608, -15.78 ], [ 138.547, -15.723 ], [ 138.483, -15.666 ], [ 138.417, -15.611 ], [ 138.347, -15.556 ], [ 138.275, -15.5 ], [ 138.2, -15.444 ], [ 138.121, -15.387 ], [ 138.041, -15.332 ], [ 137.963, -15.281 ], [ 137.886, -15.234 ], [ 137.811, -15.19 ], [ 137.736, -15.148 ], [ 137.661, -15.11 ], [ 137.586, -15.073 ], [ 137.511, -15.038 ], [ 137.435, -15.004 ], [ 137.359, -14.97 ], [ 137.281, -14.937 ], [ 137.201, -14.904 ], [ 137.119, -14.87 ], [ 137.036, -14.836 ], [ 136.949, -14.8 ], [ 136.86, -14.762 ], [ 136.77, -14.723 ], [ 136.684, -14.687 ], [ 136.6, -14.652 ], [ 136.519, -14.618 ], [ 136.439, -14.586 ], [ 136.361, -14.554 ], [ 136.283, -14.524 ], [ 136.205, -14.495 ], [ 136.128, -14.466 ], [ 136.049, -14.438 ], [ 135.969, -14.411 ], [ 135.888, -14.384 ], [ 135.804, -14.358 ], [ 135.717, -14.331 ], [ 135.627, -14.305 ], [ 135.533, -14.279 ], [ 135.438, -14.252 ], [ 135.345, -14.227 ], [ 135.255, -14.202 ], [ 135.167, -14.179 ], [ 135.08, -14.156 ], [ 134.995, -14.134 ], [ 134.912, -14.113 ], [ 134.829, -14.093 ], [ 134.747, -14.073 ], [ 134.664, -14.054 ], [ 134.582, -14.037 ], [ 134.499, -14.02 ], [ 134.416, -14.003 ], [ 134.331, -13.988 ], [ 134.245, -13.973 ], [ 134.157, -13.959 ], [ 134.066, -13.946 ], [ 133.974, -13.934 ], [ 133.878, -13.922 ], [ 133.78, -13.911 ], [ 133.684, -13.901 ], [ 133.59, -13.891 ], [ 133.5, -13.883 ], [ 133.411, -13.876 ], [ 133.324, -13.87 ], [ 133.239, -13.865 ], [ 133.155, -13.861 ], [ 133.072, -13.859 ], [ 132.99, -13.857 ], [ 132.907, -13.857 ], [ 132.825, -13.857 ], [ 132.742, -13.86 ], [ 132.658, -13.863 ], [ 132.573, -13.868 ], [ 132.486, -13.874 ], [ 132.398, -13.881 ], [ 132.307, -13.89 ], [ 132.214, -13.9 ], [ 132.118, -13.911 ], [ 132.028, -13.923 ], [ 131.94, -13.936 ], [ 131.855, -13.951 ], [ 131.774, -13.972 ], [ 131.696, -13.999 ], [ 131.624, -14.034 ], [ 131.558, -14.079 ], [ 131.499, -14.136 ], [ 131.446, -14.206 ], [ 131.4, -14.291 ], [ 131.365, -14.378 ], [ 131.342, -14.466 ], [ 131.329, -14.556 ], [ 131.329, -14.645 ], [ 131.34, -14.734 ], [ 131.364, -14.822 ], [ 131.399, -14.908 ], [ 131.446, -14.992 ], [ 131.499, -15.07 ], [ 131.553, -15.143 ], [ 131.608, -15.212 ], [ 131.665, -15.276 ], [ 131.723, -15.337 ], [ 131.782, -15.395 ], [ 131.843, -15.449 ], [ 131.906, -15.501 ], [ 131.97, -15.551 ], [ 132.037, -15.6 ], [ 132.105, -15.647 ], [ 132.175, -15.693 ], [ 132.248, -15.738 ], [ 132.322, -15.783 ], [ 132.399, -15.829 ], [ 132.479, -15.875 ], [ 132.561, -15.923 ], [ 132.645, -15.971 ], [ 132.728, -16.017 ], [ 132.81, -16.062 ], [ 132.89, -16.105 ], [ 132.968, -16.145 ], [ 133.046, -16.185 ], [ 133.123, -16.223 ], [ 133.2, -16.259 ], [ 133.276, -16.295 ], [ 133.352, -16.329 ], [ 133.428, -16.362 ], [ 133.504, -16.395 ], [ 133.58, -16.426 ], [ 133.657, -16.457 ], [ 133.735, -16.487 ], [ 133.813, -16.517 ], [ 133.893, -16.547 ], [ 133.974, -16.576 ], [ 134.056, -16.605 ], [ 134.14, -16.634 ], [ 134.226, -16.664 ], [ 134.314, -16.693 ], [ 134.404, -16.723 ], [ 134.497, -16.753 ] ] ] ]
+      }
+    }, {
+      "type" : "Feature",
+      "properties" : {
+        "time" : "2026-01-16T12:00:00Z",
+        "confidenceLevel" : 70.0
+      },
+      "geometry" : {
+        "type" : "MultiPolygon",
+        "coordinates" : [ [ [ [ 135.883, -17.491 ], [ 135.98, -17.509 ], [ 136.075, -17.527 ], [ 136.168, -17.544 ], [ 136.259, -17.562 ], [ 136.348, -17.578 ], [ 136.436, -17.595 ], [ 136.522, -17.611 ], [ 136.608, -17.626 ], [ 136.692, -17.64 ], [ 136.776, -17.655 ], [ 136.859, -17.668 ], [ 136.942, -17.681 ], [ 137.025, -17.693 ], [ 137.108, -17.704 ], [ 137.192, -17.714 ], [ 137.276, -17.724 ], [ 137.361, -17.733 ], [ 137.447, -17.741 ], [ 137.534, -17.748 ], [ 137.623, -17.753 ], [ 137.713, -17.758 ], [ 137.806, -17.762 ], [ 137.9, -17.765 ], [ 137.996, -17.766 ], [ 138.095, -17.767 ], [ 138.195, -17.766 ], [ 138.291, -17.764 ], [ 138.384, -17.76 ], [ 138.475, -17.755 ], [ 138.564, -17.748 ], [ 138.651, -17.74 ], [ 138.736, -17.73 ], [ 138.821, -17.719 ], [ 138.905, -17.706 ], [ 138.988, -17.692 ], [ 139.071, -17.675 ], [ 139.155, -17.658 ], [ 139.239, -17.638 ], [ 139.324, -17.617 ], [ 139.41, -17.594 ], [ 139.498, -17.569 ], [ 139.587, -17.542 ], [ 139.679, -17.514 ], [ 139.774, -17.484 ], [ 139.852, -17.452 ], [ 139.92, -17.412 ], [ 139.981, -17.363 ], [ 140.033, -17.307 ], [ 140.079, -17.244 ], [ 140.121, -17.173 ], [ 140.158, -17.096 ], [ 140.19, -17.013 ], [ 140.212, -16.93 ], [ 140.222, -16.849 ], [ 140.218, -16.768 ], [ 140.198, -16.689 ], [ 140.16, -16.61 ], [ 140.109, -16.528 ], [ 140.059, -16.45 ], [ 140.008, -16.375 ], [ 139.958, -16.302 ], [ 139.907, -16.233 ], [ 139.855, -16.166 ], [ 139.802, -16.101 ], [ 139.748, -16.038 ], [ 139.692, -15.977 ], [ 139.634, -15.917 ], [ 139.573, -15.858 ], [ 139.51, -15.8 ], [ 139.444, -15.743 ], [ 139.374, -15.686 ], [ 139.3, -15.628 ], [ 139.223, -15.571 ], [ 139.143, -15.514 ], [ 139.064, -15.458 ], [ 138.986, -15.405 ], [ 138.909, -15.353 ], [ 138.834, -15.304 ], [ 138.759, -15.256 ], [ 138.685, -15.209 ], [ 138.611, -15.164 ], [ 138.537, -15.121 ], [ 138.464, -15.078 ], [ 138.391, -15.037 ], [ 138.317, -14.996 ], [ 138.244, -14.957 ], [ 138.17, -14.918 ], [ 138.095, -14.88 ], [ 138.02, -14.842 ], [ 137.943, -14.804 ], [ 137.866, -14.767 ], [ 137.788, -14.73 ], [ 137.708, -14.693 ], [ 137.627, -14.656 ], [ 137.544, -14.619 ], [ 137.46, -14.581 ], [ 137.374, -14.543 ], [ 137.285, -14.504 ], [ 137.195, -14.465 ], [ 137.106, -14.427 ], [ 137.019, -14.391 ], [ 136.934, -14.357 ], [ 136.85, -14.325 ], [ 136.768, -14.294 ], [ 136.687, -14.264 ], [ 136.607, -14.236 ], [ 136.528, -14.21 ], [ 136.449, -14.184 ], [ 136.371, -14.159 ], [ 136.292, -14.135 ], [ 136.214, -14.112 ], [ 136.135, -14.089 ], [ 136.055, -14.067 ], [ 135.975, -14.045 ], [ 135.894, -14.023 ], [ 135.812, -14.001 ], [ 135.729, -13.979 ], [ 135.643, -13.957 ], [ 135.557, -13.934 ], [ 135.468, -13.911 ], [ 135.376, -13.887 ], [ 135.283, -13.863 ], [ 135.189, -13.839 ], [ 135.098, -13.815 ], [ 135.009, -13.791 ], [ 134.923, -13.768 ], [ 134.838, -13.746 ], [ 134.754, -13.724 ], [ 134.672, -13.703 ], [ 134.59, -13.682 ], [ 134.51, -13.662 ], [ 134.429, -13.643 ], [ 134.35, -13.624 ], [ 134.27, -13.606 ], [ 134.19, -13.588 ], [ 134.109, -13.572 ], [ 134.028, -13.555 ], [ 133.945, -13.54 ], [ 133.862, -13.525 ], [ 133.777, -13.511 ], [ 133.69, -13.498 ], [ 133.601, -13.485 ], [ 133.51, -13.473 ], [ 133.417, -13.462 ], [ 133.321, -13.451 ], [ 133.223, -13.441 ], [ 133.128, -13.432 ], [ 133.036, -13.422 ], [ 132.945, -13.413 ], [ 132.856, -13.405 ], [ 132.768, -13.397 ], [ 132.682, -13.39 ], [ 132.596, -13.384 ], [ 132.512, -13.379 ], [ 132.428, -13.374 ], [ 132.345, -13.371 ], [ 132.261, -13.369 ], [ 132.178, -13.368 ], [ 132.094, -13.369 ], [ 132.01, -13.371 ], [ 131.925, -13.375 ], [ 131.839, -13.38 ], [ 131.752, -13.387 ], [ 131.664, -13.396 ], [ 131.574, -13.407 ], [ 131.482, -13.42 ], [ 131.388, -13.435 ], [ 131.292, -13.452 ], [ 131.2, -13.472 ], [ 131.112, -13.494 ], [ 131.028, -13.519 ], [ 130.947, -13.547 ], [ 130.87, -13.579 ], [ 130.795, -13.614 ], [ 130.722, -13.652 ], [ 130.652, -13.695 ], [ 130.583, -13.741 ], [ 130.515, -13.79 ], [ 130.448, -13.844 ], [ 130.381, -13.902 ], [ 130.315, -13.964 ], [ 130.248, -14.031 ], [ 130.198, -14.102 ], [ 130.173, -14.181 ], [ 130.169, -14.265 ], [ 130.184, -14.352 ], [ 130.211, -14.44 ], [ 130.248, -14.525 ], [ 130.292, -14.612 ], [ 130.336, -14.695 ], [ 130.38, -14.773 ], [ 130.426, -14.848 ], [ 130.473, -14.919 ], [ 130.522, -14.988 ], [ 130.575, -15.054 ], [ 130.631, -15.119 ], [ 130.691, -15.182 ], [ 130.756, -15.244 ], [ 130.826, -15.305 ], [ 130.901, -15.366 ], [ 130.98, -15.427 ], [ 131.058, -15.486 ], [ 131.134, -15.542 ], [ 131.21, -15.596 ], [ 131.284, -15.649 ], [ 131.358, -15.699 ], [ 131.431, -15.748 ], [ 131.504, -15.796 ], [ 131.576, -15.842 ], [ 131.649, -15.886 ], [ 131.722, -15.93 ], [ 131.794, -15.973 ], [ 131.868, -16.016 ], [ 131.942, -16.057 ], [ 132.016, -16.099 ], [ 132.092, -16.14 ], [ 132.169, -16.181 ], [ 132.247, -16.222 ], [ 132.327, -16.263 ], [ 132.408, -16.305 ], [ 132.491, -16.347 ], [ 132.576, -16.39 ], [ 132.663, -16.433 ], [ 132.752, -16.478 ], [ 132.838, -16.52 ], [ 132.922, -16.56 ], [ 133.004, -16.597 ], [ 133.084, -16.633 ], [ 133.163, -16.666 ], [ 133.241, -16.698 ], [ 133.318, -16.729 ], [ 133.395, -16.758 ], [ 133.471, -16.786 ], [ 133.548, -16.813 ], [ 133.625, -16.84 ], [ 133.703, -16.866 ], [ 133.782, -16.893 ], [ 133.862, -16.919 ], [ 133.944, -16.945 ], [ 134.028, -16.972 ], [ 134.114, -17 ], [ 134.202, -17.028 ], [ 134.293, -17.057 ], [ 134.385, -17.087 ], [ 134.473, -17.115 ], [ 134.559, -17.143 ], [ 134.643, -17.17 ], [ 134.725, -17.196 ], [ 134.805, -17.221 ], [ 134.885, -17.245 ], [ 134.963, -17.269 ], [ 135.042, -17.292 ], [ 135.12, -17.314 ], [ 135.199, -17.335 ], [ 135.278, -17.356 ], [ 135.358, -17.377 ], [ 135.44, -17.397 ], [ 135.524, -17.416 ], [ 135.609, -17.436 ], [ 135.698, -17.454 ], [ 135.789, -17.473 ], [ 135.883, -17.491 ] ] ] ]
+      }
+    }, {
+      "type" : "Feature",
+      "properties" : {
+        "time" : "2026-01-17T00:00:00Z",
+        "confidenceLevel" : 50.0
+      },
+      "geometry" : {
+        "type" : "MultiPolygon",
+        "coordinates" : [ [ [ [ 137.307, -16.726 ], [ 137.403, -16.743 ], [ 137.496, -16.76 ], [ 137.588, -16.777 ], [ 137.677, -16.793 ], [ 137.765, -16.81 ], [ 137.852, -16.826 ], [ 137.937, -16.842 ], [ 138.021, -16.858 ], [ 138.104, -16.874 ], [ 138.186, -16.89 ], [ 138.268, -16.905 ], [ 138.349, -16.92 ], [ 138.43, -16.935 ], [ 138.511, -16.949 ], [ 138.592, -16.964 ], [ 138.673, -16.978 ], [ 138.755, -16.991 ], [ 138.837, -17.005 ], [ 138.921, -17.018 ], [ 139.005, -17.03 ], [ 139.091, -17.043 ], [ 139.178, -17.055 ], [ 139.266, -17.067 ], [ 139.357, -17.078 ], [ 139.449, -17.089 ], [ 139.543, -17.099 ], [ 139.64, -17.109 ], [ 139.736, -17.119 ], [ 139.829, -17.127 ], [ 139.919, -17.135 ], [ 140.007, -17.142 ], [ 140.093, -17.148 ], [ 140.177, -17.153 ], [ 140.26, -17.157 ], [ 140.343, -17.159 ], [ 140.425, -17.16 ], [ 140.507, -17.16 ], [ 140.59, -17.158 ], [ 140.674, -17.155 ], [ 140.76, -17.149 ], [ 140.847, -17.142 ], [ 140.937, -17.133 ], [ 141.029, -17.122 ], [ 141.125, -17.108 ], [ 141.198, -17.074 ], [ 141.256, -17.008 ], [ 141.28, -16.932 ], [ 141.253, -16.87 ], [ 141.178, -16.807 ], [ 141.104, -16.747 ], [ 141.031, -16.69 ], [ 140.959, -16.634 ], [ 140.888, -16.58 ], [ 140.818, -16.528 ], [ 140.748, -16.477 ], [ 140.678, -16.428 ], [ 140.609, -16.381 ], [ 140.539, -16.334 ], [ 140.47, -16.289 ], [ 140.4, -16.244 ], [ 140.329, -16.201 ], [ 140.258, -16.158 ], [ 140.186, -16.115 ], [ 140.113, -16.073 ], [ 140.039, -16.03 ], [ 139.964, -15.988 ], [ 139.887, -15.946 ], [ 139.808, -15.904 ], [ 139.727, -15.861 ], [ 139.645, -15.818 ], [ 139.56, -15.774 ], [ 139.473, -15.729 ], [ 139.386, -15.685 ], [ 139.301, -15.643 ], [ 139.217, -15.602 ], [ 139.135, -15.563 ], [ 139.054, -15.525 ], [ 138.974, -15.489 ], [ 138.894, -15.454 ], [ 138.816, -15.42 ], [ 138.738, -15.387 ], [ 138.661, -15.354 ], [ 138.584, -15.323 ], [ 138.507, -15.292 ], [ 138.431, -15.262 ], [ 138.354, -15.232 ], [ 138.277, -15.203 ], [ 138.199, -15.173 ], [ 138.121, -15.144 ], [ 138.043, -15.115 ], [ 137.963, -15.086 ], [ 137.883, -15.056 ], [ 137.801, -15.026 ], [ 137.718, -14.996 ], [ 137.634, -14.965 ], [ 137.548, -14.934 ], [ 137.461, -14.902 ], [ 137.372, -14.869 ], [ 137.28, -14.834 ], [ 137.189, -14.8 ], [ 137.1, -14.767 ], [ 137.012, -14.734 ], [ 136.927, -14.702 ], [ 136.842, -14.671 ], [ 136.76, -14.64 ], [ 136.678, -14.61 ], [ 136.598, -14.581 ], [ 136.518, -14.552 ], [ 136.44, -14.523 ], [ 136.361, -14.495 ], [ 136.283, -14.467 ], [ 136.206, -14.44 ], [ 136.128, -14.413 ], [ 136.05, -14.386 ], [ 135.972, -14.359 ], [ 135.893, -14.333 ], [ 135.813, -14.307 ], [ 135.733, -14.28 ], [ 135.652, -14.254 ], [ 135.569, -14.227 ], [ 135.485, -14.201 ], [ 135.399, -14.175 ], [ 135.312, -14.148 ], [ 135.223, -14.121 ], [ 135.131, -14.094 ], [ 135.038, -14.066 ], [ 134.942, -14.039 ], [ 134.849, -14.012 ], [ 134.759, -13.986 ], [ 134.671, -13.961 ], [ 134.585, -13.937 ], [ 134.501, -13.914 ], [ 134.417, -13.892 ], [ 134.334, -13.871 ], [ 134.252, -13.851 ], [ 134.17, -13.832 ], [ 134.087, -13.814 ], [ 134.004, -13.796 ], [ 133.919, -13.779 ], [ 133.833, -13.764 ], [ 133.745, -13.749 ], [ 133.655, -13.734 ], [ 133.563, -13.721 ], [ 133.467, -13.708 ], [ 133.368, -13.697 ], [ 133.272, -13.686 ], [ 133.179, -13.676 ], [ 133.088, -13.667 ], [ 133, -13.66 ], [ 132.913, -13.653 ], [ 132.828, -13.648 ], [ 132.745, -13.644 ], [ 132.662, -13.641 ], [ 132.579, -13.64 ], [ 132.496, -13.64 ], [ 132.413, -13.641 ], [ 132.33, -13.644 ], [ 132.245, -13.649 ], [ 132.159, -13.655 ], [ 132.071, -13.663 ], [ 131.98, -13.673 ], [ 131.887, -13.684 ], [ 131.791, -13.698 ], [ 131.701, -13.714 ], [ 131.614, -13.737 ], [ 131.533, -13.768 ], [ 131.46, -13.808 ], [ 131.395, -13.86 ], [ 131.34, -13.924 ], [ 131.297, -14.002 ], [ 131.265, -14.093 ], [ 131.25, -14.184 ], [ 131.249, -14.275 ], [ 131.264, -14.363 ], [ 131.294, -14.449 ], [ 131.339, -14.53 ], [ 131.399, -14.605 ], [ 131.466, -14.677 ], [ 131.532, -14.747 ], [ 131.598, -14.813 ], [ 131.662, -14.878 ], [ 131.727, -14.94 ], [ 131.791, -15 ], [ 131.855, -15.058 ], [ 131.92, -15.115 ], [ 131.985, -15.169 ], [ 132.05, -15.222 ], [ 132.117, -15.273 ], [ 132.185, -15.323 ], [ 132.255, -15.371 ], [ 132.326, -15.418 ], [ 132.399, -15.464 ], [ 132.474, -15.509 ], [ 132.552, -15.553 ], [ 132.632, -15.596 ], [ 132.715, -15.639 ], [ 132.8, -15.681 ], [ 132.89, -15.722 ], [ 132.978, -15.761 ], [ 133.066, -15.798 ], [ 133.152, -15.833 ], [ 133.236, -15.865 ], [ 133.32, -15.895 ], [ 133.403, -15.923 ], [ 133.485, -15.949 ], [ 133.567, -15.973 ], [ 133.648, -15.996 ], [ 133.728, -16.018 ], [ 133.809, -16.038 ], [ 133.889, -16.058 ], [ 133.969, -16.076 ], [ 134.05, -16.094 ], [ 134.131, -16.111 ], [ 134.212, -16.127 ], [ 134.294, -16.143 ], [ 134.376, -16.159 ], [ 134.459, -16.175 ], [ 134.544, -16.191 ], [ 134.629, -16.208 ], [ 134.716, -16.225 ], [ 134.804, -16.242 ], [ 134.893, -16.26 ], [ 134.985, -16.279 ], [ 135.078, -16.299 ], [ 135.172, -16.32 ], [ 135.267, -16.341 ], [ 135.358, -16.362 ], [ 135.448, -16.381 ], [ 135.536, -16.4 ], [ 135.622, -16.418 ], [ 135.707, -16.436 ], [ 135.791, -16.452 ], [ 135.873, -16.469 ], [ 135.955, -16.485 ], [ 136.036, -16.5 ], [ 136.116, -16.515 ], [ 136.197, -16.53 ], [ 136.277, -16.545 ], [ 136.357, -16.559 ], [ 136.438, -16.574 ], [ 136.519, -16.588 ], [ 136.601, -16.603 ], [ 136.684, -16.617 ], [ 136.768, -16.632 ], [ 136.853, -16.647 ], [ 136.94, -16.662 ], [ 137.029, -16.677 ], [ 137.119, -16.693 ], [ 137.212, -16.709 ], [ 137.307, -16.726 ] ] ] ]
+      }
+    }, {
+      "type" : "Feature",
+      "properties" : {
+        "time" : "2026-01-17T00:00:00Z",
+        "confidenceLevel" : 70.0
+      },
+      "geometry" : {
+        "type" : "MultiPolygon",
+        "coordinates" : [ [ [ [ 138.801, -17.199 ], [ 138.895, -17.215 ], [ 138.988, -17.232 ], [ 139.078, -17.249 ], [ 139.166, -17.266 ], [ 139.252, -17.282 ], [ 139.337, -17.299 ], [ 139.42, -17.315 ], [ 139.502, -17.332 ], [ 139.583, -17.348 ], [ 139.664, -17.364 ], [ 139.744, -17.38 ], [ 139.824, -17.396 ], [ 139.903, -17.412 ], [ 139.983, -17.427 ], [ 140.063, -17.442 ], [ 140.144, -17.456 ], [ 140.226, -17.471 ], [ 140.308, -17.485 ], [ 140.392, -17.498 ], [ 140.477, -17.511 ], [ 140.564, -17.524 ], [ 140.652, -17.537 ], [ 140.743, -17.548 ], [ 140.836, -17.56 ], [ 140.931, -17.57 ], [ 141.026, -17.581 ], [ 141.118, -17.591 ], [ 141.207, -17.6 ], [ 141.293, -17.608 ], [ 141.378, -17.615 ], [ 141.461, -17.621 ], [ 141.543, -17.625 ], [ 141.625, -17.627 ], [ 141.707, -17.627 ], [ 141.79, -17.625 ], [ 141.874, -17.62 ], [ 141.96, -17.612 ], [ 142.047, -17.601 ], [ 142.138, -17.587 ], [ 142.232, -17.569 ], [ 142.318, -17.544 ], [ 142.403, -17.503 ], [ 142.477, -17.45 ], [ 142.531, -17.386 ], [ 142.557, -17.315 ], [ 142.545, -17.239 ], [ 142.504, -17.156 ], [ 142.458, -17.082 ], [ 142.407, -17.015 ], [ 142.352, -16.954 ], [ 142.292, -16.898 ], [ 142.229, -16.846 ], [ 142.163, -16.797 ], [ 142.093, -16.751 ], [ 142.02, -16.705 ], [ 141.945, -16.659 ], [ 141.867, -16.612 ], [ 141.787, -16.564 ], [ 141.703, -16.512 ], [ 141.621, -16.463 ], [ 141.541, -16.416 ], [ 141.462, -16.372 ], [ 141.385, -16.329 ], [ 141.308, -16.288 ], [ 141.232, -16.248 ], [ 141.156, -16.209 ], [ 141.081, -16.172 ], [ 141.006, -16.135 ], [ 140.931, -16.099 ], [ 140.855, -16.064 ], [ 140.779, -16.028 ], [ 140.702, -15.993 ], [ 140.624, -15.958 ], [ 140.544, -15.922 ], [ 140.463, -15.885 ], [ 140.38, -15.848 ], [ 140.295, -15.81 ], [ 140.208, -15.77 ], [ 140.119, -15.729 ], [ 140.028, -15.688 ], [ 139.939, -15.647 ], [ 139.852, -15.608 ], [ 139.767, -15.569 ], [ 139.684, -15.532 ], [ 139.602, -15.495 ], [ 139.521, -15.46 ], [ 139.441, -15.424 ], [ 139.361, -15.39 ], [ 139.283, -15.356 ], [ 139.205, -15.322 ], [ 139.127, -15.289 ], [ 139.05, -15.256 ], [ 138.972, -15.223 ], [ 138.894, -15.19 ], [ 138.816, -15.157 ], [ 138.737, -15.124 ], [ 138.657, -15.091 ], [ 138.576, -15.058 ], [ 138.494, -15.024 ], [ 138.411, -14.99 ], [ 138.326, -14.955 ], [ 138.24, -14.92 ], [ 138.151, -14.884 ], [ 138.061, -14.848 ], [ 137.968, -14.81 ], [ 137.876, -14.773 ], [ 137.785, -14.736 ], [ 137.697, -14.7 ], [ 137.611, -14.664 ], [ 137.526, -14.63 ], [ 137.443, -14.595 ], [ 137.361, -14.562 ], [ 137.28, -14.529 ], [ 137.2, -14.496 ], [ 137.12, -14.464 ], [ 137.042, -14.432 ], [ 136.963, -14.401 ], [ 136.885, -14.37 ], [ 136.806, -14.339 ], [ 136.727, -14.308 ], [ 136.648, -14.278 ], [ 136.568, -14.248 ], [ 136.487, -14.218 ], [ 136.405, -14.188 ], [ 136.322, -14.158 ], [ 136.237, -14.128 ], [ 136.151, -14.098 ], [ 136.062, -14.068 ], [ 135.972, -14.038 ], [ 135.879, -14.007 ], [ 135.784, -13.977 ], [ 135.691, -13.947 ], [ 135.6, -13.918 ], [ 135.511, -13.89 ], [ 135.423, -13.862 ], [ 135.337, -13.834 ], [ 135.252, -13.807 ], [ 135.168, -13.78 ], [ 135.085, -13.753 ], [ 135.003, -13.727 ], [ 134.922, -13.702 ], [ 134.841, -13.677 ], [ 134.762, -13.652 ], [ 134.682, -13.628 ], [ 134.603, -13.604 ], [ 134.524, -13.581 ], [ 134.445, -13.558 ], [ 134.366, -13.535 ], [ 134.287, -13.513 ], [ 134.208, -13.492 ], [ 134.128, -13.47 ], [ 134.048, -13.45 ], [ 133.967, -13.429 ], [ 133.885, -13.409 ], [ 133.803, -13.39 ], [ 133.719, -13.371 ], [ 133.634, -13.353 ], [ 133.548, -13.335 ], [ 133.461, -13.317 ], [ 133.372, -13.3 ], [ 133.282, -13.283 ], [ 133.189, -13.267 ], [ 133.095, -13.251 ], [ 132.999, -13.235 ], [ 132.902, -13.221 ], [ 132.808, -13.207 ], [ 132.715, -13.194 ], [ 132.625, -13.182 ], [ 132.536, -13.172 ], [ 132.448, -13.163 ], [ 132.362, -13.155 ], [ 132.277, -13.148 ], [ 132.192, -13.143 ], [ 132.108, -13.14 ], [ 132.024, -13.138 ], [ 131.94, -13.138 ], [ 131.856, -13.139 ], [ 131.772, -13.142 ], [ 131.687, -13.147 ], [ 131.601, -13.154 ], [ 131.514, -13.162 ], [ 131.426, -13.173 ], [ 131.335, -13.186 ], [ 131.244, -13.2 ], [ 131.15, -13.217 ], [ 131.053, -13.236 ], [ 130.96, -13.258 ], [ 130.872, -13.284 ], [ 130.788, -13.315 ], [ 130.707, -13.35 ], [ 130.631, -13.389 ], [ 130.559, -13.434 ], [ 130.49, -13.484 ], [ 130.424, -13.539 ], [ 130.362, -13.6 ], [ 130.302, -13.667 ], [ 130.245, -13.739 ], [ 130.19, -13.817 ], [ 130.151, -13.898 ], [ 130.138, -13.98 ], [ 130.145, -14.063 ], [ 130.168, -14.148 ], [ 130.202, -14.233 ], [ 130.241, -14.319 ], [ 130.282, -14.406 ], [ 130.321, -14.49 ], [ 130.359, -14.571 ], [ 130.397, -14.648 ], [ 130.436, -14.722 ], [ 130.476, -14.793 ], [ 130.518, -14.862 ], [ 130.562, -14.929 ], [ 130.609, -14.995 ], [ 130.661, -15.06 ], [ 130.717, -15.123 ], [ 130.778, -15.187 ], [ 130.846, -15.251 ], [ 130.916, -15.315 ], [ 130.986, -15.377 ], [ 131.054, -15.436 ], [ 131.121, -15.493 ], [ 131.188, -15.549 ], [ 131.254, -15.602 ], [ 131.319, -15.654 ], [ 131.385, -15.704 ], [ 131.451, -15.753 ], [ 131.517, -15.8 ], [ 131.584, -15.847 ], [ 131.651, -15.892 ], [ 131.72, -15.936 ], [ 131.79, -15.98 ], [ 131.861, -16.023 ], [ 131.935, -16.065 ], [ 132.01, -16.108 ], [ 132.088, -16.15 ], [ 132.168, -16.191 ], [ 132.251, -16.233 ], [ 132.336, -16.275 ], [ 132.421, -16.315 ], [ 132.503, -16.352 ], [ 132.584, -16.385 ], [ 132.664, -16.416 ], [ 132.742, -16.444 ], [ 132.82, -16.469 ], [ 132.897, -16.493 ], [ 132.975, -16.514 ], [ 133.053, -16.533 ], [ 133.131, -16.551 ], [ 133.21, -16.567 ], [ 133.291, -16.582 ], [ 133.374, -16.597 ], [ 133.459, -16.61 ], [ 133.546, -16.623 ], [ 133.635, -16.635 ], [ 133.728, -16.647 ], [ 133.827, -16.659 ], [ 133.924, -16.67 ], [ 134.019, -16.68 ], [ 134.113, -16.69 ], [ 134.205, -16.698 ], [ 134.296, -16.705 ], [ 134.385, -16.712 ], [ 134.474, -16.717 ], [ 134.561, -16.723 ], [ 134.648, -16.727 ], [ 134.734, -16.731 ], [ 134.819, -16.735 ], [ 134.904, -16.738 ], [ 134.988, -16.741 ], [ 135.072, -16.744 ], [ 135.156, -16.747 ], [ 135.24, -16.749 ], [ 135.324, -16.751 ], [ 135.408, -16.754 ], [ 135.492, -16.757 ], [ 135.577, -16.759 ], [ 135.662, -16.763 ], [ 135.748, -16.766 ], [ 135.835, -16.77 ], [ 135.923, -16.774 ], [ 136.011, -16.779 ], [ 136.101, -16.784 ], [ 136.192, -16.79 ], [ 136.284, -16.797 ], [ 136.378, -16.804 ], [ 136.474, -16.813 ], [ 136.571, -16.822 ], [ 136.67, -16.832 ], [ 136.765, -16.843 ], [ 136.858, -16.854 ], [ 136.949, -16.866 ], [ 137.037, -16.878 ], [ 137.124, -16.891 ], [ 137.209, -16.904 ], [ 137.293, -16.917 ], [ 137.376, -16.931 ], [ 137.457, -16.945 ], [ 137.538, -16.959 ], [ 137.618, -16.974 ], [ 137.698, -16.989 ], [ 137.778, -17.004 ], [ 137.858, -17.02 ], [ 137.938, -17.035 ], [ 138.018, -17.051 ], [ 138.099, -17.067 ], [ 138.182, -17.083 ], [ 138.265, -17.1 ], [ 138.35, -17.116 ], [ 138.436, -17.132 ], [ 138.524, -17.149 ], [ 138.614, -17.166 ], [ 138.706, -17.182 ], [ 138.801, -17.199 ] ] ] ]
+      }
+    }, {
+      "type" : "Feature",
+      "properties" : {
+        "time" : "2026-01-17T12:00:00Z",
+        "confidenceLevel" : 50.0
+      },
+      "geometry" : {
+        "type" : "MultiPolygon",
+        "coordinates" : [ [ [ [ 136.207, -17.082 ], [ 136.305, -17.096 ], [ 136.401, -17.11 ], [ 136.495, -17.123 ], [ 136.587, -17.136 ], [ 136.678, -17.15 ], [ 136.766, -17.162 ], [ 136.854, -17.175 ], [ 136.94, -17.187 ], [ 137.026, -17.199 ], [ 137.11, -17.211 ], [ 137.194, -17.223 ], [ 137.277, -17.235 ], [ 137.36, -17.246 ], [ 137.443, -17.257 ], [ 137.526, -17.268 ], [ 137.609, -17.278 ], [ 137.693, -17.289 ], [ 137.777, -17.299 ], [ 137.861, -17.309 ], [ 137.947, -17.319 ], [ 138.034, -17.328 ], [ 138.121, -17.338 ], [ 138.211, -17.347 ], [ 138.301, -17.356 ], [ 138.394, -17.365 ], [ 138.488, -17.374 ], [ 138.585, -17.382 ], [ 138.684, -17.39 ], [ 138.781, -17.399 ], [ 138.874, -17.406 ], [ 138.964, -17.413 ], [ 139.052, -17.42 ], [ 139.138, -17.425 ], [ 139.222, -17.429 ], [ 139.306, -17.432 ], [ 139.389, -17.433 ], [ 139.474, -17.431 ], [ 139.559, -17.428 ], [ 139.646, -17.423 ], [ 139.736, -17.415 ], [ 139.828, -17.404 ], [ 139.925, -17.39 ], [ 140.018, -17.358 ], [ 140.105, -17.299 ], [ 140.154, -17.229 ], [ 140.136, -17.162 ], [ 140.065, -17.096 ], [ 139.995, -17.032 ], [ 139.926, -16.971 ], [ 139.857, -16.912 ], [ 139.79, -16.856 ], [ 139.722, -16.801 ], [ 139.655, -16.748 ], [ 139.588, -16.697 ], [ 139.52, -16.647 ], [ 139.453, -16.598 ], [ 139.386, -16.551 ], [ 139.318, -16.504 ], [ 139.25, -16.458 ], [ 139.182, -16.413 ], [ 139.112, -16.368 ], [ 139.042, -16.323 ], [ 138.971, -16.279 ], [ 138.899, -16.234 ], [ 138.826, -16.189 ], [ 138.751, -16.143 ], [ 138.675, -16.097 ], [ 138.598, -16.049 ], [ 138.519, -16.001 ], [ 138.438, -15.952 ], [ 138.356, -15.901 ], [ 138.272, -15.85 ], [ 138.19, -15.8 ], [ 138.109, -15.753 ], [ 138.031, -15.707 ], [ 137.953, -15.663 ], [ 137.877, -15.62 ], [ 137.801, -15.578 ], [ 137.726, -15.538 ], [ 137.652, -15.498 ], [ 137.578, -15.46 ], [ 137.504, -15.422 ], [ 137.429, -15.384 ], [ 137.354, -15.346 ], [ 137.279, -15.309 ], [ 137.202, -15.272 ], [ 137.125, -15.234 ], [ 137.046, -15.196 ], [ 136.965, -15.157 ], [ 136.883, -15.118 ], [ 136.798, -15.078 ], [ 136.712, -15.037 ], [ 136.623, -14.995 ], [ 136.534, -14.952 ], [ 136.447, -14.911 ], [ 136.363, -14.871 ], [ 136.281, -14.831 ], [ 136.2, -14.792 ], [ 136.121, -14.755 ], [ 136.043, -14.718 ], [ 135.966, -14.681 ], [ 135.89, -14.646 ], [ 135.814, -14.611 ], [ 135.738, -14.576 ], [ 135.661, -14.542 ], [ 135.585, -14.509 ], [ 135.507, -14.476 ], [ 135.428, -14.444 ], [ 135.349, -14.411 ], [ 135.267, -14.38 ], [ 135.184, -14.348 ], [ 135.098, -14.317 ], [ 135.01, -14.286 ], [ 134.92, -14.255 ], [ 134.826, -14.224 ], [ 134.735, -14.194 ], [ 134.645, -14.166 ], [ 134.558, -14.139 ], [ 134.472, -14.114 ], [ 134.388, -14.089 ], [ 134.306, -14.065 ], [ 134.224, -14.043 ], [ 134.143, -14.021 ], [ 134.063, -14.001 ], [ 133.984, -13.981 ], [ 133.904, -13.962 ], [ 133.825, -13.944 ], [ 133.745, -13.927 ], [ 133.665, -13.91 ], [ 133.584, -13.894 ], [ 133.502, -13.878 ], [ 133.419, -13.863 ], [ 133.334, -13.849 ], [ 133.247, -13.835 ], [ 133.159, -13.821 ], [ 133.069, -13.807 ], [ 132.976, -13.794 ], [ 132.881, -13.781 ], [ 132.783, -13.768 ], [ 132.688, -13.756 ], [ 132.596, -13.745 ], [ 132.505, -13.735 ], [ 132.416, -13.725 ], [ 132.329, -13.717 ], [ 132.243, -13.709 ], [ 132.158, -13.702 ], [ 132.074, -13.695 ], [ 131.991, -13.69 ], [ 131.907, -13.685 ], [ 131.824, -13.681 ], [ 131.741, -13.678 ], [ 131.657, -13.676 ], [ 131.573, -13.675 ], [ 131.488, -13.674 ], [ 131.402, -13.674 ], [ 131.314, -13.675 ], [ 131.225, -13.677 ], [ 131.134, -13.68 ], [ 131.04, -13.683 ], [ 130.945, -13.687 ], [ 130.847, -13.692 ], [ 130.753, -13.698 ], [ 130.663, -13.706 ], [ 130.576, -13.714 ], [ 130.492, -13.725 ], [ 130.41, -13.737 ], [ 130.33, -13.751 ], [ 130.251, -13.766 ], [ 130.172, -13.784 ], [ 130.094, -13.803 ], [ 130.015, -13.824 ], [ 129.935, -13.847 ], [ 129.854, -13.872 ], [ 129.771, -13.899 ], [ 129.686, -13.928 ], [ 129.597, -13.96 ], [ 129.515, -13.995 ], [ 129.444, -14.041 ], [ 129.384, -14.097 ], [ 129.339, -14.166 ], [ 129.309, -14.248 ], [ 129.293, -14.336 ], [ 129.287, -14.42 ], [ 129.29, -14.502 ], [ 129.303, -14.582 ], [ 129.326, -14.66 ], [ 129.359, -14.738 ], [ 129.401, -14.817 ], [ 129.453, -14.899 ], [ 129.505, -14.973 ], [ 129.559, -15.042 ], [ 129.615, -15.106 ], [ 129.673, -15.166 ], [ 129.735, -15.223 ], [ 129.8, -15.278 ], [ 129.87, -15.332 ], [ 129.944, -15.386 ], [ 130.023, -15.44 ], [ 130.104, -15.494 ], [ 130.181, -15.544 ], [ 130.257, -15.592 ], [ 130.332, -15.638 ], [ 130.405, -15.681 ], [ 130.478, -15.722 ], [ 130.551, -15.762 ], [ 130.624, -15.8 ], [ 130.697, -15.837 ], [ 130.772, -15.872 ], [ 130.849, -15.906 ], [ 130.927, -15.939 ], [ 131.008, -15.972 ], [ 131.092, -16.004 ], [ 131.179, -16.035 ], [ 131.27, -16.066 ], [ 131.363, -16.097 ], [ 131.454, -16.127 ], [ 131.543, -16.155 ], [ 131.631, -16.182 ], [ 131.718, -16.209 ], [ 131.803, -16.234 ], [ 131.887, -16.258 ], [ 131.97, -16.282 ], [ 132.052, -16.304 ], [ 132.134, -16.326 ], [ 132.215, -16.347 ], [ 132.295, -16.368 ], [ 132.376, -16.388 ], [ 132.456, -16.408 ], [ 132.536, -16.427 ], [ 132.617, -16.446 ], [ 132.697, -16.464 ], [ 132.779, -16.482 ], [ 132.86, -16.501 ], [ 132.943, -16.519 ], [ 133.027, -16.536 ], [ 133.111, -16.554 ], [ 133.197, -16.572 ], [ 133.284, -16.591 ], [ 133.372, -16.609 ], [ 133.463, -16.627 ], [ 133.554, -16.646 ], [ 133.648, -16.666 ], [ 133.744, -16.685 ], [ 133.841, -16.705 ], [ 133.936, -16.724 ], [ 134.029, -16.742 ], [ 134.12, -16.76 ], [ 134.21, -16.776 ], [ 134.298, -16.793 ], [ 134.385, -16.808 ], [ 134.471, -16.823 ], [ 134.556, -16.838 ], [ 134.64, -16.852 ], [ 134.724, -16.865 ], [ 134.807, -16.879 ], [ 134.889, -16.892 ], [ 134.972, -16.905 ], [ 135.055, -16.917 ], [ 135.138, -16.93 ], [ 135.221, -16.942 ], [ 135.305, -16.954 ], [ 135.389, -16.966 ], [ 135.474, -16.978 ], [ 135.561, -16.991 ], [ 135.648, -17.003 ], [ 135.737, -17.015 ], [ 135.827, -17.028 ], [ 135.919, -17.041 ], [ 136.013, -17.054 ], [ 136.109, -17.068 ], [ 136.207, -17.082 ] ] ] ]
+      }
+    }, {
+      "type" : "Feature",
+      "properties" : {
+        "time" : "2026-01-17T12:00:00Z",
+        "confidenceLevel" : 70.0
+      },
+      "geometry" : {
+        "type" : "MultiPolygon",
+        "coordinates" : [ [ [ [ 138.309, -17.713 ], [ 138.407, -17.724 ], [ 138.504, -17.736 ], [ 138.599, -17.747 ], [ 138.692, -17.758 ], [ 138.783, -17.769 ], [ 138.873, -17.781 ], [ 138.962, -17.792 ], [ 139.05, -17.803 ], [ 139.136, -17.814 ], [ 139.222, -17.824 ], [ 139.307, -17.835 ], [ 139.391, -17.846 ], [ 139.475, -17.856 ], [ 139.558, -17.866 ], [ 139.641, -17.876 ], [ 139.725, -17.886 ], [ 139.808, -17.896 ], [ 139.891, -17.905 ], [ 139.975, -17.915 ], [ 140.059, -17.924 ], [ 140.144, -17.933 ], [ 140.23, -17.941 ], [ 140.317, -17.95 ], [ 140.405, -17.958 ], [ 140.494, -17.966 ], [ 140.584, -17.973 ], [ 140.676, -17.981 ], [ 140.769, -17.988 ], [ 140.865, -17.994 ], [ 140.962, -18.001 ], [ 141.061, -18.007 ], [ 141.149, -18.011 ], [ 141.232, -18.012 ], [ 141.312, -18.01 ], [ 141.389, -18.005 ], [ 141.465, -17.996 ], [ 141.541, -17.983 ], [ 141.619, -17.965 ], [ 141.699, -17.943 ], [ 141.782, -17.916 ], [ 141.868, -17.877 ], [ 141.945, -17.821 ], [ 141.991, -17.755 ], [ 141.982, -17.682 ], [ 141.931, -17.602 ], [ 141.876, -17.53 ], [ 141.819, -17.464 ], [ 141.76, -17.404 ], [ 141.697, -17.349 ], [ 141.632, -17.297 ], [ 141.564, -17.247 ], [ 141.493, -17.198 ], [ 141.419, -17.149 ], [ 141.342, -17.098 ], [ 141.262, -17.046 ], [ 141.179, -16.991 ], [ 141.099, -16.939 ], [ 141.019, -16.887 ], [ 140.941, -16.837 ], [ 140.864, -16.788 ], [ 140.788, -16.74 ], [ 140.713, -16.693 ], [ 140.639, -16.647 ], [ 140.566, -16.602 ], [ 140.493, -16.557 ], [ 140.42, -16.513 ], [ 140.348, -16.47 ], [ 140.277, -16.427 ], [ 140.205, -16.385 ], [ 140.133, -16.343 ], [ 140.062, -16.301 ], [ 139.99, -16.259 ], [ 139.918, -16.218 ], [ 139.845, -16.176 ], [ 139.773, -16.134 ], [ 139.699, -16.092 ], [ 139.625, -16.05 ], [ 139.55, -16.007 ], [ 139.474, -15.964 ], [ 139.397, -15.92 ], [ 139.319, -15.875 ], [ 139.239, -15.83 ], [ 139.159, -15.784 ], [ 139.076, -15.737 ], [ 138.993, -15.689 ], [ 138.907, -15.641 ], [ 138.822, -15.591 ], [ 138.738, -15.543 ], [ 138.656, -15.496 ], [ 138.576, -15.45 ], [ 138.497, -15.404 ], [ 138.419, -15.359 ], [ 138.342, -15.315 ], [ 138.267, -15.271 ], [ 138.192, -15.228 ], [ 138.118, -15.186 ], [ 138.044, -15.143 ], [ 137.971, -15.102 ], [ 137.899, -15.06 ], [ 137.826, -15.019 ], [ 137.754, -14.979 ], [ 137.682, -14.938 ], [ 137.609, -14.898 ], [ 137.536, -14.857 ], [ 137.463, -14.817 ], [ 137.39, -14.776 ], [ 137.315, -14.736 ], [ 137.24, -14.695 ], [ 137.164, -14.655 ], [ 137.087, -14.614 ], [ 137.008, -14.572 ], [ 136.929, -14.531 ], [ 136.848, -14.489 ], [ 136.765, -14.446 ], [ 136.681, -14.404 ], [ 136.595, -14.36 ], [ 136.507, -14.316 ], [ 136.421, -14.273 ], [ 136.337, -14.232 ], [ 136.255, -14.191 ], [ 136.175, -14.152 ], [ 136.097, -14.114 ], [ 136.02, -14.077 ], [ 135.944, -14.042 ], [ 135.869, -14.007 ], [ 135.794, -13.973 ], [ 135.719, -13.939 ], [ 135.645, -13.907 ], [ 135.569, -13.875 ], [ 135.493, -13.844 ], [ 135.416, -13.813 ], [ 135.338, -13.783 ], [ 135.258, -13.753 ], [ 135.177, -13.723 ], [ 135.093, -13.694 ], [ 135.007, -13.665 ], [ 134.918, -13.636 ], [ 134.826, -13.608 ], [ 134.735, -13.58 ], [ 134.646, -13.553 ], [ 134.559, -13.527 ], [ 134.474, -13.503 ], [ 134.39, -13.48 ], [ 134.308, -13.458 ], [ 134.227, -13.437 ], [ 134.147, -13.418 ], [ 134.067, -13.399 ], [ 133.988, -13.381 ], [ 133.908, -13.365 ], [ 133.828, -13.349 ], [ 133.748, -13.335 ], [ 133.666, -13.321 ], [ 133.584, -13.309 ], [ 133.5, -13.297 ], [ 133.414, -13.286 ], [ 133.326, -13.277 ], [ 133.236, -13.268 ], [ 133.144, -13.259 ], [ 133.048, -13.252 ], [ 132.95, -13.245 ], [ 132.854, -13.239 ], [ 132.759, -13.233 ], [ 132.666, -13.227 ], [ 132.575, -13.222 ], [ 132.484, -13.217 ], [ 132.395, -13.213 ], [ 132.307, -13.209 ], [ 132.22, -13.206 ], [ 132.133, -13.203 ], [ 132.048, -13.2 ], [ 131.963, -13.198 ], [ 131.879, -13.196 ], [ 131.795, -13.195 ], [ 131.712, -13.194 ], [ 131.629, -13.193 ], [ 131.546, -13.193 ], [ 131.464, -13.193 ], [ 131.381, -13.193 ], [ 131.298, -13.194 ], [ 131.215, -13.195 ], [ 131.132, -13.196 ], [ 131.048, -13.198 ], [ 130.964, -13.201 ], [ 130.879, -13.203 ], [ 130.794, -13.206 ], [ 130.707, -13.209 ], [ 130.62, -13.213 ], [ 130.532, -13.216 ], [ 130.443, -13.221 ], [ 130.352, -13.225 ], [ 130.26, -13.23 ], [ 130.167, -13.235 ], [ 130.073, -13.24 ], [ 129.976, -13.246 ], [ 129.878, -13.252 ], [ 129.785, -13.258 ], [ 129.695, -13.266 ], [ 129.608, -13.274 ], [ 129.524, -13.284 ], [ 129.442, -13.296 ], [ 129.362, -13.31 ], [ 129.283, -13.326 ], [ 129.204, -13.345 ], [ 129.126, -13.366 ], [ 129.047, -13.39 ], [ 128.967, -13.417 ], [ 128.886, -13.447 ], [ 128.802, -13.482 ], [ 128.717, -13.519 ], [ 128.631, -13.559 ], [ 128.549, -13.6 ], [ 128.47, -13.642 ], [ 128.396, -13.688 ], [ 128.326, -13.737 ], [ 128.263, -13.791 ], [ 128.205, -13.851 ], [ 128.154, -13.919 ], [ 128.11, -13.995 ], [ 128.074, -14.08 ], [ 128.05, -14.168 ], [ 128.041, -14.253 ], [ 128.046, -14.337 ], [ 128.061, -14.418 ], [ 128.087, -14.499 ], [ 128.121, -14.578 ], [ 128.162, -14.658 ], [ 128.208, -14.737 ], [ 128.257, -14.817 ], [ 128.309, -14.899 ], [ 128.36, -14.978 ], [ 128.41, -15.053 ], [ 128.461, -15.125 ], [ 128.512, -15.194 ], [ 128.564, -15.261 ], [ 128.618, -15.326 ], [ 128.673, -15.388 ], [ 128.73, -15.449 ], [ 128.79, -15.508 ], [ 128.853, -15.566 ], [ 128.92, -15.624 ], [ 128.99, -15.68 ], [ 129.064, -15.737 ], [ 129.143, -15.793 ], [ 129.225, -15.848 ], [ 129.305, -15.901 ], [ 129.384, -15.952 ], [ 129.462, -16 ], [ 129.539, -16.046 ], [ 129.615, -16.089 ], [ 129.691, -16.131 ], [ 129.767, -16.171 ], [ 129.842, -16.21 ], [ 129.918, -16.246 ], [ 129.995, -16.282 ], [ 130.072, -16.316 ], [ 130.15, -16.35 ], [ 130.23, -16.382 ], [ 130.31, -16.414 ], [ 130.393, -16.445 ], [ 130.477, -16.476 ], [ 130.564, -16.506 ], [ 130.653, -16.536 ], [ 130.744, -16.567 ], [ 130.838, -16.597 ], [ 130.933, -16.627 ], [ 131.027, -16.655 ], [ 131.118, -16.681 ], [ 131.207, -16.705 ], [ 131.295, -16.728 ], [ 131.382, -16.75 ], [ 131.468, -16.77 ], [ 131.553, -16.789 ], [ 131.637, -16.807 ], [ 131.72, -16.824 ], [ 131.804, -16.84 ], [ 131.887, -16.855 ], [ 131.97, -16.87 ], [ 132.053, -16.884 ], [ 132.137, -16.898 ], [ 132.221, -16.911 ], [ 132.306, -16.924 ], [ 132.393, -16.937 ], [ 132.48, -16.951 ], [ 132.569, -16.964 ], [ 132.659, -16.978 ], [ 132.751, -16.992 ], [ 132.845, -17.006 ], [ 132.941, -17.022 ], [ 133.04, -17.037 ], [ 133.138, -17.053 ], [ 133.234, -17.069 ], [ 133.328, -17.083 ], [ 133.421, -17.098 ], [ 133.512, -17.111 ], [ 133.602, -17.125 ], [ 133.69, -17.138 ], [ 133.777, -17.15 ], [ 133.864, -17.162 ], [ 133.949, -17.174 ], [ 134.034, -17.186 ], [ 134.118, -17.197 ], [ 134.202, -17.208 ], [ 134.285, -17.219 ], [ 134.368, -17.229 ], [ 134.451, -17.24 ], [ 134.534, -17.25 ], [ 134.618, -17.261 ], [ 134.701, -17.271 ], [ 134.786, -17.282 ], [ 134.87, -17.292 ], [ 134.956, -17.302 ], [ 135.042, -17.313 ], [ 135.13, -17.324 ], [ 135.219, -17.335 ], [ 135.309, -17.346 ], [ 135.4, -17.357 ], [ 135.493, -17.369 ], [ 135.588, -17.381 ], [ 135.685, -17.393 ], [ 135.783, -17.405 ], [ 135.88, -17.418 ], [ 135.975, -17.43 ], [ 136.068, -17.442 ], [ 136.159, -17.453 ], [ 136.248, -17.465 ], [ 136.336, -17.476 ], [ 136.422, -17.487 ], [ 136.508, -17.497 ], [ 136.592, -17.508 ], [ 136.676, -17.518 ], [ 136.759, -17.529 ], [ 136.841, -17.539 ], [ 136.923, -17.549 ], [ 137.004, -17.559 ], [ 137.086, -17.569 ], [ 137.168, -17.579 ], [ 137.25, -17.589 ], [ 137.332, -17.599 ], [ 137.415, -17.609 ], [ 137.499, -17.619 ], [ 137.583, -17.629 ], [ 137.669, -17.639 ], [ 137.755, -17.649 ], [ 137.843, -17.659 ], [ 137.933, -17.67 ], [ 138.024, -17.68 ], [ 138.117, -17.691 ], [ 138.212, -17.702 ], [ 138.309, -17.713 ] ] ] ]
+      }
+    }, {
+      "type" : "Feature",
+      "properties" : {
+        "time" : "2026-01-18T00:00:00Z",
+        "confidenceLevel" : 50.0
+      },
+      "geometry" : {
+        "type" : "MultiPolygon",
+        "coordinates" : [ [ [ [ 132.593, -16.739 ], [ 132.69, -16.761 ], [ 132.786, -16.782 ], [ 132.88, -16.803 ], [ 132.972, -16.822 ], [ 133.063, -16.842 ], [ 133.153, -16.86 ], [ 133.242, -16.878 ], [ 133.329, -16.895 ], [ 133.416, -16.912 ], [ 133.502, -16.928 ], [ 133.587, -16.943 ], [ 133.672, -16.958 ], [ 133.756, -16.973 ], [ 133.839, -16.987 ], [ 133.923, -17 ], [ 134.006, -17.013 ], [ 134.089, -17.026 ], [ 134.172, -17.039 ], [ 134.256, -17.051 ], [ 134.339, -17.062 ], [ 134.423, -17.074 ], [ 134.508, -17.085 ], [ 134.593, -17.096 ], [ 134.679, -17.107 ], [ 134.766, -17.117 ], [ 134.853, -17.128 ], [ 134.942, -17.138 ], [ 135.032, -17.148 ], [ 135.123, -17.158 ], [ 135.216, -17.168 ], [ 135.31, -17.178 ], [ 135.406, -17.188 ], [ 135.503, -17.198 ], [ 135.603, -17.208 ], [ 135.701, -17.217 ], [ 135.796, -17.225 ], [ 135.888, -17.231 ], [ 135.977, -17.236 ], [ 136.065, -17.239 ], [ 136.151, -17.241 ], [ 136.236, -17.242 ], [ 136.32, -17.242 ], [ 136.404, -17.241 ], [ 136.488, -17.239 ], [ 136.572, -17.237 ], [ 136.657, -17.233 ], [ 136.743, -17.229 ], [ 136.831, -17.225 ], [ 136.921, -17.22 ], [ 137.013, -17.214 ], [ 137.108, -17.209 ], [ 137.206, -17.203 ], [ 137.305, -17.197 ], [ 137.4, -17.192 ], [ 137.493, -17.188 ], [ 137.583, -17.183 ], [ 137.671, -17.179 ], [ 137.757, -17.174 ], [ 137.842, -17.169 ], [ 137.927, -17.163 ], [ 138.01, -17.156 ], [ 138.094, -17.148 ], [ 138.178, -17.139 ], [ 138.262, -17.128 ], [ 138.347, -17.115 ], [ 138.434, -17.101 ], [ 138.522, -17.084 ], [ 138.612, -17.065 ], [ 138.705, -17.044 ], [ 138.8, -17.02 ], [ 138.893, -16.992 ], [ 138.979, -16.959 ], [ 139.059, -16.921 ], [ 139.134, -16.877 ], [ 139.203, -16.826 ], [ 139.269, -16.767 ], [ 139.332, -16.7 ], [ 139.393, -16.625 ], [ 139.438, -16.547 ], [ 139.461, -16.463 ], [ 139.463, -16.377 ], [ 139.443, -16.293 ], [ 139.4, -16.215 ], [ 139.342, -16.139 ], [ 139.285, -16.067 ], [ 139.228, -15.999 ], [ 139.171, -15.935 ], [ 139.113, -15.874 ], [ 139.055, -15.815 ], [ 138.995, -15.759 ], [ 138.934, -15.704 ], [ 138.871, -15.651 ], [ 138.807, -15.599 ], [ 138.74, -15.548 ], [ 138.67, -15.497 ], [ 138.597, -15.445 ], [ 138.522, -15.394 ], [ 138.442, -15.341 ], [ 138.364, -15.29 ], [ 138.287, -15.243 ], [ 138.213, -15.2 ], [ 138.139, -15.159 ], [ 138.066, -15.121 ], [ 137.993, -15.085 ], [ 137.921, -15.051 ], [ 137.848, -15.018 ], [ 137.775, -14.987 ], [ 137.701, -14.956 ], [ 137.625, -14.926 ], [ 137.548, -14.897 ], [ 137.469, -14.867 ], [ 137.387, -14.837 ], [ 137.303, -14.806 ], [ 137.215, -14.774 ], [ 137.123, -14.74 ], [ 137.034, -14.708 ], [ 136.947, -14.678 ], [ 136.862, -14.649 ], [ 136.779, -14.62 ], [ 136.697, -14.593 ], [ 136.616, -14.567 ], [ 136.536, -14.542 ], [ 136.456, -14.518 ], [ 136.377, -14.494 ], [ 136.298, -14.47 ], [ 136.218, -14.447 ], [ 136.138, -14.424 ], [ 136.057, -14.402 ], [ 135.975, -14.379 ], [ 135.892, -14.356 ], [ 135.807, -14.334 ], [ 135.72, -14.31 ], [ 135.631, -14.287 ], [ 135.539, -14.262 ], [ 135.445, -14.238 ], [ 135.351, -14.213 ], [ 135.259, -14.189 ], [ 135.17, -14.166 ], [ 135.083, -14.144 ], [ 134.998, -14.122 ], [ 134.914, -14.101 ], [ 134.831, -14.081 ], [ 134.75, -14.062 ], [ 134.669, -14.042 ], [ 134.588, -14.024 ], [ 134.508, -14.006 ], [ 134.427, -13.988 ], [ 134.346, -13.97 ], [ 134.264, -13.953 ], [ 134.181, -13.935 ], [ 134.096, -13.918 ], [ 134.01, -13.901 ], [ 133.922, -13.884 ], [ 133.831, -13.867 ], [ 133.738, -13.85 ], [ 133.643, -13.833 ], [ 133.545, -13.816 ], [ 133.451, -13.8 ], [ 133.359, -13.785 ], [ 133.27, -13.77 ], [ 133.182, -13.757 ], [ 133.096, -13.744 ], [ 133.011, -13.732 ], [ 132.928, -13.72 ], [ 132.844, -13.709 ], [ 132.761, -13.699 ], [ 132.678, -13.689 ], [ 132.593, -13.679 ], [ 132.508, -13.67 ], [ 132.422, -13.661 ], [ 132.334, -13.652 ], [ 132.244, -13.644 ], [ 132.151, -13.635 ], [ 132.056, -13.627 ], [ 131.957, -13.618 ], [ 131.858, -13.61 ], [ 131.763, -13.602 ], [ 131.67, -13.594 ], [ 131.579, -13.587 ], [ 131.491, -13.58 ], [ 131.404, -13.574 ], [ 131.319, -13.568 ], [ 131.234, -13.562 ], [ 131.15, -13.558 ], [ 131.066, -13.553 ], [ 130.982, -13.55 ], [ 130.897, -13.547 ], [ 130.811, -13.545 ], [ 130.724, -13.544 ], [ 130.636, -13.543 ], [ 130.545, -13.544 ], [ 130.452, -13.545 ], [ 130.356, -13.547 ], [ 130.257, -13.551 ], [ 130.158, -13.555 ], [ 130.063, -13.559 ], [ 129.97, -13.563 ], [ 129.88, -13.567 ], [ 129.792, -13.572 ], [ 129.706, -13.578 ], [ 129.62, -13.586 ], [ 129.536, -13.594 ], [ 129.452, -13.605 ], [ 129.368, -13.617 ], [ 129.283, -13.631 ], [ 129.197, -13.648 ], [ 129.109, -13.667 ], [ 129.02, -13.689 ], [ 128.928, -13.714 ], [ 128.833, -13.742 ], [ 128.745, -13.771 ], [ 128.663, -13.801 ], [ 128.585, -13.834 ], [ 128.51, -13.869 ], [ 128.439, -13.908 ], [ 128.371, -13.95 ], [ 128.305, -13.997 ], [ 128.242, -14.049 ], [ 128.179, -14.105 ], [ 128.118, -14.168 ], [ 128.057, -14.236 ], [ 128.011, -14.313 ], [ 127.992, -14.396 ], [ 127.997, -14.484 ], [ 128.021, -14.571 ], [ 128.061, -14.655 ], [ 128.113, -14.738 ], [ 128.166, -14.813 ], [ 128.221, -14.881 ], [ 128.279, -14.944 ], [ 128.34, -15.003 ], [ 128.406, -15.06 ], [ 128.475, -15.115 ], [ 128.55, -15.169 ], [ 128.63, -15.225 ], [ 128.71, -15.28 ], [ 128.787, -15.332 ], [ 128.863, -15.381 ], [ 128.937, -15.428 ], [ 129.01, -15.474 ], [ 129.082, -15.517 ], [ 129.154, -15.559 ], [ 129.226, -15.6 ], [ 129.298, -15.639 ], [ 129.372, -15.677 ], [ 129.448, -15.714 ], [ 129.525, -15.75 ], [ 129.605, -15.786 ], [ 129.688, -15.821 ], [ 129.774, -15.857 ], [ 129.864, -15.892 ], [ 129.957, -15.927 ], [ 130.048, -15.962 ], [ 130.138, -15.995 ], [ 130.226, -16.028 ], [ 130.313, -16.06 ], [ 130.398, -16.091 ], [ 130.483, -16.122 ], [ 130.566, -16.152 ], [ 130.649, -16.181 ], [ 130.73, -16.209 ], [ 130.811, -16.237 ], [ 130.892, -16.264 ], [ 130.972, -16.291 ], [ 131.052, -16.318 ], [ 131.132, -16.343 ], [ 131.212, -16.369 ], [ 131.292, -16.394 ], [ 131.373, -16.418 ], [ 131.453, -16.442 ], [ 131.534, -16.466 ], [ 131.616, -16.49 ], [ 131.699, -16.513 ], [ 131.782, -16.536 ], [ 131.867, -16.559 ], [ 131.952, -16.582 ], [ 132.039, -16.604 ], [ 132.127, -16.627 ], [ 132.217, -16.649 ], [ 132.308, -16.671 ], [ 132.401, -16.694 ], [ 132.496, -16.716 ], [ 132.593, -16.739 ] ] ] ]
+      }
+    }, {
+      "type" : "Feature",
+      "properties" : {
+        "time" : "2026-01-18T00:00:00Z",
+        "confidenceLevel" : 70.0
+      },
+      "geometry" : {
+        "type" : "MultiPolygon",
+        "coordinates" : [ [ [ [ 132.593, -17.301 ], [ 132.689, -17.322 ], [ 132.785, -17.342 ], [ 132.879, -17.362 ], [ 132.971, -17.382 ], [ 133.063, -17.401 ], [ 133.153, -17.42 ], [ 133.243, -17.439 ], [ 133.332, -17.457 ], [ 133.419, -17.474 ], [ 133.506, -17.492 ], [ 133.592, -17.509 ], [ 133.677, -17.526 ], [ 133.762, -17.542 ], [ 133.846, -17.558 ], [ 133.93, -17.573 ], [ 134.013, -17.588 ], [ 134.096, -17.603 ], [ 134.179, -17.618 ], [ 134.261, -17.632 ], [ 134.344, -17.646 ], [ 134.426, -17.659 ], [ 134.508, -17.672 ], [ 134.59, -17.684 ], [ 134.673, -17.697 ], [ 134.755, -17.708 ], [ 134.838, -17.72 ], [ 134.921, -17.731 ], [ 135.004, -17.742 ], [ 135.088, -17.752 ], [ 135.173, -17.762 ], [ 135.258, -17.772 ], [ 135.343, -17.781 ], [ 135.43, -17.79 ], [ 135.517, -17.799 ], [ 135.605, -17.807 ], [ 135.694, -17.815 ], [ 135.784, -17.822 ], [ 135.875, -17.83 ], [ 135.967, -17.836 ], [ 136.06, -17.843 ], [ 136.155, -17.849 ], [ 136.251, -17.854 ], [ 136.348, -17.86 ], [ 136.447, -17.865 ], [ 136.547, -17.869 ], [ 136.646, -17.874 ], [ 136.743, -17.877 ], [ 136.839, -17.881 ], [ 136.934, -17.884 ], [ 137.028, -17.887 ], [ 137.121, -17.889 ], [ 137.212, -17.891 ], [ 137.303, -17.892 ], [ 137.393, -17.893 ], [ 137.482, -17.893 ], [ 137.57, -17.894 ], [ 137.657, -17.893 ], [ 137.744, -17.893 ], [ 137.831, -17.892 ], [ 137.916, -17.89 ], [ 138.002, -17.888 ], [ 138.087, -17.886 ], [ 138.172, -17.883 ], [ 138.256, -17.88 ], [ 138.341, -17.876 ], [ 138.425, -17.872 ], [ 138.509, -17.868 ], [ 138.594, -17.863 ], [ 138.678, -17.858 ], [ 138.763, -17.852 ], [ 138.848, -17.846 ], [ 138.933, -17.839 ], [ 139.019, -17.832 ], [ 139.105, -17.825 ], [ 139.191, -17.817 ], [ 139.279, -17.809 ], [ 139.366, -17.8 ], [ 139.455, -17.791 ], [ 139.544, -17.782 ], [ 139.634, -17.772 ], [ 139.725, -17.761 ], [ 139.818, -17.75 ], [ 139.911, -17.739 ], [ 140.005, -17.727 ], [ 140.1, -17.715 ], [ 140.197, -17.703 ], [ 140.295, -17.69 ], [ 140.395, -17.676 ], [ 140.492, -17.661 ], [ 140.586, -17.642 ], [ 140.675, -17.62 ], [ 140.761, -17.594 ], [ 140.844, -17.563 ], [ 140.924, -17.527 ], [ 141.001, -17.486 ], [ 141.076, -17.44 ], [ 141.148, -17.388 ], [ 141.219, -17.33 ], [ 141.288, -17.266 ], [ 141.356, -17.194 ], [ 141.416, -17.118 ], [ 141.46, -17.038 ], [ 141.491, -16.953 ], [ 141.509, -16.865 ], [ 141.514, -16.775 ], [ 141.508, -16.683 ], [ 141.49, -16.59 ], [ 141.463, -16.496 ], [ 141.431, -16.412 ], [ 141.395, -16.335 ], [ 141.354, -16.264 ], [ 141.309, -16.197 ], [ 141.26, -16.135 ], [ 141.207, -16.076 ], [ 141.15, -16.021 ], [ 141.089, -15.967 ], [ 141.023, -15.914 ], [ 140.954, -15.862 ], [ 140.88, -15.809 ], [ 140.799, -15.753 ], [ 140.719, -15.698 ], [ 140.64, -15.646 ], [ 140.563, -15.595 ], [ 140.486, -15.545 ], [ 140.411, -15.498 ], [ 140.337, -15.452 ], [ 140.263, -15.407 ], [ 140.189, -15.363 ], [ 140.115, -15.321 ], [ 140.042, -15.279 ], [ 139.968, -15.238 ], [ 139.894, -15.198 ], [ 139.819, -15.159 ], [ 139.744, -15.12 ], [ 139.667, -15.082 ], [ 139.589, -15.043 ], [ 139.51, -15.005 ], [ 139.43, -14.967 ], [ 139.347, -14.929 ], [ 139.263, -14.891 ], [ 139.177, -14.852 ], [ 139.088, -14.813 ], [ 138.997, -14.774 ], [ 138.907, -14.735 ], [ 138.819, -14.698 ], [ 138.732, -14.662 ], [ 138.647, -14.628 ], [ 138.563, -14.595 ], [ 138.481, -14.562 ], [ 138.399, -14.531 ], [ 138.318, -14.501 ], [ 138.238, -14.472 ], [ 138.159, -14.443 ], [ 138.08, -14.415 ], [ 138.002, -14.388 ], [ 137.923, -14.361 ], [ 137.845, -14.335 ], [ 137.767, -14.31 ], [ 137.688, -14.284 ], [ 137.609, -14.259 ], [ 137.53, -14.234 ], [ 137.45, -14.21 ], [ 137.369, -14.185 ], [ 137.287, -14.161 ], [ 137.204, -14.136 ], [ 137.121, -14.112 ], [ 137.035, -14.087 ], [ 136.949, -14.061 ], [ 136.86, -14.036 ], [ 136.77, -14.01 ], [ 136.678, -13.983 ], [ 136.585, -13.956 ], [ 136.491, -13.929 ], [ 136.399, -13.903 ], [ 136.309, -13.878 ], [ 136.221, -13.853 ], [ 136.134, -13.828 ], [ 136.049, -13.805 ], [ 135.964, -13.782 ], [ 135.881, -13.76 ], [ 135.799, -13.738 ], [ 135.718, -13.716 ], [ 135.637, -13.695 ], [ 135.556, -13.675 ], [ 135.476, -13.655 ], [ 135.396, -13.635 ], [ 135.316, -13.616 ], [ 135.236, -13.597 ], [ 135.156, -13.578 ], [ 135.075, -13.56 ], [ 134.993, -13.541 ], [ 134.911, -13.523 ], [ 134.828, -13.505 ], [ 134.744, -13.488 ], [ 134.658, -13.47 ], [ 134.571, -13.452 ], [ 134.483, -13.435 ], [ 134.393, -13.417 ], [ 134.301, -13.4 ], [ 134.207, -13.382 ], [ 134.111, -13.364 ], [ 134.015, -13.347 ], [ 133.921, -13.33 ], [ 133.828, -13.314 ], [ 133.737, -13.298 ], [ 133.648, -13.283 ], [ 133.56, -13.269 ], [ 133.473, -13.255 ], [ 133.387, -13.242 ], [ 133.303, -13.229 ], [ 133.219, -13.216 ], [ 133.136, -13.205 ], [ 133.053, -13.193 ], [ 132.971, -13.182 ], [ 132.889, -13.171 ], [ 132.807, -13.16 ], [ 132.725, -13.15 ], [ 132.643, -13.14 ], [ 132.56, -13.131 ], [ 132.477, -13.121 ], [ 132.394, -13.112 ], [ 132.309, -13.103 ], [ 132.224, -13.094 ], [ 132.138, -13.085 ], [ 132.05, -13.076 ], [ 131.962, -13.068 ], [ 131.871, -13.059 ], [ 131.779, -13.051 ], [ 131.686, -13.042 ], [ 131.59, -13.033 ], [ 131.493, -13.024 ], [ 131.395, -13.016 ], [ 131.299, -13.007 ], [ 131.206, -12.999 ], [ 131.113, -12.991 ], [ 131.023, -12.983 ], [ 130.934, -12.976 ], [ 130.846, -12.968 ], [ 130.759, -12.961 ], [ 130.674, -12.955 ], [ 130.589, -12.948 ], [ 130.505, -12.942 ], [ 130.422, -12.937 ], [ 130.339, -12.931 ], [ 130.256, -12.926 ], [ 130.173, -12.921 ], [ 130.091, -12.917 ], [ 130.008, -12.913 ], [ 129.925, -12.909 ], [ 129.841, -12.905 ], [ 129.757, -12.902 ], [ 129.672, -12.9 ], [ 129.586, -12.898 ], [ 129.499, -12.896 ], [ 129.411, -12.894 ], [ 129.322, -12.893 ], [ 129.231, -12.893 ], [ 129.139, -12.892 ], [ 129.045, -12.893 ], [ 128.949, -12.893 ], [ 128.851, -12.894 ], [ 128.751, -12.896 ], [ 128.655, -12.897 ], [ 128.562, -12.899 ], [ 128.471, -12.901 ], [ 128.382, -12.904 ], [ 128.295, -12.908 ], [ 128.209, -12.912 ], [ 128.124, -12.918 ], [ 128.039, -12.925 ], [ 127.955, -12.934 ], [ 127.871, -12.945 ], [ 127.786, -12.957 ], [ 127.7, -12.972 ], [ 127.613, -12.989 ], [ 127.525, -13.008 ], [ 127.435, -13.03 ], [ 127.342, -13.055 ], [ 127.247, -13.083 ], [ 127.153, -13.112 ], [ 127.062, -13.142 ], [ 126.974, -13.171 ], [ 126.888, -13.202 ], [ 126.805, -13.234 ], [ 126.724, -13.267 ], [ 126.646, -13.303 ], [ 126.569, -13.34 ], [ 126.494, -13.38 ], [ 126.42, -13.424 ], [ 126.347, -13.47 ], [ 126.276, -13.521 ], [ 126.205, -13.575 ], [ 126.134, -13.634 ], [ 126.064, -13.698 ], [ 125.994, -13.767 ], [ 125.941, -13.84 ], [ 125.912, -13.919 ], [ 125.905, -14.004 ], [ 125.913, -14.092 ], [ 125.934, -14.183 ], [ 125.962, -14.275 ], [ 125.994, -14.366 ], [ 126.03, -14.455 ], [ 126.07, -14.536 ], [ 126.116, -14.609 ], [ 126.17, -14.677 ], [ 126.231, -14.738 ], [ 126.3, -14.796 ], [ 126.379, -14.85 ], [ 126.463, -14.902 ], [ 126.544, -14.954 ], [ 126.625, -15.004 ], [ 126.704, -15.053 ], [ 126.781, -15.102 ], [ 126.858, -15.15 ], [ 126.934, -15.197 ], [ 127.009, -15.243 ], [ 127.084, -15.288 ], [ 127.157, -15.333 ], [ 127.23, -15.377 ], [ 127.303, -15.42 ], [ 127.376, -15.463 ], [ 127.448, -15.505 ], [ 127.52, -15.547 ], [ 127.592, -15.588 ], [ 127.665, -15.628 ], [ 127.737, -15.668 ], [ 127.81, -15.708 ], [ 127.884, -15.747 ], [ 127.958, -15.785 ], [ 128.032, -15.824 ], [ 128.108, -15.862 ], [ 128.184, -15.9 ], [ 128.261, -15.937 ], [ 128.34, -15.974 ], [ 128.42, -16.011 ], [ 128.501, -16.048 ], [ 128.583, -16.085 ], [ 128.667, -16.121 ], [ 128.753, -16.158 ], [ 128.84, -16.194 ], [ 128.929, -16.231 ], [ 129.02, -16.267 ], [ 129.112, -16.303 ], [ 129.203, -16.338 ], [ 129.293, -16.372 ], [ 129.381, -16.406 ], [ 129.469, -16.438 ], [ 129.555, -16.47 ], [ 129.641, -16.501 ], [ 129.726, -16.531 ], [ 129.809, -16.56 ], [ 129.893, -16.589 ], [ 129.975, -16.617 ], [ 130.057, -16.644 ], [ 130.139, -16.671 ], [ 130.22, -16.697 ], [ 130.301, -16.723 ], [ 130.381, -16.748 ], [ 130.462, -16.772 ], [ 130.542, -16.796 ], [ 130.622, -16.82 ], [ 130.702, -16.843 ], [ 130.782, -16.866 ], [ 130.862, -16.888 ], [ 130.942, -16.91 ], [ 131.023, -16.932 ], [ 131.104, -16.953 ], [ 131.185, -16.975 ], [ 131.267, -16.996 ], [ 131.349, -17.016 ], [ 131.432, -17.037 ], [ 131.515, -17.057 ], [ 131.599, -17.078 ], [ 131.684, -17.098 ], [ 131.77, -17.118 ], [ 131.857, -17.138 ], [ 131.945, -17.158 ], [ 132.034, -17.178 ], [ 132.123, -17.198 ], [ 132.215, -17.219 ], [ 132.307, -17.239 ], [ 132.401, -17.26 ], [ 132.496, -17.28 ], [ 132.593, -17.301 ] ] ] ]
+      }
+    }, {
+      "type" : "Feature",
+      "properties" : {
+        "time" : "2026-01-18T12:00:00Z",
+        "confidenceLevel" : 50.0
+      },
+      "geometry" : {
+        "type" : "MultiPolygon",
+        "coordinates" : [ [ [ [ 132.408, -16.998 ], [ 132.507, -17.014 ], [ 132.604, -17.029 ], [ 132.7, -17.044 ], [ 132.794, -17.059 ], [ 132.886, -17.074 ], [ 132.978, -17.089 ], [ 133.067, -17.103 ], [ 133.156, -17.117 ], [ 133.244, -17.131 ], [ 133.331, -17.145 ], [ 133.417, -17.158 ], [ 133.503, -17.172 ], [ 133.587, -17.184 ], [ 133.672, -17.197 ], [ 133.756, -17.209 ], [ 133.84, -17.221 ], [ 133.923, -17.232 ], [ 134.007, -17.243 ], [ 134.091, -17.254 ], [ 134.175, -17.264 ], [ 134.259, -17.274 ], [ 134.344, -17.284 ], [ 134.429, -17.293 ], [ 134.515, -17.302 ], [ 134.601, -17.31 ], [ 134.689, -17.318 ], [ 134.777, -17.325 ], [ 134.867, -17.332 ], [ 134.958, -17.338 ], [ 135.05, -17.344 ], [ 135.143, -17.349 ], [ 135.238, -17.354 ], [ 135.334, -17.359 ], [ 135.433, -17.362 ], [ 135.533, -17.365 ], [ 135.633, -17.368 ], [ 135.731, -17.371 ], [ 135.827, -17.373 ], [ 135.922, -17.375 ], [ 136.016, -17.376 ], [ 136.109, -17.377 ], [ 136.2, -17.378 ], [ 136.29, -17.379 ], [ 136.379, -17.379 ], [ 136.467, -17.379 ], [ 136.554, -17.378 ], [ 136.641, -17.377 ], [ 136.727, -17.375 ], [ 136.812, -17.373 ], [ 136.897, -17.371 ], [ 136.982, -17.368 ], [ 137.066, -17.365 ], [ 137.15, -17.361 ], [ 137.234, -17.357 ], [ 137.318, -17.352 ], [ 137.402, -17.347 ], [ 137.487, -17.341 ], [ 137.572, -17.335 ], [ 137.657, -17.328 ], [ 137.742, -17.32 ], [ 137.828, -17.312 ], [ 137.915, -17.303 ], [ 138.003, -17.294 ], [ 138.091, -17.284 ], [ 138.18, -17.274 ], [ 138.271, -17.263 ], [ 138.362, -17.251 ], [ 138.455, -17.238 ], [ 138.549, -17.225 ], [ 138.645, -17.211 ], [ 138.742, -17.197 ], [ 138.841, -17.181 ], [ 138.936, -17.164 ], [ 139.026, -17.142 ], [ 139.112, -17.115 ], [ 139.193, -17.083 ], [ 139.271, -17.047 ], [ 139.346, -17.005 ], [ 139.418, -16.958 ], [ 139.488, -16.905 ], [ 139.556, -16.846 ], [ 139.623, -16.782 ], [ 139.689, -16.711 ], [ 139.74, -16.636 ], [ 139.769, -16.554 ], [ 139.778, -16.468 ], [ 139.769, -16.381 ], [ 139.743, -16.294 ], [ 139.701, -16.211 ], [ 139.649, -16.131 ], [ 139.594, -16.059 ], [ 139.537, -15.994 ], [ 139.476, -15.935 ], [ 139.413, -15.88 ], [ 139.346, -15.829 ], [ 139.275, -15.779 ], [ 139.201, -15.731 ], [ 139.123, -15.682 ], [ 139.04, -15.632 ], [ 138.957, -15.582 ], [ 138.877, -15.535 ], [ 138.798, -15.491 ], [ 138.721, -15.449 ], [ 138.646, -15.41 ], [ 138.57, -15.372 ], [ 138.495, -15.336 ], [ 138.42, -15.302 ], [ 138.344, -15.268 ], [ 138.266, -15.236 ], [ 138.187, -15.204 ], [ 138.105, -15.173 ], [ 138.021, -15.141 ], [ 137.933, -15.11 ], [ 137.841, -15.078 ], [ 137.749, -15.047 ], [ 137.659, -15.016 ], [ 137.571, -14.987 ], [ 137.484, -14.959 ], [ 137.399, -14.931 ], [ 137.315, -14.905 ], [ 137.232, -14.879 ], [ 137.151, -14.854 ], [ 137.07, -14.83 ], [ 136.99, -14.806 ], [ 136.91, -14.783 ], [ 136.831, -14.76 ], [ 136.752, -14.738 ], [ 136.672, -14.716 ], [ 136.593, -14.695 ], [ 136.513, -14.673 ], [ 136.433, -14.652 ], [ 136.352, -14.631 ], [ 136.27, -14.61 ], [ 136.187, -14.589 ], [ 136.103, -14.568 ], [ 136.018, -14.547 ], [ 135.931, -14.526 ], [ 135.843, -14.504 ], [ 135.752, -14.482 ], [ 135.66, -14.46 ], [ 135.565, -14.437 ], [ 135.471, -14.415 ], [ 135.378, -14.393 ], [ 135.288, -14.371 ], [ 135.199, -14.35 ], [ 135.112, -14.33 ], [ 135.027, -14.31 ], [ 134.943, -14.291 ], [ 134.859, -14.272 ], [ 134.777, -14.254 ], [ 134.696, -14.236 ], [ 134.615, -14.218 ], [ 134.534, -14.201 ], [ 134.454, -14.184 ], [ 134.373, -14.168 ], [ 134.293, -14.152 ], [ 134.212, -14.136 ], [ 134.131, -14.12 ], [ 134.049, -14.105 ], [ 133.966, -14.09 ], [ 133.882, -14.075 ], [ 133.797, -14.061 ], [ 133.71, -14.046 ], [ 133.622, -14.032 ], [ 133.532, -14.018 ], [ 133.441, -14.004 ], [ 133.347, -13.99 ], [ 133.251, -13.976 ], [ 133.155, -13.962 ], [ 133.062, -13.95 ], [ 132.971, -13.937 ], [ 132.882, -13.926 ], [ 132.795, -13.915 ], [ 132.709, -13.905 ], [ 132.624, -13.895 ], [ 132.54, -13.886 ], [ 132.458, -13.878 ], [ 132.376, -13.87 ], [ 132.294, -13.862 ], [ 132.213, -13.855 ], [ 132.132, -13.848 ], [ 132.051, -13.842 ], [ 131.97, -13.836 ], [ 131.888, -13.83 ], [ 131.806, -13.825 ], [ 131.723, -13.819 ], [ 131.639, -13.815 ], [ 131.553, -13.81 ], [ 131.467, -13.805 ], [ 131.379, -13.801 ], [ 131.289, -13.797 ], [ 131.197, -13.793 ], [ 131.103, -13.789 ], [ 131.007, -13.785 ], [ 130.911, -13.781 ], [ 130.817, -13.777 ], [ 130.725, -13.773 ], [ 130.635, -13.77 ], [ 130.547, -13.766 ], [ 130.46, -13.763 ], [ 130.374, -13.76 ], [ 130.29, -13.758 ], [ 130.206, -13.755 ], [ 130.124, -13.753 ], [ 130.042, -13.752 ], [ 129.96, -13.751 ], [ 129.879, -13.75 ], [ 129.797, -13.749 ], [ 129.716, -13.75 ], [ 129.634, -13.75 ], [ 129.551, -13.751 ], [ 129.468, -13.753 ], [ 129.383, -13.756 ], [ 129.298, -13.759 ], [ 129.211, -13.762 ], [ 129.123, -13.767 ], [ 129.033, -13.772 ], [ 128.941, -13.778 ], [ 128.848, -13.784 ], [ 128.751, -13.792 ], [ 128.654, -13.8 ], [ 128.561, -13.809 ], [ 128.47, -13.819 ], [ 128.383, -13.83 ], [ 128.297, -13.843 ], [ 128.213, -13.856 ], [ 128.131, -13.872 ], [ 128.049, -13.889 ], [ 127.967, -13.908 ], [ 127.885, -13.929 ], [ 127.802, -13.952 ], [ 127.718, -13.978 ], [ 127.632, -14.006 ], [ 127.543, -14.036 ], [ 127.451, -14.07 ], [ 127.362, -14.107 ], [ 127.281, -14.148 ], [ 127.207, -14.195 ], [ 127.14, -14.249 ], [ 127.078, -14.311 ], [ 127.021, -14.381 ], [ 126.968, -14.461 ], [ 126.931, -14.542 ], [ 126.913, -14.624 ], [ 126.915, -14.707 ], [ 126.935, -14.79 ], [ 126.972, -14.871 ], [ 127.022, -14.952 ], [ 127.073, -15.026 ], [ 127.126, -15.094 ], [ 127.182, -15.157 ], [ 127.242, -15.215 ], [ 127.305, -15.271 ], [ 127.374, -15.324 ], [ 127.448, -15.376 ], [ 127.528, -15.428 ], [ 127.608, -15.477 ], [ 127.686, -15.523 ], [ 127.763, -15.567 ], [ 127.838, -15.609 ], [ 127.912, -15.649 ], [ 127.986, -15.687 ], [ 128.058, -15.723 ], [ 128.131, -15.758 ], [ 128.204, -15.791 ], [ 128.277, -15.824 ], [ 128.351, -15.856 ], [ 128.426, -15.888 ], [ 128.503, -15.919 ], [ 128.581, -15.95 ], [ 128.661, -15.982 ], [ 128.744, -16.013 ], [ 128.829, -16.046 ], [ 128.917, -16.079 ], [ 129.007, -16.112 ], [ 129.094, -16.144 ], [ 129.178, -16.174 ], [ 129.262, -16.202 ], [ 129.343, -16.229 ], [ 129.423, -16.255 ], [ 129.502, -16.281 ], [ 129.581, -16.305 ], [ 129.658, -16.328 ], [ 129.736, -16.351 ], [ 129.814, -16.374 ], [ 129.891, -16.396 ], [ 129.97, -16.417 ], [ 130.049, -16.439 ], [ 130.129, -16.46 ], [ 130.211, -16.482 ], [ 130.294, -16.504 ], [ 130.379, -16.526 ], [ 130.466, -16.549 ], [ 130.556, -16.573 ], [ 130.648, -16.597 ], [ 130.74, -16.621 ], [ 130.829, -16.645 ], [ 130.916, -16.668 ], [ 131.001, -16.69 ], [ 131.084, -16.712 ], [ 131.166, -16.733 ], [ 131.247, -16.754 ], [ 131.326, -16.774 ], [ 131.405, -16.794 ], [ 131.483, -16.813 ], [ 131.562, -16.832 ], [ 131.641, -16.85 ], [ 131.72, -16.868 ], [ 131.8, -16.886 ], [ 131.881, -16.903 ], [ 131.964, -16.919 ], [ 132.048, -16.936 ], [ 132.134, -16.952 ], [ 132.223, -16.967 ], [ 132.314, -16.983 ], [ 132.408, -16.998 ] ] ] ]
+      }
+    }, {
+      "type" : "Feature",
+      "properties" : {
+        "time" : "2026-01-18T12:00:00Z",
+        "confidenceLevel" : 70.0
+      },
+      "geometry" : {
+        "type" : "MultiPolygon",
+        "coordinates" : [ [ [ [ 131.583, -17.365 ], [ 131.681, -17.383 ], [ 131.777, -17.401 ], [ 131.872, -17.419 ], [ 131.965, -17.436 ], [ 132.058, -17.453 ], [ 132.149, -17.47 ], [ 132.24, -17.486 ], [ 132.329, -17.502 ], [ 132.418, -17.517 ], [ 132.506, -17.533 ], [ 132.593, -17.548 ], [ 132.679, -17.562 ], [ 132.765, -17.576 ], [ 132.85, -17.59 ], [ 132.935, -17.604 ], [ 133.019, -17.617 ], [ 133.103, -17.63 ], [ 133.186, -17.643 ], [ 133.269, -17.655 ], [ 133.352, -17.668 ], [ 133.435, -17.68 ], [ 133.517, -17.691 ], [ 133.6, -17.703 ], [ 133.682, -17.714 ], [ 133.765, -17.725 ], [ 133.847, -17.735 ], [ 133.93, -17.746 ], [ 134.013, -17.756 ], [ 134.097, -17.766 ], [ 134.18, -17.776 ], [ 134.265, -17.785 ], [ 134.349, -17.795 ], [ 134.434, -17.804 ], [ 134.52, -17.813 ], [ 134.607, -17.822 ], [ 134.694, -17.83 ], [ 134.782, -17.839 ], [ 134.87, -17.847 ], [ 134.96, -17.855 ], [ 135.051, -17.863 ], [ 135.142, -17.871 ], [ 135.235, -17.879 ], [ 135.329, -17.886 ], [ 135.423, -17.894 ], [ 135.52, -17.901 ], [ 135.617, -17.908 ], [ 135.716, -17.915 ], [ 135.816, -17.922 ], [ 135.914, -17.928 ], [ 136.01, -17.934 ], [ 136.105, -17.94 ], [ 136.199, -17.945 ], [ 136.292, -17.949 ], [ 136.383, -17.953 ], [ 136.474, -17.957 ], [ 136.563, -17.96 ], [ 136.652, -17.963 ], [ 136.74, -17.965 ], [ 136.827, -17.967 ], [ 136.913, -17.969 ], [ 136.999, -17.97 ], [ 137.084, -17.971 ], [ 137.169, -17.972 ], [ 137.254, -17.972 ], [ 137.338, -17.972 ], [ 137.422, -17.972 ], [ 137.506, -17.971 ], [ 137.59, -17.971 ], [ 137.674, -17.969 ], [ 137.758, -17.968 ], [ 137.842, -17.967 ], [ 137.927, -17.965 ], [ 138.012, -17.963 ], [ 138.097, -17.961 ], [ 138.183, -17.958 ], [ 138.269, -17.956 ], [ 138.356, -17.953 ], [ 138.444, -17.95 ], [ 138.533, -17.947 ], [ 138.623, -17.944 ], [ 138.713, -17.941 ], [ 138.805, -17.937 ], [ 138.898, -17.934 ], [ 138.992, -17.93 ], [ 139.087, -17.926 ], [ 139.184, -17.923 ], [ 139.282, -17.919 ], [ 139.382, -17.915 ], [ 139.477, -17.911 ], [ 139.568, -17.906 ], [ 139.656, -17.899 ], [ 139.741, -17.891 ], [ 139.825, -17.882 ], [ 139.906, -17.872 ], [ 139.987, -17.86 ], [ 140.068, -17.846 ], [ 140.149, -17.832 ], [ 140.231, -17.815 ], [ 140.314, -17.797 ], [ 140.4, -17.777 ], [ 140.489, -17.755 ], [ 140.582, -17.731 ], [ 140.671, -17.708 ], [ 140.757, -17.687 ], [ 140.84, -17.666 ], [ 140.92, -17.644 ], [ 140.999, -17.622 ], [ 141.075, -17.597 ], [ 141.15, -17.57 ], [ 141.223, -17.538 ], [ 141.296, -17.502 ], [ 141.369, -17.461 ], [ 141.442, -17.413 ], [ 141.515, -17.358 ], [ 141.592, -17.294 ], [ 141.668, -17.228 ], [ 141.74, -17.158 ], [ 141.804, -17.086 ], [ 141.858, -17.009 ], [ 141.898, -16.93 ], [ 141.92, -16.847 ], [ 141.922, -16.76 ], [ 141.901, -16.669 ], [ 141.865, -16.582 ], [ 141.826, -16.499 ], [ 141.783, -16.422 ], [ 141.736, -16.35 ], [ 141.687, -16.282 ], [ 141.634, -16.217 ], [ 141.577, -16.156 ], [ 141.518, -16.098 ], [ 141.456, -16.043 ], [ 141.392, -15.989 ], [ 141.324, -15.937 ], [ 141.254, -15.886 ], [ 141.182, -15.835 ], [ 141.108, -15.785 ], [ 141.032, -15.735 ], [ 140.953, -15.684 ], [ 140.873, -15.632 ], [ 140.791, -15.58 ], [ 140.711, -15.53 ], [ 140.632, -15.482 ], [ 140.553, -15.437 ], [ 140.476, -15.394 ], [ 140.399, -15.353 ], [ 140.323, -15.314 ], [ 140.248, -15.276 ], [ 140.172, -15.24 ], [ 140.097, -15.206 ], [ 140.021, -15.172 ], [ 139.945, -15.14 ], [ 139.869, -15.108 ], [ 139.791, -15.077 ], [ 139.713, -15.046 ], [ 139.634, -15.016 ], [ 139.553, -14.987 ], [ 139.471, -14.957 ], [ 139.387, -14.927 ], [ 139.302, -14.897 ], [ 139.214, -14.866 ], [ 139.125, -14.835 ], [ 139.033, -14.803 ], [ 138.938, -14.77 ], [ 138.845, -14.739 ], [ 138.753, -14.708 ], [ 138.663, -14.678 ], [ 138.575, -14.648 ], [ 138.487, -14.62 ], [ 138.401, -14.592 ], [ 138.316, -14.565 ], [ 138.231, -14.538 ], [ 138.148, -14.512 ], [ 138.065, -14.487 ], [ 137.982, -14.462 ], [ 137.9, -14.437 ], [ 137.819, -14.413 ], [ 137.737, -14.39 ], [ 137.656, -14.367 ], [ 137.575, -14.344 ], [ 137.494, -14.322 ], [ 137.412, -14.299 ], [ 137.33, -14.277 ], [ 137.248, -14.256 ], [ 137.165, -14.234 ], [ 137.082, -14.213 ], [ 136.998, -14.191 ], [ 136.913, -14.17 ], [ 136.827, -14.149 ], [ 136.74, -14.128 ], [ 136.652, -14.106 ], [ 136.562, -14.085 ], [ 136.471, -14.063 ], [ 136.379, -14.042 ], [ 136.285, -14.02 ], [ 136.189, -13.998 ], [ 136.092, -13.976 ], [ 135.996, -13.954 ], [ 135.902, -13.933 ], [ 135.81, -13.913 ], [ 135.719, -13.893 ], [ 135.629, -13.873 ], [ 135.541, -13.854 ], [ 135.453, -13.836 ], [ 135.367, -13.818 ], [ 135.282, -13.801 ], [ 135.198, -13.784 ], [ 135.114, -13.767 ], [ 135.031, -13.751 ], [ 134.948, -13.735 ], [ 134.866, -13.719 ], [ 134.785, -13.704 ], [ 134.703, -13.689 ], [ 134.622, -13.675 ], [ 134.541, -13.661 ], [ 134.46, -13.646 ], [ 134.378, -13.633 ], [ 134.297, -13.619 ], [ 134.215, -13.606 ], [ 134.132, -13.592 ], [ 134.049, -13.579 ], [ 133.966, -13.566 ], [ 133.881, -13.553 ], [ 133.796, -13.54 ], [ 133.71, -13.528 ], [ 133.623, -13.515 ], [ 133.535, -13.502 ], [ 133.445, -13.49 ], [ 133.354, -13.477 ], [ 133.262, -13.464 ], [ 133.168, -13.452 ], [ 133.073, -13.439 ], [ 132.976, -13.426 ], [ 132.877, -13.413 ], [ 132.78, -13.4 ], [ 132.684, -13.388 ], [ 132.59, -13.376 ], [ 132.497, -13.364 ], [ 132.406, -13.353 ], [ 132.316, -13.341 ], [ 132.227, -13.331 ], [ 132.139, -13.32 ], [ 132.052, -13.31 ], [ 131.966, -13.3 ], [ 131.88, -13.291 ], [ 131.795, -13.281 ], [ 131.711, -13.273 ], [ 131.627, -13.264 ], [ 131.543, -13.256 ], [ 131.459, -13.248 ], [ 131.375, -13.24 ], [ 131.291, -13.232 ], [ 131.207, -13.225 ], [ 131.123, -13.218 ], [ 131.038, -13.212 ], [ 130.953, -13.205 ], [ 130.867, -13.199 ], [ 130.781, -13.194 ], [ 130.693, -13.188 ], [ 130.605, -13.183 ], [ 130.516, -13.178 ], [ 130.425, -13.173 ], [ 130.333, -13.169 ], [ 130.24, -13.164 ], [ 130.145, -13.16 ], [ 130.049, -13.157 ], [ 129.951, -13.153 ], [ 129.851, -13.15 ], [ 129.752, -13.147 ], [ 129.655, -13.145 ], [ 129.559, -13.142 ], [ 129.466, -13.14 ], [ 129.373, -13.138 ], [ 129.282, -13.137 ], [ 129.193, -13.136 ], [ 129.105, -13.135 ], [ 129.017, -13.135 ], [ 128.931, -13.135 ], [ 128.845, -13.135 ], [ 128.76, -13.136 ], [ 128.676, -13.137 ], [ 128.592, -13.138 ], [ 128.508, -13.14 ], [ 128.424, -13.142 ], [ 128.341, -13.145 ], [ 128.257, -13.148 ], [ 128.173, -13.152 ], [ 128.089, -13.156 ], [ 128.004, -13.16 ], [ 127.918, -13.165 ], [ 127.832, -13.171 ], [ 127.745, -13.177 ], [ 127.657, -13.183 ], [ 127.568, -13.19 ], [ 127.477, -13.197 ], [ 127.385, -13.205 ], [ 127.292, -13.214 ], [ 127.197, -13.223 ], [ 127.1, -13.232 ], [ 127.002, -13.243 ], [ 126.903, -13.253 ], [ 126.808, -13.263 ], [ 126.715, -13.274 ], [ 126.625, -13.285 ], [ 126.537, -13.297 ], [ 126.45, -13.31 ], [ 126.365, -13.324 ], [ 126.282, -13.339 ], [ 126.199, -13.356 ], [ 126.116, -13.374 ], [ 126.034, -13.394 ], [ 125.951, -13.417 ], [ 125.868, -13.442 ], [ 125.784, -13.47 ], [ 125.7, -13.501 ], [ 125.613, -13.534 ], [ 125.525, -13.571 ], [ 125.435, -13.612 ], [ 125.347, -13.653 ], [ 125.26, -13.695 ], [ 125.175, -13.74 ], [ 125.094, -13.788 ], [ 125.018, -13.84 ], [ 124.949, -13.897 ], [ 124.889, -13.959 ], [ 124.839, -14.028 ], [ 124.801, -14.103 ], [ 124.777, -14.186 ], [ 124.769, -14.278 ], [ 124.773, -14.37 ], [ 124.785, -14.458 ], [ 124.806, -14.541 ], [ 124.834, -14.62 ], [ 124.87, -14.696 ], [ 124.912, -14.768 ], [ 124.96, -14.837 ], [ 125.014, -14.903 ], [ 125.073, -14.966 ], [ 125.136, -15.027 ], [ 125.204, -15.086 ], [ 125.275, -15.142 ], [ 125.35, -15.197 ], [ 125.427, -15.25 ], [ 125.509, -15.305 ], [ 125.591, -15.357 ], [ 125.671, -15.408 ], [ 125.75, -15.457 ], [ 125.829, -15.505 ], [ 125.907, -15.551 ], [ 125.984, -15.595 ], [ 126.061, -15.638 ], [ 126.137, -15.68 ], [ 126.213, -15.72 ], [ 126.289, -15.759 ], [ 126.365, -15.798 ], [ 126.44, -15.835 ], [ 126.516, -15.871 ], [ 126.592, -15.906 ], [ 126.668, -15.94 ], [ 126.745, -15.974 ], [ 126.822, -16.007 ], [ 126.899, -16.04 ], [ 126.977, -16.072 ], [ 127.056, -16.103 ], [ 127.136, -16.134 ], [ 127.217, -16.165 ], [ 127.298, -16.196 ], [ 127.381, -16.227 ], [ 127.465, -16.258 ], [ 127.551, -16.288 ], [ 127.638, -16.319 ], [ 127.726, -16.35 ], [ 127.816, -16.382 ], [ 127.907, -16.413 ], [ 128.001, -16.445 ], [ 128.094, -16.477 ], [ 128.186, -16.508 ], [ 128.276, -16.538 ], [ 128.365, -16.568 ], [ 128.454, -16.597 ], [ 128.541, -16.625 ], [ 128.627, -16.652 ], [ 128.712, -16.679 ], [ 128.797, -16.705 ], [ 128.881, -16.73 ], [ 128.964, -16.755 ], [ 129.046, -16.779 ], [ 129.128, -16.803 ], [ 129.21, -16.826 ], [ 129.291, -16.849 ], [ 129.372, -16.871 ], [ 129.452, -16.893 ], [ 129.533, -16.915 ], [ 129.613, -16.936 ], [ 129.693, -16.956 ], [ 129.773, -16.977 ], [ 129.853, -16.997 ], [ 129.934, -17.016 ], [ 130.014, -17.036 ], [ 130.095, -17.055 ], [ 130.177, -17.074 ], [ 130.258, -17.092 ], [ 130.341, -17.111 ], [ 130.423, -17.129 ], [ 130.507, -17.148 ], [ 130.591, -17.166 ], [ 130.676, -17.184 ], [ 130.762, -17.202 ], [ 130.848, -17.22 ], [ 130.936, -17.238 ], [ 131.025, -17.256 ], [ 131.115, -17.273 ], [ 131.206, -17.291 ], [ 131.298, -17.31 ], [ 131.392, -17.328 ], [ 131.487, -17.346 ], [ 131.583, -17.365 ] ] ] ]
+      }
+    } ]
+  },
+  "forecastConfidenceCones" : {
+    "type" : "FeatureCollection",
+    "features" : [ ]
+  },
+  "dvorak" : {
+    "currentIntensity" : null,
+    "finalT" : null,
+    "analysisCode" : null
+  },
+  "directionOfMotion" : null,
+  "recentMovement" : null,
+  "windRadii" : {
+    "type" : "FeatureCollection",
+    "features" : [ {
+      "type" : "Feature",
+      "properties" : {
+        "time" : "2026-01-09T00:00:00Z",
+        "type" : "Analysis",
+        "windSpeedKts" : 34
+      },
+      "geometry" : {
+        "type" : "Polygon",
+        "coordinates" : [ [ [ 148.4, -14.3 ], [ 148.401, -14.245 ], [ 148.403, -14.189 ], [ 148.407, -14.134 ], [ 148.413, -14.079 ], [ 148.42, -14.024 ], [ 148.428, -13.969 ], [ 148.437, -13.914 ], [ 148.447, -13.86 ], [ 148.458, -13.806 ], [ 148.469, -13.752 ], [ 148.481, -13.698 ], [ 148.493, -13.644 ], [ 148.506, -13.591 ], [ 148.519, -13.538 ], [ 148.532, -13.485 ], [ 148.545, -13.433 ], [ 148.558, -13.38 ], [ 148.571, -13.329 ], [ 148.583, -13.277 ], [ 148.595, -13.226 ], [ 148.606, -13.175 ], [ 148.616, -13.124 ], [ 148.625, -13.074 ], [ 148.634, -13.024 ], [ 148.641, -12.975 ], [ 148.647, -12.926 ], [ 148.651, -12.877 ], [ 148.654, -12.829 ], [ 148.656, -12.782 ], [ 148.656, -12.734 ], [ 148.653, -12.688 ], [ 148.649, -12.641 ], [ 148.643, -12.595 ], [ 148.635, -12.55 ], [ 148.624, -12.505 ], [ 148.61, -12.461 ], [ 148.594, -12.417 ], [ 148.576, -12.374 ], [ 148.554, -12.332 ], [ 148.53, -12.29 ], [ 148.502, -12.248 ], [ 148.472, -12.207 ], [ 148.438, -12.167 ], [ 148.4, -12.128 ], [ 148.36, -12.091 ], [ 148.319, -12.057 ], [ 148.277, -12.028 ], [ 148.234, -12.002 ], [ 148.189, -11.979 ], [ 148.144, -11.96 ], [ 148.097, -11.945 ], [ 148.05, -11.932 ], [ 148.001, -11.923 ], [ 147.952, -11.917 ], [ 147.903, -11.913 ], [ 147.853, -11.913 ], [ 147.802, -11.915 ], [ 147.751, -11.92 ], [ 147.699, -11.927 ], [ 147.648, -11.937 ], [ 147.596, -11.949 ], [ 147.544, -11.963 ], [ 147.492, -11.98 ], [ 147.44, -11.998 ], [ 147.388, -12.019 ], [ 147.336, -12.041 ], [ 147.285, -12.066 ], [ 147.233, -12.091 ], [ 147.183, -12.119 ], [ 147.133, -12.148 ], [ 147.083, -12.178 ], [ 147.034, -12.21 ], [ 146.986, -12.242 ], [ 146.938, -12.276 ], [ 146.892, -12.311 ], [ 146.846, -12.347 ], [ 146.802, -12.383 ], [ 146.758, -12.42 ], [ 146.716, -12.458 ], [ 146.675, -12.497 ], [ 146.635, -12.535 ], [ 146.597, -12.575 ], [ 146.558, -12.616 ], [ 146.52, -12.658 ], [ 146.483, -12.702 ], [ 146.447, -12.746 ], [ 146.411, -12.792 ], [ 146.376, -12.838 ], [ 146.342, -12.886 ], [ 146.31, -12.934 ], [ 146.278, -12.983 ], [ 146.248, -13.033 ], [ 146.219, -13.083 ], [ 146.191, -13.133 ], [ 146.166, -13.185 ], [ 146.141, -13.236 ], [ 146.119, -13.288 ], [ 146.098, -13.34 ], [ 146.08, -13.392 ], [ 146.063, -13.444 ], [ 146.049, -13.496 ], [ 146.037, -13.548 ], [ 146.027, -13.599 ], [ 146.02, -13.651 ], [ 146.015, -13.702 ], [ 146.013, -13.753 ], [ 146.013, -13.803 ], [ 146.017, -13.852 ], [ 146.023, -13.901 ], [ 146.032, -13.95 ], [ 146.045, -13.997 ], [ 146.06, -14.044 ], [ 146.079, -14.089 ], [ 146.102, -14.134 ], [ 146.128, -14.177 ], [ 146.157, -14.219 ], [ 146.191, -14.26 ], [ 146.228, -14.3 ], [ 146.267, -14.338 ], [ 146.307, -14.372 ], [ 146.348, -14.402 ], [ 146.39, -14.43 ], [ 146.432, -14.454 ], [ 146.474, -14.476 ], [ 146.517, -14.494 ], [ 146.561, -14.51 ], [ 146.605, -14.524 ], [ 146.65, -14.535 ], [ 146.695, -14.543 ], [ 146.741, -14.549 ], [ 146.788, -14.553 ], [ 146.834, -14.556 ], [ 146.882, -14.556 ], [ 146.929, -14.554 ], [ 146.977, -14.551 ], [ 147.026, -14.547 ], [ 147.075, -14.541 ], [ 147.124, -14.534 ], [ 147.174, -14.525 ], [ 147.224, -14.516 ], [ 147.275, -14.506 ], [ 147.326, -14.495 ], [ 147.377, -14.483 ], [ 147.429, -14.471 ], [ 147.48, -14.458 ], [ 147.533, -14.445 ], [ 147.585, -14.432 ], [ 147.638, -14.419 ], [ 147.691, -14.406 ], [ 147.744, -14.393 ], [ 147.798, -14.381 ], [ 147.852, -14.369 ], [ 147.906, -14.358 ], [ 147.96, -14.347 ], [ 148.014, -14.337 ], [ 148.069, -14.328 ], [ 148.124, -14.32 ], [ 148.179, -14.313 ], [ 148.234, -14.307 ], [ 148.289, -14.303 ], [ 148.344, -14.301 ], [ 148.4, -14.3 ], [ 148.4, -14.3 ], [ 148.4, -14.3 ], [ 148.4, -14.3 ], [ 148.4, -14.3 ] ] ]
+      }
+    }, {
+      "type" : "Feature",
+      "properties" : {
+        "time" : "2026-01-09T06:00:00Z",
+        "type" : "Analysis",
+        "windSpeedKts" : 34
+      },
+      "geometry" : {
+        "type" : "Polygon",
+        "coordinates" : [ [ [ 148.2, -14.5 ], [ 148.201, -14.444 ], [ 148.204, -14.389 ], [ 148.209, -14.333 ], [ 148.216, -14.278 ], [ 148.224, -14.223 ], [ 148.234, -14.168 ], [ 148.244, -14.113 ], [ 148.256, -14.059 ], [ 148.268, -14.005 ], [ 148.281, -13.951 ], [ 148.294, -13.898 ], [ 148.307, -13.845 ], [ 148.32, -13.792 ], [ 148.333, -13.739 ], [ 148.345, -13.687 ], [ 148.357, -13.636 ], [ 148.368, -13.585 ], [ 148.378, -13.534 ], [ 148.386, -13.484 ], [ 148.393, -13.434 ], [ 148.399, -13.385 ], [ 148.403, -13.337 ], [ 148.405, -13.288 ], [ 148.404, -13.241 ], [ 148.402, -13.194 ], [ 148.396, -13.148 ], [ 148.388, -13.102 ], [ 148.377, -13.057 ], [ 148.363, -13.013 ], [ 148.345, -12.969 ], [ 148.324, -12.926 ], [ 148.299, -12.884 ], [ 148.27, -12.843 ], [ 148.237, -12.802 ], [ 148.2, -12.762 ], [ 148.159, -12.725 ], [ 148.117, -12.692 ], [ 148.073, -12.665 ], [ 148.028, -12.642 ], [ 147.981, -12.623 ], [ 147.933, -12.609 ], [ 147.884, -12.599 ], [ 147.834, -12.593 ], [ 147.783, -12.59 ], [ 147.731, -12.591 ], [ 147.679, -12.596 ], [ 147.627, -12.604 ], [ 147.574, -12.615 ], [ 147.521, -12.629 ], [ 147.468, -12.646 ], [ 147.415, -12.665 ], [ 147.362, -12.687 ], [ 147.309, -12.712 ], [ 147.257, -12.738 ], [ 147.205, -12.767 ], [ 147.155, -12.797 ], [ 147.105, -12.829 ], [ 147.055, -12.863 ], [ 147.008, -12.898 ], [ 146.961, -12.934 ], [ 146.915, -12.972 ], [ 146.871, -13.01 ], [ 146.829, -13.049 ], [ 146.788, -13.088 ], [ 146.749, -13.129 ], [ 146.71, -13.171 ], [ 146.672, -13.215 ], [ 146.634, -13.261 ], [ 146.598, -13.307 ], [ 146.563, -13.355 ], [ 146.529, -13.405 ], [ 146.497, -13.455 ], [ 146.467, -13.505 ], [ 146.438, -13.557 ], [ 146.412, -13.609 ], [ 146.387, -13.662 ], [ 146.365, -13.715 ], [ 146.346, -13.768 ], [ 146.329, -13.821 ], [ 146.315, -13.874 ], [ 146.304, -13.927 ], [ 146.296, -13.979 ], [ 146.291, -14.031 ], [ 146.29, -14.083 ], [ 146.293, -14.134 ], [ 146.299, -14.184 ], [ 146.309, -14.233 ], [ 146.323, -14.281 ], [ 146.342, -14.328 ], [ 146.365, -14.373 ], [ 146.392, -14.417 ], [ 146.425, -14.459 ], [ 146.462, -14.5 ], [ 146.502, -14.537 ], [ 146.543, -14.57 ], [ 146.584, -14.599 ], [ 146.626, -14.624 ], [ 146.669, -14.645 ], [ 146.713, -14.663 ], [ 146.757, -14.677 ], [ 146.802, -14.688 ], [ 146.848, -14.696 ], [ 146.894, -14.702 ], [ 146.941, -14.704 ], [ 146.988, -14.705 ], [ 147.037, -14.703 ], [ 147.085, -14.699 ], [ 147.134, -14.693 ], [ 147.184, -14.686 ], [ 147.234, -14.678 ], [ 147.285, -14.668 ], [ 147.336, -14.657 ], [ 147.387, -14.645 ], [ 147.439, -14.633 ], [ 147.492, -14.62 ], [ 147.544, -14.607 ], [ 147.598, -14.594 ], [ 147.651, -14.581 ], [ 147.705, -14.568 ], [ 147.759, -14.556 ], [ 147.813, -14.544 ], [ 147.868, -14.534 ], [ 147.923, -14.524 ], [ 147.978, -14.516 ], [ 148.033, -14.509 ], [ 148.089, -14.504 ], [ 148.144, -14.501 ], [ 148.2, -14.5 ], [ 148.2, -14.5 ], [ 148.2, -14.5 ], [ 148.2, -14.5 ], [ 148.2, -14.5 ] ] ]
+      }
+    }, {
+      "type" : "Feature",
+      "properties" : {
+        "time" : "2026-01-09T12:00:00Z",
+        "type" : "Analysis",
+        "windSpeedKts" : 34
+      },
+      "geometry" : {
+        "type" : "Polygon",
+        "coordinates" : [ [ [ 149.512, -13.488 ], [ 149.471, -13.449 ], [ 149.429, -13.41 ], [ 149.385, -13.372 ], [ 149.339, -13.334 ], [ 149.292, -13.298 ], [ 149.245, -13.263 ], [ 149.195, -13.229 ], [ 149.145, -13.197 ], [ 149.095, -13.167 ], [ 149.043, -13.138 ], [ 148.991, -13.112 ], [ 148.938, -13.087 ], [ 148.885, -13.065 ], [ 148.832, -13.046 ], [ 148.779, -13.029 ], [ 148.726, -13.015 ], [ 148.673, -13.004 ], [ 148.621, -12.996 ], [ 148.569, -12.991 ], [ 148.517, -12.99 ], [ 148.466, -12.993 ], [ 148.416, -12.999 ], [ 148.367, -13.009 ], [ 148.319, -13.023 ], [ 148.272, -13.042 ], [ 148.227, -13.065 ], [ 148.183, -13.092 ], [ 148.141, -13.125 ], [ 148.1, -13.162 ], [ 148.063, -13.202 ], [ 148.03, -13.243 ], [ 148.001, -13.284 ], [ 147.976, -13.326 ], [ 147.955, -13.369 ], [ 147.937, -13.413 ], [ 147.923, -13.457 ], [ 147.912, -13.502 ], [ 147.904, -13.548 ], [ 147.898, -13.594 ], [ 147.896, -13.641 ], [ 147.895, -13.688 ], [ 147.897, -13.737 ], [ 147.901, -13.785 ], [ 147.907, -13.834 ], [ 147.914, -13.884 ], [ 147.922, -13.934 ], [ 147.932, -13.985 ], [ 147.943, -14.036 ], [ 147.955, -14.087 ], [ 147.967, -14.139 ], [ 147.98, -14.192 ], [ 147.993, -14.245 ], [ 148.006, -14.298 ], [ 148.019, -14.351 ], [ 148.032, -14.405 ], [ 148.044, -14.459 ], [ 148.056, -14.513 ], [ 148.066, -14.568 ], [ 148.076, -14.623 ], [ 148.084, -14.678 ], [ 148.091, -14.733 ], [ 148.096, -14.789 ], [ 148.099, -14.844 ], [ 148.1, -14.9 ], [ 148.1, -14.9 ], [ 148.1, -14.9 ], [ 148.1, -14.9 ], [ 148.1, -14.9 ], [ 148.156, -14.901 ], [ 148.211, -14.904 ], [ 148.267, -14.909 ], [ 148.322, -14.916 ], [ 148.377, -14.924 ], [ 148.432, -14.934 ], [ 148.487, -14.944 ], [ 148.541, -14.956 ], [ 148.595, -14.968 ], [ 148.649, -14.981 ], [ 148.702, -14.994 ], [ 148.756, -15.007 ], [ 148.808, -15.02 ], [ 148.861, -15.033 ], [ 148.913, -15.045 ], [ 148.964, -15.057 ], [ 149.015, -15.068 ], [ 149.066, -15.078 ], [ 149.116, -15.086 ], [ 149.166, -15.093 ], [ 149.215, -15.099 ], [ 149.263, -15.103 ], [ 149.312, -15.105 ], [ 149.359, -15.104 ], [ 149.406, -15.102 ], [ 149.452, -15.096 ], [ 149.498, -15.088 ], [ 149.543, -15.077 ], [ 149.587, -15.063 ], [ 149.631, -15.045 ], [ 149.674, -15.024 ], [ 149.716, -14.999 ], [ 149.757, -14.97 ], [ 149.798, -14.937 ], [ 149.838, -14.9 ], [ 149.875, -14.859 ], [ 149.908, -14.817 ], [ 149.935, -14.773 ], [ 149.958, -14.728 ], [ 149.977, -14.681 ], [ 149.991, -14.633 ], [ 150.001, -14.584 ], [ 150.007, -14.534 ], [ 150.01, -14.483 ], [ 150.009, -14.431 ], [ 150.004, -14.379 ], [ 149.996, -14.327 ], [ 149.985, -14.274 ], [ 149.971, -14.221 ], [ 149.954, -14.168 ], [ 149.935, -14.115 ], [ 149.913, -14.062 ], [ 149.888, -14.009 ], [ 149.862, -13.957 ], [ 149.833, -13.905 ], [ 149.803, -13.855 ], [ 149.771, -13.805 ], [ 149.737, -13.755 ], [ 149.702, -13.707 ], [ 149.666, -13.661 ], [ 149.628, -13.615 ], [ 149.59, -13.571 ], [ 149.551, -13.529 ], [ 149.512, -13.488 ], [ 149.512, -13.488 ] ] ]
+      }
+    }, {
+      "type" : "Feature",
+      "properties" : {
+        "time" : "2026-01-09T18:00:00Z",
+        "type" : "Analysis",
+        "windSpeedKts" : 34
+      },
+      "geometry" : {
+        "type" : "Polygon",
+        "coordinates" : [ [ [ 148, -15.7 ], [ 148.001, -15.645 ], [ 148.003, -15.589 ], [ 148.007, -15.534 ], [ 148.013, -15.479 ], [ 148.02, -15.424 ], [ 148.028, -15.369 ], [ 148.037, -15.314 ], [ 148.047, -15.26 ], [ 148.058, -15.206 ], [ 148.069, -15.152 ], [ 148.081, -15.098 ], [ 148.093, -15.044 ], [ 148.106, -14.991 ], [ 148.119, -14.938 ], [ 148.132, -14.885 ], [ 148.145, -14.833 ], [ 148.158, -14.78 ], [ 148.171, -14.729 ], [ 148.183, -14.677 ], [ 148.195, -14.626 ], [ 148.206, -14.575 ], [ 148.216, -14.524 ], [ 148.225, -14.474 ], [ 148.234, -14.424 ], [ 148.241, -14.375 ], [ 148.247, -14.326 ], [ 148.251, -14.277 ], [ 148.254, -14.229 ], [ 148.256, -14.182 ], [ 148.256, -14.134 ], [ 148.253, -14.088 ], [ 148.249, -14.041 ], [ 148.243, -13.995 ], [ 148.235, -13.95 ], [ 148.224, -13.905 ], [ 148.21, -13.861 ], [ 148.194, -13.817 ], [ 148.176, -13.774 ], [ 148.154, -13.732 ], [ 148.13, -13.69 ], [ 148.102, -13.648 ], [ 148.072, -13.607 ], [ 148.038, -13.567 ], [ 148, -13.528 ], [ 147.96, -13.491 ], [ 147.92, -13.458 ], [ 147.878, -13.428 ], [ 147.834, -13.403 ], [ 147.79, -13.381 ], [ 147.745, -13.362 ], [ 147.699, -13.347 ], [ 147.652, -13.335 ], [ 147.605, -13.327 ], [ 147.556, -13.321 ], [ 147.507, -13.318 ], [ 147.458, -13.318 ], [ 147.408, -13.321 ], [ 147.358, -13.327 ], [ 147.307, -13.335 ], [ 147.256, -13.345 ], [ 147.204, -13.358 ], [ 147.153, -13.373 ], [ 147.101, -13.39 ], [ 147.05, -13.409 ], [ 146.998, -13.43 ], [ 146.947, -13.453 ], [ 146.896, -13.477 ], [ 146.845, -13.503 ], [ 146.794, -13.531 ], [ 146.744, -13.559 ], [ 146.694, -13.589 ], [ 146.644, -13.621 ], [ 146.596, -13.653 ], [ 146.548, -13.686 ], [ 146.5, -13.72 ], [ 146.454, -13.755 ], [ 146.408, -13.79 ], [ 146.363, -13.826 ], [ 146.32, -13.862 ], [ 146.277, -13.899 ], [ 146.235, -13.935 ], [ 146.195, -13.973 ], [ 146.156, -14.011 ], [ 146.118, -14.049 ], [ 146.082, -14.088 ], [ 146.047, -14.128 ], [ 146.014, -14.167 ], [ 145.982, -14.208 ], [ 145.952, -14.249 ], [ 145.922, -14.29 ], [ 145.895, -14.332 ], [ 145.868, -14.374 ], [ 145.843, -14.417 ], [ 145.82, -14.46 ], [ 145.797, -14.504 ], [ 145.776, -14.548 ], [ 145.756, -14.593 ], [ 145.737, -14.638 ], [ 145.719, -14.684 ], [ 145.703, -14.73 ], [ 145.687, -14.777 ], [ 145.673, -14.824 ], [ 145.66, -14.872 ], [ 145.648, -14.92 ], [ 145.637, -14.968 ], [ 145.627, -15.017 ], [ 145.618, -15.067 ], [ 145.61, -15.117 ], [ 145.603, -15.168 ], [ 145.597, -15.219 ], [ 145.592, -15.27 ], [ 145.588, -15.322 ], [ 145.584, -15.375 ], [ 145.582, -15.428 ], [ 145.58, -15.481 ], [ 145.58, -15.535 ], [ 145.58, -15.59 ], [ 145.58, -15.645 ], [ 145.582, -15.7 ], [ 145.584, -15.755 ], [ 145.588, -15.809 ], [ 145.592, -15.863 ], [ 145.597, -15.916 ], [ 145.603, -15.968 ], [ 145.61, -16.02 ], [ 145.618, -16.071 ], [ 145.626, -16.121 ], [ 145.636, -16.171 ], [ 145.647, -16.22 ], [ 145.659, -16.269 ], [ 145.672, -16.317 ], [ 145.686, -16.364 ], [ 145.7, -16.411 ], [ 145.716, -16.457 ], [ 145.733, -16.503 ], [ 145.751, -16.548 ], [ 145.77, -16.593 ], [ 145.791, -16.637 ], [ 145.812, -16.68 ], [ 145.834, -16.723 ], [ 145.858, -16.766 ], [ 145.882, -16.808 ], [ 145.908, -16.849 ], [ 145.935, -16.89 ], [ 145.963, -16.931 ], [ 145.993, -16.971 ], [ 146.023, -17.01 ], [ 146.055, -17.05 ], [ 146.088, -17.088 ], [ 146.122, -17.126 ], [ 146.157, -17.164 ], [ 146.194, -17.202 ], [ 146.232, -17.239 ], [ 146.271, -17.275 ], [ 146.311, -17.311 ], [ 146.353, -17.347 ], [ 146.396, -17.383 ], [ 146.441, -17.419 ], [ 146.487, -17.454 ], [ 146.533, -17.49 ], [ 146.581, -17.525 ], [ 146.629, -17.559 ], [ 146.678, -17.593 ], [ 146.727, -17.625 ], [ 146.777, -17.657 ], [ 146.828, -17.688 ], [ 146.879, -17.717 ], [ 146.931, -17.745 ], [ 146.982, -17.771 ], [ 147.034, -17.796 ], [ 147.086, -17.818 ], [ 147.138, -17.839 ], [ 147.191, -17.858 ], [ 147.243, -17.875 ], [ 147.294, -17.889 ], [ 147.346, -17.901 ], [ 147.397, -17.91 ], [ 147.448, -17.916 ], [ 147.498, -17.919 ], [ 147.548, -17.92 ], [ 147.598, -17.917 ], [ 147.646, -17.911 ], [ 147.694, -17.902 ], [ 147.741, -17.889 ], [ 147.787, -17.872 ], [ 147.832, -17.851 ], [ 147.876, -17.827 ], [ 147.918, -17.798 ], [ 147.96, -17.765 ], [ 148, -17.728 ], [ 148.037, -17.688 ], [ 148.071, -17.648 ], [ 148.101, -17.607 ], [ 148.128, -17.565 ], [ 148.152, -17.523 ], [ 148.172, -17.48 ], [ 148.189, -17.436 ], [ 148.204, -17.392 ], [ 148.216, -17.348 ], [ 148.225, -17.302 ], [ 148.232, -17.257 ], [ 148.236, -17.21 ], [ 148.239, -17.163 ], [ 148.239, -17.116 ], [ 148.237, -17.068 ], [ 148.234, -17.02 ], [ 148.229, -16.971 ], [ 148.223, -16.922 ], [ 148.215, -16.873 ], [ 148.206, -16.823 ], [ 148.197, -16.772 ], [ 148.186, -16.721 ], [ 148.174, -16.67 ], [ 148.162, -16.618 ], [ 148.15, -16.567 ], [ 148.137, -16.514 ], [ 148.124, -16.462 ], [ 148.111, -16.409 ], [ 148.098, -16.356 ], [ 148.085, -16.302 ], [ 148.073, -16.249 ], [ 148.061, -16.195 ], [ 148.049, -16.14 ], [ 148.039, -16.086 ], [ 148.029, -16.031 ], [ 148.021, -15.977 ], [ 148.014, -15.922 ], [ 148.008, -15.866 ], [ 148.004, -15.811 ], [ 148.001, -15.756 ], [ 148, -15.7 ], [ 148, -15.7 ], [ 148, -15.7 ] ] ]
+      }
+    }, {
+      "type" : "Feature",
+      "properties" : {
+        "time" : "2026-01-10T00:00:00Z",
+        "type" : "Analysis",
+        "windSpeedKts" : 34
+      },
+      "geometry" : {
+        "type" : "Polygon",
+        "coordinates" : [ [ [ 149.765, -14.935 ], [ 149.726, -14.896 ], [ 149.686, -14.857 ], [ 149.647, -14.821 ], [ 149.606, -14.786 ], [ 149.565, -14.753 ], [ 149.524, -14.721 ], [ 149.482, -14.691 ], [ 149.439, -14.663 ], [ 149.396, -14.636 ], [ 149.352, -14.61 ], [ 149.308, -14.586 ], [ 149.264, -14.564 ], [ 149.219, -14.543 ], [ 149.173, -14.523 ], [ 149.127, -14.505 ], [ 149.08, -14.488 ], [ 149.033, -14.472 ], [ 148.986, -14.458 ], [ 148.938, -14.445 ], [ 148.889, -14.433 ], [ 148.841, -14.422 ], [ 148.791, -14.413 ], [ 148.741, -14.405 ], [ 148.691, -14.398 ], [ 148.64, -14.392 ], [ 148.589, -14.387 ], [ 148.538, -14.384 ], [ 148.486, -14.381 ], [ 148.433, -14.379 ], [ 148.381, -14.379 ], [ 148.327, -14.379 ], [ 148.274, -14.381 ], [ 148.22, -14.383 ], [ 148.165, -14.386 ], [ 148.111, -14.39 ], [ 148.056, -14.395 ], [ 148, -14.401 ], [ 147.946, -14.408 ], [ 147.892, -14.416 ], [ 147.84, -14.425 ], [ 147.789, -14.435 ], [ 147.739, -14.447 ], [ 147.689, -14.46 ], [ 147.641, -14.475 ], [ 147.594, -14.49 ], [ 147.547, -14.507 ], [ 147.501, -14.525 ], [ 147.456, -14.544 ], [ 147.412, -14.564 ], [ 147.369, -14.586 ], [ 147.326, -14.609 ], [ 147.284, -14.632 ], [ 147.243, -14.657 ], [ 147.203, -14.683 ], [ 147.163, -14.711 ], [ 147.123, -14.739 ], [ 147.084, -14.768 ], [ 147.046, -14.799 ], [ 147.009, -14.83 ], [ 146.971, -14.863 ], [ 146.935, -14.897 ], [ 146.899, -14.931 ], [ 146.863, -14.967 ], [ 146.827, -15.004 ], [ 146.792, -15.041 ], [ 146.758, -15.08 ], [ 146.723, -15.12 ], [ 146.689, -15.161 ], [ 146.655, -15.202 ], [ 146.622, -15.245 ], [ 146.588, -15.288 ], [ 146.554, -15.334 ], [ 146.52, -15.38 ], [ 146.486, -15.428 ], [ 146.452, -15.476 ], [ 146.418, -15.525 ], [ 146.385, -15.575 ], [ 146.353, -15.625 ], [ 146.322, -15.676 ], [ 146.292, -15.727 ], [ 146.263, -15.779 ], [ 146.237, -15.831 ], [ 146.212, -15.883 ], [ 146.188, -15.935 ], [ 146.168, -15.987 ], [ 146.149, -16.039 ], [ 146.134, -16.09 ], [ 146.121, -16.142 ], [ 146.111, -16.192 ], [ 146.104, -16.243 ], [ 146.101, -16.293 ], [ 146.102, -16.342 ], [ 146.106, -16.39 ], [ 146.115, -16.438 ], [ 146.127, -16.484 ], [ 146.145, -16.53 ], [ 146.167, -16.574 ], [ 146.193, -16.618 ], [ 146.225, -16.66 ], [ 146.262, -16.7 ], [ 146.302, -16.737 ], [ 146.343, -16.77 ], [ 146.384, -16.799 ], [ 146.426, -16.824 ], [ 146.469, -16.845 ], [ 146.513, -16.863 ], [ 146.557, -16.877 ], [ 146.602, -16.888 ], [ 146.648, -16.896 ], [ 146.694, -16.902 ], [ 146.741, -16.904 ], [ 146.788, -16.905 ], [ 146.837, -16.903 ], [ 146.885, -16.899 ], [ 146.934, -16.893 ], [ 146.984, -16.886 ], [ 147.034, -16.878 ], [ 147.085, -16.868 ], [ 147.136, -16.857 ], [ 147.187, -16.845 ], [ 147.239, -16.833 ], [ 147.292, -16.82 ], [ 147.344, -16.807 ], [ 147.398, -16.794 ], [ 147.451, -16.781 ], [ 147.505, -16.768 ], [ 147.559, -16.756 ], [ 147.613, -16.744 ], [ 147.668, -16.734 ], [ 147.723, -16.724 ], [ 147.778, -16.716 ], [ 147.833, -16.709 ], [ 147.889, -16.704 ], [ 147.944, -16.701 ], [ 148, -16.7 ], [ 148, -16.7 ], [ 148, -16.7 ], [ 148.055, -16.701 ], [ 148.111, -16.703 ], [ 148.166, -16.707 ], [ 148.221, -16.713 ], [ 148.276, -16.72 ], [ 148.331, -16.728 ], [ 148.386, -16.737 ], [ 148.44, -16.747 ], [ 148.494, -16.758 ], [ 148.548, -16.769 ], [ 148.602, -16.781 ], [ 148.656, -16.793 ], [ 148.709, -16.806 ], [ 148.762, -16.819 ], [ 148.815, -16.832 ], [ 148.867, -16.845 ], [ 148.92, -16.858 ], [ 148.971, -16.871 ], [ 149.023, -16.883 ], [ 149.074, -16.895 ], [ 149.125, -16.906 ], [ 149.176, -16.916 ], [ 149.226, -16.925 ], [ 149.276, -16.934 ], [ 149.325, -16.941 ], [ 149.374, -16.947 ], [ 149.423, -16.951 ], [ 149.471, -16.954 ], [ 149.518, -16.956 ], [ 149.566, -16.956 ], [ 149.612, -16.953 ], [ 149.659, -16.949 ], [ 149.705, -16.943 ], [ 149.75, -16.935 ], [ 149.795, -16.924 ], [ 149.839, -16.91 ], [ 149.883, -16.894 ], [ 149.926, -16.876 ], [ 149.968, -16.854 ], [ 150.01, -16.83 ], [ 150.052, -16.802 ], [ 150.093, -16.772 ], [ 150.133, -16.738 ], [ 150.172, -16.7 ], [ 150.209, -16.66 ], [ 150.243, -16.619 ], [ 150.272, -16.577 ], [ 150.298, -16.534 ], [ 150.32, -16.49 ], [ 150.339, -16.444 ], [ 150.354, -16.398 ], [ 150.366, -16.351 ], [ 150.375, -16.303 ], [ 150.381, -16.255 ], [ 150.384, -16.205 ], [ 150.384, -16.155 ], [ 150.382, -16.105 ], [ 150.377, -16.054 ], [ 150.369, -16.003 ], [ 150.359, -15.952 ], [ 150.346, -15.9 ], [ 150.332, -15.849 ], [ 150.315, -15.797 ], [ 150.296, -15.745 ], [ 150.275, -15.693 ], [ 150.253, -15.642 ], [ 150.228, -15.59 ], [ 150.202, -15.539 ], [ 150.175, -15.489 ], [ 150.146, -15.438 ], [ 150.116, -15.389 ], [ 150.085, -15.34 ], [ 150.052, -15.291 ], [ 150.019, -15.243 ], [ 149.984, -15.196 ], [ 149.949, -15.15 ], [ 149.913, -15.105 ], [ 149.877, -15.061 ], [ 149.84, -15.018 ], [ 149.802, -14.976 ], [ 149.765, -14.935 ], [ 149.765, -14.935 ] ] ]
+      }
+    }, {
+      "type" : "Feature",
+      "properties" : {
+        "time" : "2026-01-10T06:00:00Z",
+        "type" : "Analysis",
+        "windSpeedKts" : 34
+      },
+      "geometry" : {
+        "type" : "Polygon",
+        "coordinates" : [ [ [ 150.218, -14.982 ], [ 150.179, -14.943 ], [ 150.141, -14.904 ], [ 150.102, -14.867 ], [ 150.062, -14.831 ], [ 150.022, -14.797 ], [ 149.982, -14.764 ], [ 149.941, -14.732 ], [ 149.9, -14.701 ], [ 149.858, -14.672 ], [ 149.816, -14.644 ], [ 149.774, -14.617 ], [ 149.731, -14.591 ], [ 149.688, -14.567 ], [ 149.644, -14.543 ], [ 149.6, -14.521 ], [ 149.556, -14.5 ], [ 149.511, -14.48 ], [ 149.465, -14.461 ], [ 149.42, -14.444 ], [ 149.374, -14.427 ], [ 149.327, -14.412 ], [ 149.28, -14.397 ], [ 149.233, -14.384 ], [ 149.185, -14.371 ], [ 149.137, -14.36 ], [ 149.089, -14.349 ], [ 149.04, -14.339 ], [ 148.991, -14.331 ], [ 148.941, -14.323 ], [ 148.891, -14.316 ], [ 148.841, -14.31 ], [ 148.79, -14.305 ], [ 148.739, -14.301 ], [ 148.688, -14.298 ], [ 148.636, -14.295 ], [ 148.584, -14.293 ], [ 148.532, -14.292 ], [ 148.479, -14.292 ], [ 148.426, -14.293 ], [ 148.372, -14.294 ], [ 148.319, -14.296 ], [ 148.264, -14.299 ], [ 148.21, -14.302 ], [ 148.155, -14.306 ], [ 148.1, -14.311 ], [ 148.045, -14.316 ], [ 147.99, -14.323 ], [ 147.936, -14.331 ], [ 147.883, -14.339 ], [ 147.831, -14.349 ], [ 147.78, -14.359 ], [ 147.729, -14.371 ], [ 147.679, -14.384 ], [ 147.63, -14.397 ], [ 147.582, -14.412 ], [ 147.534, -14.428 ], [ 147.487, -14.444 ], [ 147.44, -14.462 ], [ 147.394, -14.48 ], [ 147.349, -14.5 ], [ 147.304, -14.52 ], [ 147.26, -14.542 ], [ 147.216, -14.564 ], [ 147.173, -14.587 ], [ 147.131, -14.612 ], [ 147.089, -14.637 ], [ 147.048, -14.663 ], [ 147.007, -14.69 ], [ 146.966, -14.718 ], [ 146.926, -14.747 ], [ 146.887, -14.777 ], [ 146.847, -14.808 ], [ 146.809, -14.84 ], [ 146.77, -14.872 ], [ 146.732, -14.906 ], [ 146.695, -14.941 ], [ 146.658, -14.976 ], [ 146.621, -15.012 ], [ 146.584, -15.05 ], [ 146.548, -15.088 ], [ 146.512, -15.127 ], [ 146.476, -15.167 ], [ 146.441, -15.208 ], [ 146.405, -15.249 ], [ 146.37, -15.292 ], [ 146.335, -15.335 ], [ 146.302, -15.379 ], [ 146.269, -15.422 ], [ 146.237, -15.466 ], [ 146.207, -15.51 ], [ 146.177, -15.554 ], [ 146.149, -15.599 ], [ 146.122, -15.643 ], [ 146.096, -15.688 ], [ 146.071, -15.733 ], [ 146.047, -15.778 ], [ 146.025, -15.823 ], [ 146.003, -15.868 ], [ 145.983, -15.914 ], [ 145.964, -15.96 ], [ 145.946, -16.006 ], [ 145.93, -16.053 ], [ 145.915, -16.1 ], [ 145.901, -16.147 ], [ 145.888, -16.194 ], [ 145.877, -16.241 ], [ 145.867, -16.289 ], [ 145.858, -16.337 ], [ 145.851, -16.386 ], [ 145.845, -16.435 ], [ 145.84, -16.484 ], [ 145.837, -16.533 ], [ 145.835, -16.583 ], [ 145.834, -16.633 ], [ 145.835, -16.683 ], [ 145.838, -16.734 ], [ 145.841, -16.785 ], [ 145.847, -16.837 ], [ 145.853, -16.889 ], [ 145.861, -16.941 ], [ 145.871, -16.994 ], [ 145.882, -17.047 ], [ 145.895, -17.1 ], [ 145.909, -17.152 ], [ 145.926, -17.202 ], [ 145.944, -17.25 ], [ 145.964, -17.296 ], [ 145.986, -17.34 ], [ 146.01, -17.383 ], [ 146.036, -17.424 ], [ 146.063, -17.463 ], [ 146.092, -17.501 ], [ 146.122, -17.537 ], [ 146.154, -17.572 ], [ 146.187, -17.606 ], [ 146.222, -17.638 ], [ 146.258, -17.67 ], [ 146.295, -17.7 ], [ 146.333, -17.73 ], [ 146.372, -17.759 ], [ 146.412, -17.787 ], [ 146.453, -17.815 ], [ 146.495, -17.842 ], [ 146.538, -17.869 ], [ 146.581, -17.895 ], [ 146.625, -17.921 ], [ 146.67, -17.947 ], [ 146.715, -17.973 ], [ 146.761, -17.999 ], [ 146.807, -18.025 ], [ 146.853, -18.051 ], [ 146.9, -18.077 ], [ 146.947, -18.104 ], [ 146.994, -18.131 ], [ 147.041, -18.159 ], [ 147.089, -18.187 ], [ 147.136, -18.215 ], [ 147.183, -18.241 ], [ 147.23, -18.267 ], [ 147.277, -18.292 ], [ 147.324, -18.316 ], [ 147.37, -18.339 ], [ 147.417, -18.359 ], [ 147.463, -18.379 ], [ 147.51, -18.396 ], [ 147.557, -18.412 ], [ 147.604, -18.425 ], [ 147.652, -18.436 ], [ 147.699, -18.445 ], [ 147.747, -18.452 ], [ 147.796, -18.455 ], [ 147.845, -18.456 ], [ 147.895, -18.454 ], [ 147.945, -18.448 ], [ 147.996, -18.439 ], [ 148.048, -18.427 ], [ 148.1, -18.412 ], [ 148.149, -18.391 ], [ 148.192, -18.364 ], [ 148.228, -18.332 ], [ 148.26, -18.295 ], [ 148.286, -18.254 ], [ 148.309, -18.21 ], [ 148.329, -18.163 ], [ 148.347, -18.114 ], [ 148.364, -18.064 ], [ 148.38, -18.013 ], [ 148.396, -17.961 ], [ 148.414, -17.911 ], [ 148.433, -17.862 ], [ 148.455, -17.814 ], [ 148.48, -17.77 ], [ 148.509, -17.728 ], [ 148.543, -17.69 ], [ 148.583, -17.657 ], [ 148.629, -17.629 ], [ 148.68, -17.606 ], [ 148.731, -17.584 ], [ 148.783, -17.566 ], [ 148.835, -17.55 ], [ 148.888, -17.536 ], [ 148.941, -17.524 ], [ 148.995, -17.514 ], [ 149.049, -17.506 ], [ 149.103, -17.499 ], [ 149.158, -17.494 ], [ 149.213, -17.49 ], [ 149.267, -17.488 ], [ 149.322, -17.486 ], [ 149.377, -17.485 ], [ 149.432, -17.485 ], [ 149.487, -17.485 ], [ 149.541, -17.485 ], [ 149.595, -17.486 ], [ 149.649, -17.487 ], [ 149.703, -17.487 ], [ 149.756, -17.488 ], [ 149.809, -17.488 ], [ 149.861, -17.487 ], [ 149.913, -17.485 ], [ 149.964, -17.483 ], [ 150.014, -17.479 ], [ 150.064, -17.475 ], [ 150.112, -17.468 ], [ 150.16, -17.461 ], [ 150.207, -17.451 ], [ 150.253, -17.44 ], [ 150.298, -17.426 ], [ 150.342, -17.411 ], [ 150.385, -17.393 ], [ 150.426, -17.373 ], [ 150.466, -17.35 ], [ 150.505, -17.324 ], [ 150.543, -17.295 ], [ 150.579, -17.263 ], [ 150.613, -17.227 ], [ 150.646, -17.189 ], [ 150.678, -17.146 ], [ 150.707, -17.1 ], [ 150.735, -17.052 ], [ 150.76, -17.004 ], [ 150.783, -16.955 ], [ 150.803, -16.907 ], [ 150.821, -16.857 ], [ 150.837, -16.808 ], [ 150.851, -16.758 ], [ 150.863, -16.709 ], [ 150.873, -16.659 ], [ 150.88, -16.608 ], [ 150.886, -16.558 ], [ 150.89, -16.508 ], [ 150.892, -16.457 ], [ 150.892, -16.406 ], [ 150.89, -16.356 ], [ 150.886, -16.305 ], [ 150.881, -16.255 ], [ 150.873, -16.204 ], [ 150.865, -16.153 ], [ 150.854, -16.103 ], [ 150.842, -16.053 ], [ 150.828, -16.002 ], [ 150.813, -15.952 ], [ 150.797, -15.903 ], [ 150.779, -15.853 ], [ 150.759, -15.803 ], [ 150.739, -15.754 ], [ 150.717, -15.705 ], [ 150.693, -15.657 ], [ 150.669, -15.609 ], [ 150.643, -15.561 ], [ 150.616, -15.513 ], [ 150.588, -15.466 ], [ 150.559, -15.42 ], [ 150.529, -15.373 ], [ 150.497, -15.328 ], [ 150.465, -15.283 ], [ 150.432, -15.238 ], [ 150.399, -15.194 ], [ 150.364, -15.15 ], [ 150.328, -15.107 ], [ 150.292, -15.065 ], [ 150.255, -15.023 ], [ 150.218, -14.982 ], [ 150.218, -14.982 ] ] ]
+      }
+    }, {
+      "type" : "Feature",
+      "properties" : {
+        "time" : "2026-01-10T06:00:00Z",
+        "type" : "Analysis",
+        "windSpeedKts" : 48
+      },
+      "geometry" : {
+        "type" : "Polygon",
+        "coordinates" : [ [ [ 149.512, -15.688 ], [ 149.471, -15.649 ], [ 149.429, -15.61 ], [ 149.385, -15.572 ], [ 149.339, -15.534 ], [ 149.292, -15.498 ], [ 149.245, -15.463 ], [ 149.195, -15.429 ], [ 149.145, -15.397 ], [ 149.095, -15.367 ], [ 149.043, -15.338 ], [ 148.991, -15.312 ], [ 148.938, -15.287 ], [ 148.885, -15.265 ], [ 148.832, -15.246 ], [ 148.779, -15.229 ], [ 148.726, -15.215 ], [ 148.673, -15.204 ], [ 148.621, -15.196 ], [ 148.569, -15.191 ], [ 148.517, -15.19 ], [ 148.466, -15.193 ], [ 148.416, -15.199 ], [ 148.367, -15.209 ], [ 148.319, -15.223 ], [ 148.272, -15.242 ], [ 148.227, -15.265 ], [ 148.183, -15.292 ], [ 148.141, -15.325 ], [ 148.1, -15.362 ], [ 148.063, -15.402 ], [ 148.03, -15.443 ], [ 148.001, -15.484 ], [ 147.976, -15.526 ], [ 147.955, -15.569 ], [ 147.937, -15.613 ], [ 147.923, -15.657 ], [ 147.912, -15.702 ], [ 147.904, -15.748 ], [ 147.898, -15.794 ], [ 147.896, -15.841 ], [ 147.895, -15.888 ], [ 147.897, -15.937 ], [ 147.901, -15.985 ], [ 147.907, -16.034 ], [ 147.914, -16.084 ], [ 147.922, -16.134 ], [ 147.932, -16.185 ], [ 147.943, -16.236 ], [ 147.955, -16.287 ], [ 147.967, -16.339 ], [ 147.98, -16.392 ], [ 147.993, -16.445 ], [ 148.006, -16.498 ], [ 148.019, -16.551 ], [ 148.032, -16.605 ], [ 148.044, -16.659 ], [ 148.056, -16.713 ], [ 148.066, -16.768 ], [ 148.076, -16.823 ], [ 148.084, -16.878 ], [ 148.091, -16.933 ], [ 148.096, -16.989 ], [ 148.099, -17.044 ], [ 148.1, -17.1 ], [ 148.1, -17.1 ], [ 148.1, -17.1 ], [ 148.1, -17.1 ], [ 148.1, -17.1 ], [ 148.156, -17.101 ], [ 148.211, -17.104 ], [ 148.267, -17.109 ], [ 148.322, -17.116 ], [ 148.377, -17.124 ], [ 148.432, -17.134 ], [ 148.487, -17.144 ], [ 148.541, -17.156 ], [ 148.595, -17.168 ], [ 148.649, -17.181 ], [ 148.702, -17.194 ], [ 148.756, -17.207 ], [ 148.808, -17.22 ], [ 148.861, -17.233 ], [ 148.913, -17.245 ], [ 148.964, -17.257 ], [ 149.015, -17.268 ], [ 149.066, -17.278 ], [ 149.116, -17.286 ], [ 149.166, -17.293 ], [ 149.215, -17.299 ], [ 149.263, -17.303 ], [ 149.312, -17.305 ], [ 149.359, -17.304 ], [ 149.406, -17.302 ], [ 149.452, -17.296 ], [ 149.498, -17.288 ], [ 149.543, -17.277 ], [ 149.587, -17.263 ], [ 149.631, -17.245 ], [ 149.674, -17.224 ], [ 149.716, -17.199 ], [ 149.757, -17.17 ], [ 149.798, -17.137 ], [ 149.838, -17.1 ], [ 149.875, -17.059 ], [ 149.908, -17.017 ], [ 149.935, -16.973 ], [ 149.958, -16.928 ], [ 149.977, -16.881 ], [ 149.991, -16.833 ], [ 150.001, -16.784 ], [ 150.007, -16.734 ], [ 150.01, -16.683 ], [ 150.009, -16.631 ], [ 150.004, -16.579 ], [ 149.996, -16.527 ], [ 149.985, -16.474 ], [ 149.971, -16.421 ], [ 149.954, -16.368 ], [ 149.935, -16.315 ], [ 149.913, -16.262 ], [ 149.888, -16.209 ], [ 149.862, -16.157 ], [ 149.833, -16.105 ], [ 149.803, -16.055 ], [ 149.771, -16.005 ], [ 149.737, -15.955 ], [ 149.702, -15.907 ], [ 149.666, -15.861 ], [ 149.628, -15.815 ], [ 149.59, -15.771 ], [ 149.551, -15.729 ], [ 149.512, -15.688 ], [ 149.512, -15.688 ] ] ]
+      }
+    }, {
+      "type" : "Feature",
+      "properties" : {
+        "time" : "2026-01-10T12:00:00Z",
+        "type" : "Analysis",
+        "windSpeedKts" : 34
+      },
+      "geometry" : {
+        "type" : "Polygon",
+        "coordinates" : [ [ [ 149.765, -16.135 ], [ 149.729, -16.092 ], [ 149.694, -16.051 ], [ 149.658, -16.01 ], [ 149.621, -15.97 ], [ 149.584, -15.931 ], [ 149.547, -15.894 ], [ 149.51, -15.857 ], [ 149.472, -15.822 ], [ 149.434, -15.787 ], [ 149.395, -15.754 ], [ 149.356, -15.722 ], [ 149.317, -15.69 ], [ 149.277, -15.66 ], [ 149.237, -15.631 ], [ 149.196, -15.603 ], [ 149.155, -15.575 ], [ 149.113, -15.549 ], [ 149.071, -15.524 ], [ 149.029, -15.5 ], [ 148.985, -15.477 ], [ 148.942, -15.454 ], [ 148.897, -15.433 ], [ 148.853, -15.413 ], [ 148.807, -15.394 ], [ 148.762, -15.376 ], [ 148.715, -15.358 ], [ 148.668, -15.342 ], [ 148.621, -15.327 ], [ 148.573, -15.313 ], [ 148.524, -15.299 ], [ 148.474, -15.287 ], [ 148.424, -15.275 ], [ 148.374, -15.265 ], [ 148.322, -15.255 ], [ 148.27, -15.247 ], [ 148.218, -15.239 ], [ 148.164, -15.232 ], [ 148.11, -15.226 ], [ 148.055, -15.222 ], [ 148, -15.218 ], [ 147.945, -15.214 ], [ 147.89, -15.212 ], [ 147.836, -15.21 ], [ 147.782, -15.209 ], [ 147.729, -15.209 ], [ 147.676, -15.209 ], [ 147.623, -15.21 ], [ 147.571, -15.212 ], [ 147.519, -15.215 ], [ 147.468, -15.218 ], [ 147.417, -15.223 ], [ 147.366, -15.228 ], [ 147.316, -15.234 ], [ 147.266, -15.241 ], [ 147.216, -15.248 ], [ 147.167, -15.257 ], [ 147.119, -15.267 ], [ 147.071, -15.277 ], [ 147.023, -15.289 ], [ 146.975, -15.301 ], [ 146.928, -15.315 ], [ 146.882, -15.329 ], [ 146.835, -15.345 ], [ 146.79, -15.361 ], [ 146.744, -15.379 ], [ 146.699, -15.398 ], [ 146.655, -15.418 ], [ 146.611, -15.439 ], [ 146.567, -15.461 ], [ 146.524, -15.484 ], [ 146.481, -15.509 ], [ 146.439, -15.534 ], [ 146.397, -15.561 ], [ 146.355, -15.589 ], [ 146.314, -15.618 ], [ 146.273, -15.649 ], [ 146.233, -15.681 ], [ 146.193, -15.714 ], [ 146.154, -15.749 ], [ 146.115, -15.784 ], [ 146.076, -15.822 ], [ 146.038, -15.86 ], [ 146, -15.9 ], [ 145.963, -15.941 ], [ 145.928, -15.982 ], [ 145.893, -16.024 ], [ 145.859, -16.066 ], [ 145.827, -16.108 ], [ 145.796, -16.151 ], [ 145.766, -16.195 ], [ 145.736, -16.238 ], [ 145.709, -16.283 ], [ 145.682, -16.327 ], [ 145.656, -16.372 ], [ 145.632, -16.418 ], [ 145.609, -16.463 ], [ 145.587, -16.509 ], [ 145.567, -16.556 ], [ 145.547, -16.602 ], [ 145.529, -16.649 ], [ 145.512, -16.697 ], [ 145.497, -16.744 ], [ 145.482, -16.792 ], [ 145.47, -16.841 ], [ 145.458, -16.889 ], [ 145.448, -16.938 ], [ 145.439, -16.987 ], [ 145.431, -17.036 ], [ 145.425, -17.086 ], [ 145.421, -17.135 ], [ 145.417, -17.185 ], [ 145.415, -17.235 ], [ 145.415, -17.286 ], [ 145.416, -17.336 ], [ 145.418, -17.387 ], [ 145.422, -17.437 ], [ 145.428, -17.488 ], [ 145.435, -17.539 ], [ 145.443, -17.591 ], [ 145.453, -17.642 ], [ 145.465, -17.693 ], [ 145.478, -17.745 ], [ 145.493, -17.797 ], [ 145.509, -17.848 ], [ 145.527, -17.9 ], [ 145.547, -17.951 ], [ 145.569, -18 ], [ 145.593, -18.046 ], [ 145.619, -18.09 ], [ 145.647, -18.131 ], [ 145.677, -18.17 ], [ 145.709, -18.207 ], [ 145.742, -18.241 ], [ 145.777, -18.274 ], [ 145.813, -18.305 ], [ 145.851, -18.334 ], [ 145.89, -18.362 ], [ 145.93, -18.388 ], [ 145.972, -18.413 ], [ 146.015, -18.436 ], [ 146.059, -18.459 ], [ 146.104, -18.48 ], [ 146.15, -18.5 ], [ 146.197, -18.52 ], [ 146.244, -18.539 ], [ 146.293, -18.557 ], [ 146.342, -18.575 ], [ 146.391, -18.593 ], [ 146.442, -18.61 ], [ 146.492, -18.627 ], [ 146.543, -18.644 ], [ 146.594, -18.662 ], [ 146.646, -18.679 ], [ 146.698, -18.697 ], [ 146.75, -18.715 ], [ 146.802, -18.734 ], [ 146.853, -18.754 ], [ 146.905, -18.774 ], [ 146.957, -18.795 ], [ 147.008, -18.818 ], [ 147.059, -18.841 ], [ 147.108, -18.865 ], [ 147.156, -18.888 ], [ 147.203, -18.911 ], [ 147.249, -18.934 ], [ 147.295, -18.956 ], [ 147.341, -18.978 ], [ 147.386, -18.998 ], [ 147.431, -19.018 ], [ 147.476, -19.035 ], [ 147.521, -19.051 ], [ 147.567, -19.065 ], [ 147.612, -19.077 ], [ 147.658, -19.087 ], [ 147.704, -19.094 ], [ 147.752, -19.099 ], [ 147.799, -19.1 ], [ 147.848, -19.098 ], [ 147.897, -19.093 ], [ 147.948, -19.084 ], [ 148, -19.071 ], [ 148.05, -19.053 ], [ 148.093, -19.029 ], [ 148.13, -19 ], [ 148.163, -18.966 ], [ 148.192, -18.928 ], [ 148.218, -18.886 ], [ 148.242, -18.843 ], [ 148.264, -18.797 ], [ 148.285, -18.751 ], [ 148.307, -18.704 ], [ 148.329, -18.658 ], [ 148.353, -18.613 ], [ 148.38, -18.57 ], [ 148.41, -18.529 ], [ 148.445, -18.492 ], [ 148.484, -18.458 ], [ 148.529, -18.429 ], [ 148.579, -18.405 ], [ 148.629, -18.383 ], [ 148.68, -18.364 ], [ 148.732, -18.347 ], [ 148.784, -18.333 ], [ 148.837, -18.321 ], [ 148.89, -18.311 ], [ 148.943, -18.303 ], [ 148.997, -18.296 ], [ 149.051, -18.29 ], [ 149.105, -18.285 ], [ 149.159, -18.281 ], [ 149.212, -18.278 ], [ 149.266, -18.275 ], [ 149.319, -18.272 ], [ 149.372, -18.269 ], [ 149.424, -18.265 ], [ 149.476, -18.261 ], [ 149.527, -18.257 ], [ 149.577, -18.251 ], [ 149.626, -18.244 ], [ 149.675, -18.236 ], [ 149.722, -18.226 ], [ 149.768, -18.214 ], [ 149.813, -18.201 ], [ 149.857, -18.185 ], [ 149.899, -18.166 ], [ 149.939, -18.145 ], [ 149.978, -18.12 ], [ 150.016, -18.093 ], [ 150.051, -18.062 ], [ 150.085, -18.027 ], [ 150.117, -17.989 ], [ 150.146, -17.947 ], [ 150.174, -17.9 ], [ 150.198, -17.851 ], [ 150.22, -17.803 ], [ 150.24, -17.754 ], [ 150.257, -17.705 ], [ 150.271, -17.656 ], [ 150.283, -17.606 ], [ 150.293, -17.557 ], [ 150.3, -17.508 ], [ 150.305, -17.459 ], [ 150.307, -17.409 ], [ 150.308, -17.36 ], [ 150.307, -17.31 ], [ 150.303, -17.261 ], [ 150.298, -17.212 ], [ 150.29, -17.163 ], [ 150.281, -17.114 ], [ 150.27, -17.065 ], [ 150.257, -17.016 ], [ 150.243, -16.967 ], [ 150.227, -16.918 ], [ 150.209, -16.87 ], [ 150.19, -16.822 ], [ 150.169, -16.774 ], [ 150.148, -16.726 ], [ 150.124, -16.679 ], [ 150.1, -16.632 ], [ 150.074, -16.585 ], [ 150.047, -16.538 ], [ 150.019, -16.492 ], [ 149.991, -16.446 ], [ 149.961, -16.4 ], [ 149.93, -16.355 ], [ 149.898, -16.31 ], [ 149.866, -16.266 ], [ 149.833, -16.222 ], [ 149.799, -16.178 ], [ 149.765, -16.135 ], [ 149.765, -16.135 ] ] ]
+      }
+    }, {
+      "type" : "Feature",
+      "properties" : {
+        "time" : "2026-01-10T12:00:00Z",
+        "type" : "Analysis",
+        "windSpeedKts" : 48
+      },
+      "geometry" : {
+        "type" : "Polygon",
+        "coordinates" : [ [ [ 148, -17.9 ], [ 148.001, -17.844 ], [ 148.005, -17.788 ], [ 148.011, -17.732 ], [ 148.019, -17.677 ], [ 148.028, -17.622 ], [ 148.039, -17.567 ], [ 148.051, -17.512 ], [ 148.063, -17.458 ], [ 148.077, -17.404 ], [ 148.09, -17.351 ], [ 148.103, -17.298 ], [ 148.116, -17.245 ], [ 148.128, -17.193 ], [ 148.139, -17.142 ], [ 148.149, -17.091 ], [ 148.157, -17.04 ], [ 148.164, -16.991 ], [ 148.168, -16.942 ], [ 148.171, -16.893 ], [ 148.17, -16.845 ], [ 148.167, -16.798 ], [ 148.16, -16.752 ], [ 148.15, -16.707 ], [ 148.136, -16.662 ], [ 148.118, -16.618 ], [ 148.096, -16.575 ], [ 148.069, -16.533 ], [ 148.037, -16.492 ], [ 148, -16.452 ], [ 147.961, -16.416 ], [ 147.919, -16.386 ], [ 147.876, -16.361 ], [ 147.832, -16.341 ], [ 147.785, -16.326 ], [ 147.738, -16.316 ], [ 147.69, -16.31 ], [ 147.64, -16.308 ], [ 147.59, -16.311 ], [ 147.54, -16.317 ], [ 147.489, -16.327 ], [ 147.437, -16.34 ], [ 147.386, -16.356 ], [ 147.335, -16.375 ], [ 147.284, -16.397 ], [ 147.233, -16.422 ], [ 147.183, -16.449 ], [ 147.134, -16.478 ], [ 147.085, -16.509 ], [ 147.038, -16.542 ], [ 146.992, -16.576 ], [ 146.947, -16.611 ], [ 146.904, -16.648 ], [ 146.863, -16.685 ], [ 146.824, -16.724 ], [ 146.785, -16.763 ], [ 146.748, -16.804 ], [ 146.711, -16.847 ], [ 146.676, -16.892 ], [ 146.642, -16.938 ], [ 146.609, -16.985 ], [ 146.578, -17.034 ], [ 146.549, -17.083 ], [ 146.522, -17.133 ], [ 146.497, -17.184 ], [ 146.475, -17.235 ], [ 146.456, -17.286 ], [ 146.44, -17.337 ], [ 146.427, -17.389 ], [ 146.417, -17.44 ], [ 146.411, -17.49 ], [ 146.408, -17.54 ], [ 146.41, -17.59 ], [ 146.416, -17.638 ], [ 146.426, -17.685 ], [ 146.441, -17.732 ], [ 146.461, -17.776 ], [ 146.486, -17.819 ], [ 146.516, -17.861 ], [ 146.552, -17.9 ], [ 146.592, -17.937 ], [ 146.633, -17.969 ], [ 146.675, -17.996 ], [ 146.718, -18.018 ], [ 146.762, -18.036 ], [ 146.807, -18.05 ], [ 146.852, -18.06 ], [ 146.898, -18.067 ], [ 146.945, -18.07 ], [ 146.993, -18.071 ], [ 147.042, -18.068 ], [ 147.091, -18.064 ], [ 147.14, -18.057 ], [ 147.191, -18.049 ], [ 147.242, -18.039 ], [ 147.293, -18.028 ], [ 147.345, -18.016 ], [ 147.398, -18.003 ], [ 147.451, -17.99 ], [ 147.504, -17.977 ], [ 147.558, -17.963 ], [ 147.612, -17.951 ], [ 147.667, -17.939 ], [ 147.722, -17.928 ], [ 147.777, -17.919 ], [ 147.832, -17.911 ], [ 147.888, -17.905 ], [ 147.944, -17.901 ], [ 148, -17.9 ], [ 148, -17.9 ], [ 148, -17.9 ], [ 148, -17.9 ], [ 148, -17.9 ] ] ]
+      }
+    }, {
+      "type" : "Feature",
+      "properties" : {
+        "time" : "2026-01-10T18:00:00Z",
+        "type" : "Analysis",
+        "windSpeedKts" : 34
+      },
+      "geometry" : {
+        "type" : "Polygon",
+        "coordinates" : [ [ [ 148.841, -18.059 ], [ 148.812, -18.013 ], [ 148.782, -17.968 ], [ 148.753, -17.924 ], [ 148.724, -17.88 ], [ 148.695, -17.837 ], [ 148.665, -17.794 ], [ 148.636, -17.753 ], [ 148.606, -17.712 ], [ 148.575, -17.672 ], [ 148.545, -17.634 ], [ 148.513, -17.596 ], [ 148.481, -17.56 ], [ 148.448, -17.525 ], [ 148.414, -17.491 ], [ 148.379, -17.459 ], [ 148.343, -17.428 ], [ 148.306, -17.399 ], [ 148.267, -17.371 ], [ 148.227, -17.345 ], [ 148.186, -17.321 ], [ 148.143, -17.299 ], [ 148.098, -17.279 ], [ 148.051, -17.261 ], [ 148.003, -17.244 ], [ 147.952, -17.23 ], [ 147.9, -17.218 ], [ 147.846, -17.208 ], [ 147.793, -17.2 ], [ 147.74, -17.192 ], [ 147.688, -17.186 ], [ 147.636, -17.181 ], [ 147.584, -17.178 ], [ 147.532, -17.176 ], [ 147.481, -17.176 ], [ 147.431, -17.177 ], [ 147.38, -17.18 ], [ 147.331, -17.184 ], [ 147.281, -17.189 ], [ 147.232, -17.197 ], [ 147.184, -17.206 ], [ 147.136, -17.216 ], [ 147.089, -17.228 ], [ 147.042, -17.242 ], [ 146.996, -17.258 ], [ 146.95, -17.275 ], [ 146.905, -17.294 ], [ 146.86, -17.315 ], [ 146.816, -17.338 ], [ 146.773, -17.363 ], [ 146.73, -17.389 ], [ 146.688, -17.417 ], [ 146.647, -17.448 ], [ 146.606, -17.48 ], [ 146.566, -17.514 ], [ 146.527, -17.55 ], [ 146.488, -17.588 ], [ 146.45, -17.629 ], [ 146.412, -17.671 ], [ 146.375, -17.715 ], [ 146.339, -17.759 ], [ 146.305, -17.805 ], [ 146.272, -17.851 ], [ 146.24, -17.899 ], [ 146.211, -17.947 ], [ 146.183, -17.996 ], [ 146.156, -18.045 ], [ 146.132, -18.096 ], [ 146.11, -18.146 ], [ 146.09, -18.197 ], [ 146.072, -18.248 ], [ 146.057, -18.3 ], [ 146.044, -18.352 ], [ 146.034, -18.403 ], [ 146.027, -18.455 ], [ 146.023, -18.507 ], [ 146.021, -18.558 ], [ 146.023, -18.609 ], [ 146.028, -18.66 ], [ 146.036, -18.711 ], [ 146.048, -18.761 ], [ 146.063, -18.81 ], [ 146.082, -18.859 ], [ 146.105, -18.907 ], [ 146.131, -18.954 ], [ 146.162, -19 ], [ 146.195, -19.043 ], [ 146.23, -19.08 ], [ 146.266, -19.114 ], [ 146.303, -19.143 ], [ 146.343, -19.168 ], [ 146.383, -19.19 ], [ 146.425, -19.208 ], [ 146.468, -19.223 ], [ 146.513, -19.235 ], [ 146.558, -19.244 ], [ 146.605, -19.251 ], [ 146.653, -19.255 ], [ 146.701, -19.258 ], [ 146.751, -19.258 ], [ 146.801, -19.257 ], [ 146.852, -19.255 ], [ 146.904, -19.252 ], [ 146.956, -19.248 ], [ 147.009, -19.244 ], [ 147.063, -19.239 ], [ 147.117, -19.234 ], [ 147.171, -19.229 ], [ 147.226, -19.225 ], [ 147.28, -19.222 ], [ 147.335, -19.219 ], [ 147.39, -19.217 ], [ 147.445, -19.217 ], [ 147.5, -19.219 ], [ 147.555, -19.222 ], [ 147.61, -19.227 ], [ 147.665, -19.235 ], [ 147.717, -19.253 ], [ 147.768, -19.279 ], [ 147.815, -19.302 ], [ 147.86, -19.31 ], [ 147.9, -19.29 ], [ 147.919, -19.243 ], [ 147.911, -19.186 ], [ 147.889, -19.126 ], [ 147.87, -19.07 ], [ 147.869, -19.025 ], [ 147.9, -19 ], [ 147.953, -18.989 ], [ 148.005, -18.984 ], [ 148.058, -18.982 ], [ 148.111, -18.985 ], [ 148.163, -18.99 ], [ 148.216, -18.999 ], [ 148.268, -19.009 ], [ 148.319, -19.021 ], [ 148.371, -19.035 ], [ 148.422, -19.049 ], [ 148.472, -19.062 ], [ 148.522, -19.076 ], [ 148.572, -19.088 ], [ 148.62, -19.099 ], [ 148.668, -19.107 ], [ 148.715, -19.113 ], [ 148.762, -19.116 ], [ 148.807, -19.115 ], [ 148.852, -19.109 ], [ 148.895, -19.099 ], [ 148.938, -19.084 ], [ 148.979, -19.063 ], [ 149.02, -19.035 ], [ 149.059, -19 ], [ 149.093, -18.961 ], [ 149.12, -18.92 ], [ 149.14, -18.877 ], [ 149.153, -18.833 ], [ 149.16, -18.788 ], [ 149.162, -18.741 ], [ 149.158, -18.694 ], [ 149.15, -18.646 ], [ 149.137, -18.597 ], [ 149.12, -18.547 ], [ 149.1, -18.498 ], [ 149.077, -18.448 ], [ 149.051, -18.398 ], [ 149.024, -18.348 ], [ 148.994, -18.298 ], [ 148.964, -18.249 ], [ 148.933, -18.2 ], [ 148.902, -18.152 ], [ 148.871, -18.105 ], [ 148.841, -18.059 ], [ 148.841, -18.059 ] ] ]
+      }
+    } ]
+  }
+}

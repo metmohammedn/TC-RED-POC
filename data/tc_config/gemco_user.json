@@ -1,0 +1,27 @@
+{
+  "user_name": "GEMCO",
+  "locations": [
+    {
+      "name": "Milner Bay",
+      "lat": -13.86,
+      "lon": 136.25,
+      "type": "offshore",
+      "cat1_threshold": 300,
+      "cat2_threshold": 300,
+      "cat3_threshold": 500,
+      "cat4_threshold": 500,
+      "cat5_threshold": 500
+    },
+    {
+      "name": "Darwin",
+      "lat": -12.4,
+      "lon": 130.9,
+      "type": "city",
+      "cat1_threshold": 300,
+      "cat2_threshold": 300,
+      "cat3_threshold": 500,
+      "cat4_threshold": 500,
+      "cat5_threshold": 500
+    }
+  ]
+}

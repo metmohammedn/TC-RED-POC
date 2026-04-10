@@ -1,0 +1,75 @@
+{
+  "user_name": "Atlas Iron",
+  "locations": [
+    {
+      "name": "McPhee Creek",
+      "lat": -21.004,
+      "lon": 119.319,
+      "type": "offshore",
+      "cat1_threshold": 300,
+      "cat2_threshold": 300,
+      "cat3_threshold": 500,
+      "cat4_threshold": 500,
+      "cat5_threshold": 500,
+      "range_rings": [
+        100
+      ]
+    },
+    {
+      "name": "Abydos/Miralga",
+      "lat": -21.14,
+      "lon": 118.92,
+      "type": "offshore",
+      "cat1_threshold": 300,
+      "cat2_threshold": 300,
+      "cat3_threshold": 500,
+      "cat4_threshold": 500,
+      "cat5_threshold": 500,
+      "range_rings": [
+        100
+      ]
+    },
+    {
+      "name": "Mt Webber",
+      "lat": -21.53,
+      "lon": 119.28,
+      "type": "offshore",
+      "cat1_threshold": 300,
+      "cat2_threshold": 300,
+      "cat3_threshold": 500,
+      "cat4_threshold": 500,
+      "cat5_threshold": 500,
+      "range_rings": [
+        100
+      ]
+    },
+    {
+      "name": "Sanjiv Ridge",
+      "lat": -21.4,
+      "lon": 119.68,
+      "type": "offshore",
+      "cat1_threshold": 300,
+      "cat2_threshold": 300,
+      "cat3_threshold": 500,
+      "cat4_threshold": 500,
+      "cat5_threshold": 500,
+      "range_rings": [
+        100
+      ]
+    },
+    {
+      "name": "Port Hedland",
+      "lat": -20.31,
+      "lon": 118.61,
+      "type": "offshore",
+      "cat1_threshold": 300,
+      "cat2_threshold": 300,
+      "cat3_threshold": 500,
+      "cat4_threshold": 500,
+      "cat5_threshold": 500,
+      "range_rings": [
+        100
+      ]
+    }
+  ]
+}
